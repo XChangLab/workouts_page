@@ -1,6 +1,7 @@
 import React, { lazy, useState, Suspense } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from 'recharts';
 import { useNavigate } from 'react-router-dom';
+import prettyMilliseconds from 'pretty-ms';
 import activities from '@/static/activities.json';
 import styles from './style.module.css';
 import { ACTIVITY_TOTAL, TYPES_MAPPING } from "@/utils/const";
@@ -78,10 +79,7 @@ const ActivityCard: React.FC<ActivityCardProps> = ({ period, summary, dailyDista
     }));
 
     const formatTime = (seconds: number): string => {
-        const h = Math.floor(seconds / 3600);
-        const m = Math.floor((seconds % 3600) / 60);
-        const s = Math.floor(seconds % 60);
-        return `${h}h ${m}m ${s}s`;
+        return prettyMilliseconds(seconds * 1000, { hideSeconds: true });
     };
 
     const formatPace = (speed: number): string => {
