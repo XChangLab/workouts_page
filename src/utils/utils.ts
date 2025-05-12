@@ -4,6 +4,7 @@ import { WebMercatorViewport } from 'viewport-mercator-project';
 import { chinaGeojson, RPGeometry } from '@/static/run_countries';
 import worldGeoJson from '@surbowl/world-geo-json-zh/world.zh.json';
 import { chinaCities } from '@/static/city';
+import prettyMilliseconds from 'pretty-ms';
 import {
   MAIN_COLOR,
   MUNICIPALITY_CITIES_ARR,
@@ -78,12 +79,9 @@ const convertMovingTime2Sec = (moving_time: string): number => {
 
 const formatRunTime = (moving_time: string): string => {
   const totalSeconds = convertMovingTime2Sec(moving_time);
-  const seconds = totalSeconds % 60;
-  const minutes = (totalSeconds - seconds) / 60;
-  if (minutes === 0) {
-    return seconds + 's';
-  }
-  return minutes + 'min';
+  return prettyMilliseconds(totalSeconds * 1000, {
+    hideSeconds: true
+  })
 };
 
 // for scroll to the map
