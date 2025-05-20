@@ -1134,5 +1134,21 @@
 "elevation_gain": 39.1,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14529064714,
+"name": "Ride to Jinchang Rd",
+"distance": 42073.0,
+"moving_time": "1:50:24",
+"type": "Ride",
+"start_date": "2025-05-19 10:33:47+00:00",
+"start_date_local": "2025-05-19 18:33:47",
+"location_country": "\u7518\u6eaa\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "wko}DyqtcVATLVPFhF]\\g@l@A`@\\tAAJVOtFIZErDu@fXInB]dD{@~CgHPuHn@uFKYb@kCbRUNoNh@_IDyFPOOS@cADIPqHRCWy@L}BKo@JaAXiAl@_FzHy@n@wAd@uFh@SIe@PcEZc@EUJaFd@ga@fCiC`@{Br@WEQVeBp@QTcP`GuDv@eE|AERkFlBOGIRqAd@c@EuI`DaD`BiBvAkBhCSNmGfMaBrBkAbA_LbGgBj@oCDe@QcM}AiBc@_M{AuHWqB@iHcAaALc@\\Op@iDzg@m@|K[nDKNa@ZyDIuET{a@jFoA`@sDjl@_@~Ck@rCy@`C{@bBgC`DcMrLyAhCg@xAmCpImBpHuLjq@wDzTKLSCiB_A_OeDcCRaFzBlAk@\\NpBu@x@IFq@EbCgBfJmJfc@QF_@zAHV[RqDdOeBdJMRMnAkE`SuAdIc@jBWd@UjACt@oIb`@[|@WlBgCjKeE|RyApJ_AlIgBdX]vC?jB[dEm@lEElBy@lG}@nEg@~AsAvHg@jBgF|PaAbC}@tDs@jB{DtRqArJEhAf@FLU\\{EdBoKpB}I`B{FdCyG`@Nd@OlA}IK[nDuOh@}AC]hBkL`BkQXw@j@gIM[PeCNKI]NwBN_@`@sD\\wGhAgIPyBf@wCrB}JrFcWhAeEnBiKvEgTvBeIbFiUd@wAx@eFhEkRxAgJNIXmAJ{@jAcG^kAdGoZf@uABiAvDyT?e@dAsH\\}Al@aEA_@j@cELYPiBzBmNNwBxBoO|@uED_Al@eDt@uF@w@I]CTXA^sBhBmNH{AvFy`@zBkS\\sFV_CN[CqBx@uJd@sLJQHy@G[Pw@Au@d@mHz@cLnCuW`@oARyAVqD~Dq]hBwJdCuLnAoFrAuHlBmPh@eGjByN~@qJ\\oEN{EpBuLvAkLNm@bCoTzAmPbAgHdBePpAmNQk@y@Ws@o@aCmDeB_B_By@k@C]Va@~Bq@vGeApGLt@v@h@rGl@EStF~@lL`AdCBnAHxB\\jAIhBAvKfBx@ZzEb@VPRI~J~@dCPhHvCrFdBhIlBf@Z~@HhLhDpHlBdAJvGdBxKhDPS~WbHJRlBd@\\A`NlDJVtA^h@Gx@Tf@\\pDj@hHnBVl@`@Zx@_@vBt@\\?~I`C|LfGf@h@bM`GhE~ArCf@jFp@rICLTpA?JSVThAJ`AC@U@Rz@HTAFYnGHlAb@hBGTOfGH`CRrBSl@J~CDROlGa@p@K",
+"average_heartrate": null,
+"average_speed": 6.352,
+"elevation_gain": 114.4,
+"source": "strava",
+"streak": 1
 }
 ]
