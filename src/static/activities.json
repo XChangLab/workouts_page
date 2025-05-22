@@ -1150,5 +1150,21 @@
 "elevation_gain": 114.4,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14549828748,
+"name": "Ride to Shenlan/W Guangfu/Changning Rd",
+"distance": 30329.2,
+"moving_time": "1:16:11",
+"type": "Ride",
+"start_date": "2025-05-21 10:48:09+00:00",
+"start_date_local": "2025-05-21 18:48:09",
+"location_country": "\u674f\u82b1\u697c, \u4ed9\u971e\u897f\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "w|n}DwttcVDXAOK`AIlDGLQlFHJKXOhFFJKlEYfJSzEm@hD[fAc@PeGL{Fp@iHEc@d@qAfJc@xBGAh@^a@UKLa@xBoO^aEVa@IYNg@v@VbGvCxZr@rD~BrTbAnFf@hBfAV~D?|Ed@|@ThB~@rBl@bAAj@TfALjBAXd@AZXrBv@nI@|@Jl@v@dA|A`@jA@ZKJNf@FhEP^@b@Eh@H`CAj@PFTDzEItCFtANx@FhEIz@LbCA|CBTf@VxD?zL]lBKtHoAbCFl@KfBw@lLcBROjAG~@L~EYXJbCC~@Ph@q@xBB`@S|ANv@OvAAc@?Dc@@Lh@KtFHjCMf@FjCWp@Lh@TPO~@E^SbGItAf@dBGtBo@pGCpBRdDt@tCrAnDbCJ`@jA~@|AzCj@hBIJNf@tB~Eb@j@hCzG^QB]}B{FwCcJs@eB{@iA}@_Am@U[w@uBmByAcAoCcAeDs@wEYcEHkBa@uAEeDjAUOq@CkDZiBAi@MgABa@Sa@CkEt@mIPSLWMgDVmAIeBNGLa@Ba@S_I\\k@MoA^{HfA_@Re@CiBVkAWiALcBjA}IpA}GX{n@lAqAYm@k@Wk@Kg@w@gKk@qASEoBP_InBa@GE]LqALcIAcJKmEs@_He@eD{D{SqAwMyBcSyByQEeELwGf@eHT{FAcBZmJGy@JaDPeBHqCn@yJLkECcB\\uK_@m@SGcKw@_Eb@eI~AmBLOMGYC{AFaHGaEM{@a@g@k@WmE_@eGmB}PwIiBq@kFwCWa@BYxBiEpAgDlBqDTO^Fj@l@|@^nCrBdC`Bz@\\NEt@cB~@kA`BgAx@M~AkAJWRE\\e@`@qBPgIZmCd@_BdCsDhGqD\\GdAaAlAwBl@sBNiBHcDUcCWqNVuCtAgH`@sEDaFS_JFwB~BkIX_BTeCEaADk@DuQEaDYeC}C_Lu@_CSc@k@gDAs@Le@?aAMaB?yANsDx@iHAsFQmCe@mDg@qCy@kCvAs@b@hB\\ZpER~Ad@dFt@b@TCb@i@tBUxAEp@KTQjGTtKZtCl@~BFhAQvCWb@e@zCKpCJnKC`HLv@G~BZvKEpDKvCYzCeAdHuA~G_AnHC|DLdBOpCNxEStBUj@GpAUdABZOMFjCGx@XvCf@`@Sl@EzAJzACZHH?n@VlBA`Bc@lBo@PwDdC{CxCy@hBkDdMVp@p@z@RF|BJ`IJjCU~OVdITbIa@fMsAlAE^JP`@@f@eA`QWdI]|E",
+"average_heartrate": null,
+"average_speed": 6.635,
+"elevation_gain": 64.8,
+"source": "strava",
+"streak": 1
 }
 ]
