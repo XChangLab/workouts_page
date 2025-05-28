@@ -26,10 +26,10 @@ const data: ISiteMetadataResult = {
       name: 'Summary',
       url: `${getBasePath()}/summary`,
     },
-    // {
-    //   name: 'Blog',
-    //   url: 'https://ben29.xyz',
-    // },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/XChangLab/workouts_page',
+    },
     // {
     //   name: 'About',
     //   url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
