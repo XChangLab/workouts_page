@@ -167,8 +167,8 @@ export {
 
 const nike = 'rgb(224,237,94)';
 const yellow = 'rgb(224,237,94)';
-const green = '#FC5200';
-const pink = 'rgb(237,85,219)';
+const green = 'rgb(0,237,94)';
+const pink = 'rgb(2, 2, 2)';
 const cyan = 'rgb(112,243,255)';
 const IKB = 'rgb(0,47,167)';
 const dark_vanilla = 'rgb(228,212,220)';
