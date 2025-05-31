@@ -1214,5 +1214,21 @@
 "elevation_gain": 90.3,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14646079062,
+"name": "Changning Greenway Loop",
+"distance": 29225.8,
+"moving_time": "1:09:11",
+"type": "Ride",
+"start_date": "2025-05-30 22:30:07+00:00",
+"start_date_local": "2025-05-31 06:30:07",
+"location_country": "\u597d\u5f97\u6765\u6c34\u679c\u8d85\u5e02, \u798f\u6cc9\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "otn}DubucVvLw@pHSxEk@rFYP\\k@nL@nAFl@h@|@lDhA~HcA|Jg@rCBHJCdAVpCn@r@FTWVcHf@_At@yA^sBOcBt@}Cy@gAn@qE|@_F^}AbBaCXuELcBj@aCJoCv@wCLu@u@Qi@o@I_@b@gAhD_@FwBs@qBNo@h@uAfD_An@oKx@wAx@_Cf@qBAeLnEgHxCuAYaDHg@TcAjA}BlAuEp@w@AqBo@}@C}TpDu@B_Aa@gAIoAz@qANmFu@sDGkCpAk@LyBUwC`AyENu@GaAo@iBfAi@JiCUsBeA}BRsEuBaB^aAASOEg@v@kCK`Ak@rAAf@PT`@DvBk@r@CrDjBpCC~BlAfBHjC_AxAj@j@DdGa@hBe@fBJvD}A`DDhEh@tBQrBaAdDd@dDq@vPmBjDt@dAAxEu@dFmCpA_@|@q@pBc@fAPlCg@jD}A|G_CpBDpCu@nAs@|Iw@bB_ApAsCn@m@pBO|Bf@h@EnBkE\\Dn@bAZRxBKnDw@`CC|Ai@tFQbCk@pA{A~E]rAc@~BYbAa@|Cp@dBy@tBL`Bi@j@m@vAQnCFJ`BDk@QGSm@^n@SFi@o@m@OqBJmAK{CgBqGFyFr@eMhDqYlE{@d@kBtE_@@mBs@uBVk@d@aBbDy@n@cKt@eDpA_BXuAE}T`Je@IOPgFj@oErB_Fx@s@AmBm@{@AqUjDg@?eAg@aAGmAv@kBTsEw@mDEuDfBgCO_Cn@sFTk@GiAk@s@Xk@j@i@LeCGeCiAqBNuEqBk@@mA^e@A[W@w@^gADu@DFQuAAg@X_@lMjAtFVlFAxi@cBhB[Xu@K{B@uPrA}L\\sAPwESkAq@Gu\\pH_FtBgTpH}@z@YlAZ~FJXTHvIyC|D_Aff@wGPHFT[bBDnGUp@uVnAwL|@Y\\A\\pAhHCZ]VsQ@aScBQPGv@\\dAAzAe@hAAz@VVd@@~BYrEpBdCI~BdAhBJt@MhB}@vBr@~EQnCq@xBRtBaAjAWtDDbEf@lBUnA{@|@F`B^lVuDt@BxBn@jAAbEq@hFkCdAWv@{@Qk@CFz@r@VAfHyAjM_FvAH~Cq@xAs@fKaA`As@vA{Cn@k@fBMxBj@^C|AsDXW\\F\\j@l@`@|CKrCo@~BGpAi@dFIhCa@TMdAuAbF[pE}@tAm@lAn@p@LpBu@pBNzAg@n@m@j@G",
+"average_heartrate": null,
+"average_speed": 7.041,
+"elevation_gain": 147.0,
+"source": "strava",
+"streak": 1
 }
 ]
