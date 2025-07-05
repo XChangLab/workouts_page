@@ -1374,5 +1374,21 @@
 "elevation_gain": 92.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15009404496,
+"name": "Morning Ride To Sheshan",
+"distance": 59970.0,
+"moving_time": "2:18:56",
+"type": "Ride",
+"start_date": "2025-07-04 21:09:59+00:00",
+"start_date_local": "2025-07-05 05:09:59",
+"location_country": "\u798f\u6cc9\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "}jn}DaducVvp@mEPi@CaFW{OYuCHYhC_AjHkFvEwEbIuFjTgBSdOV`Ej@xDbAxCrF|HpAfCnFxTrAxHtK}@lEVv@f@dB`GdGjZdDtIbDhFbYf`@dBpCd@|AvBbCxExIzFtJjBhCnC`FvFdPtChLXhEAtC]lEu@pEoFlM}BdHo@pDsA|M_AxODxJuArQw@bCRdC}@fLkDneAc@dEFjDQhGHbDb@fDdDtM|EvObPlk@tW``A|CfGhVl^bUdd@vQhe@hCzJv@vEt@tHVpM_Bji@oDbk@@`Jx@bNz@t@p@PrNq@|GoA|IoD|KwCzK{@|MJpY~@~D\\rNbD~^pKlJ~@fIJlc@aDfb@qDvm@}FXp@nAzO~@pFdQvi@z@`E\\zE@pDoA`MEdC\\xDrAtDdCrCtD|ApCV`KUrFJbEp@fDnAhCbBj@vA~@L\\XxMvSjDlCfBv@iFxLoTxT@b@t@|BhAj@vBFb@l@?`Bc@vD|@fHv@tCJ|Ba@rEg@bB}G|Fw@tAq@tDGxADbDj@nFq@NeBKmBcAs@u@e@qAOmDs@gC]gDm@}Am@oCe@m@oB_@RqAGaBeBgFMsAb@wPRyAI]_@WsMcAqAyAAqB|@kMKqAi@yAqA_AwIsA[e@e@eCYg@sD{A_E{D{HmGs@K}Dn@iAUUi@YsDaAkFcBgAgBd@a@Ge@u@m@cCDg@rBy@dFsDjBeCZs@JcDrBcCh@gBb@{B`RwAnGeB|C\\^a@HsHg@mGcAiEqPih@qA{Hu@iN[gA_A]cl@dFyi@dFSc@kFqt@]oAy@{@yA[wl@iAun@sCg@WSmSpC_t@dAqMF}AMe@cPiFwVmDiBAwTtAMwCHaBe@wKYyFYqA[w@YO{EhB_@UEoBsK{jAaFwe@wGey@g@_AyCuBaCqH@aA|@}BHy@QgA_A}AM_AbA{EZeCBwBUeDqDiVeDwPiHc\\_Mug@_@DeChBY?_BaEqSsa@YOu@l@pA[hH|OdMzVI\\aIbF]sAkJiTk@KmBdBYAoHeQ@Sp@Ys@ZUMmIgRgGyLK{Ap@sCO{AnBkFhDeH|@cE^sFAmEWqDqAmF{JyX_DwFkXmc@aReW_AcB_BgByFiJeBwE{CuMwCyNQ_CoAkHkCIyDp@{H`@_@I]k@}GqXiA_C{FaIeAwC}@cIViMIwBi@QqJrAqIr@yHzFqErEaIjFeBb@KpAXjDDdIk@X}O~@Wh@YdIWh@gMl@_B\\sObA",
+"average_heartrate": null,
+"average_speed": 7.194,
+"elevation_gain": 121.0,
+"source": "strava",
+"streak": 1
 }
 ]
