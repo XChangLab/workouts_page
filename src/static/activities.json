@@ -1390,5 +1390,21 @@
 "elevation_gain": 121.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15057616610,
+"name": "Ride to Lanxiang Lake",
+"distance": 50330.1,
+"moving_time": "2:09:16",
+"type": "Ride",
+"start_date": "2025-07-09 10:51:36+00:00",
+"start_date_local": "2025-07-09 18:51:36",
+"location_country": "\u5251\u6cb3\u8def, \u7a0b\u5bb6\u6865\u8857\u9053, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200336, \u4e2d\u56fd",
+"summary_polyline": "czk}DuxwcV|HkHxBaBdJkFxEuBRi@IeADOzEqEpDyDzQoNt@a@tEsDbJsHbBg@rOwBXUZg@@Qg@eCkBgLBOPIjDk@x`@oIhBQrIaBtHoBrN{C`TmFhH{AnAg@xP_EpDm@lAg@xCs@xE}@rEiAjAe@~q@yOvAk@nTeFdO}FzUmIXUjEcBfA_@V?rCuAxH{CnAOzGGzPq@x^m@jH_@nADb^_AjKeArGyArG_CbJmFbCgApA}@|a@uMlAYpB{@fCs@z@k@lS_JtAe@nAu@fPeHdRyIjFuBzC}AvNeGzOkHvH{CtOmHpS_JvAc@zTcKvl@}QlLeDxMmEvWwHxg@qOpFmBhBk@jDw@`DoA|DwBpOaLzO}LnCgBlF}BhZyJhk@}RT_@Dq@cBcLNyBSwBb@cAGeAa@gBgBsBcCsNyAsHWk@kBcCUyAw@gBe@gBaCqMQ_B@u@d@yEi@uCU_CPa@`JqE^?@_@_@gCD\\l@[S{AEeEOkA@]pBqBnAmCrAq@z@y@n@FgAK_@j@_EbC_B\\ClAWlAUbDJlDd@lD_KpE[KQkAy@_D]e@c@UqIl@]PwA~Ac@Nc@Ky@uAaBLeCgAk@EsALwAh@kIn@iBhBQDya@|BuQzCeBb@wAe@wAP_C@cB\\kAjAeCn@oAx@s]pGkHfAkFlAqSrDaFjA}APiEfA{AA{CTy@^}ArB{@\\yN~CaLbBgBLcED}]CcS}AkFBaRfCu]vFaMfCc[fHaHlAsXjGe@TaHhAsBPwP?uJa@wDa@iHcA_FaAwFeBwRwD{Gw@oEOaKBiAKkRf@iC@{FbAmBJaQtCsg@pM{@HoAEi@H{J~Cc@\\i@v@qAXmFpBmDz@}H^eQXqETwWl@cD?mUv@kD?kGd@{Cr@sBt@_@?eBrA}@tAm@\\cFbBsB@k@JkEhCsNdGiCn@eCZu@M}@_@{AXw@p@o@HiB[cA@_APaBdAkCTc@MeAVcGKyJHiBXgC~@mCtA}CdCs@`AoApDYxA[n@m@bDy@|CmChGoB~DiAdB{AbDgEjYmD|Xk@dC]z@ST[lA[n@eBzBiB`B_]fSaClB}IzFO?{@t@{EzC_GjEsAl@gEbDITcBvAy@xCkAzX[pEi@lE_B~GuDzMyDjQmDzN_@?[c@cA{FO}Ak@{A]yCSk@[Yi@AmGbBsAP{BA_Ic@c@JQZW|CAjAPrHVdBL`HErALvALnb@s@rNg@fFwBdNiCpKkAlj@YfL",
+"average_heartrate": null,
+"average_speed": 6.489,
+"elevation_gain": 103.0,
+"source": "strava",
+"streak": 1
 }
 ]
