@@ -96,7 +96,7 @@ const ActivityCard: React.FC<ActivityCardProps> = ({
   }));
 
   const formatTime = (seconds: number): string => {
-      return prettyMilliseconds(seconds * 1000, { hideSeconds: true });
+    return prettyMilliseconds(seconds * 1000, { hideSeconds: true });
   };
 
   const formatPace = (speed: number): string => {

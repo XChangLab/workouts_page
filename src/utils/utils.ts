@@ -88,8 +88,8 @@ const convertMovingTime2Sec = (moving_time: string): number => {
 const formatRunTime = (moving_time: string): string => {
   const totalSeconds = convertMovingTime2Sec(moving_time);
   return prettyMilliseconds(totalSeconds * 1000, {
-    hideSeconds: true
-  })
+    hideSeconds: true,
+  });
 };
 
 // for scroll to the map
