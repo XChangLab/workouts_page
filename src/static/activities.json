@@ -1422,5 +1422,21 @@
 "elevation_gain": 33.8,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15096770361,
+"name": "Ride to Head of Pujiang",
+"distance": 49065.7,
+"moving_time": "1:52:21",
+"type": "Ride",
+"start_date": "2025-07-13 07:57:13+00:00",
+"start_date_local": "2025-07-13 15:57:13",
+"location_country": "\u597d\u5f97\u6765\u6c34\u679c\u8d85\u5e02, \u798f\u6cc9\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "ipn}DkcucVtGg@tTuAfBI\\Ft@UdPcAj@SLOJs@IgJMsIYiDBc@`B_@n@a@`HcFbHuGvFuDfIw@nAUpGg@JJSjFChHHxBh@zEX`AhAhChFdHnAlCf@~AhEdRNxATt@PTNhBZFrEc@xES`DRXJd@d@vApFrChNhBpJr@|BrB`F|@dBlBrCnIdLt@pA~AjB~CxExBlCpBxCt@lAh@bBn@bA`Ax@RZr@zAdBrCt@|Az@`A~DhHhEvG`DbIbC|HzBbI`@lCPxECvA_@lFg@tC]jAaClF_BzDiBdFc@rBm@dE{BrZE`DJlDEnBuAbQG^k@jAA\\PlBc@dFKlCXPj@CpK{GbV_NrPeMlKeIVBvS`z@vFtVtErTxAxHpBhMfAbIPnCGtCY|Bq@vBObAFdA\\z@h@t@N~@M`Ay@rBAfAFb@jC~GnCpBTVTz@rBrWh@hFpBvX|C`YfDd^v@lKVrAlDt^fAtLJNP@zBkAbB_@^Dj@vDx@lP@tAIpAN`CJPnS{AvCD`OdBdGhAxNzETNDXoAnM}C`y@XpMCbCr@RpPv@f@FPPlAMjYpApL\\TFFTE^}AnLY~C]bHOtIG^n@`TCh@j@rAjF`@tCH|C?pDMd]qCvA[`MiAdRqAhAS~XmCnQuAPLHZFxAP|Ab@`H^pCx@~DbHxTj@tBl@rApD~K~@dE^tDF`EOhDcAtIAnBH~Aj@|Cv@nBhA`BlAdAdBz@dCd@fTG~C^nCr@fBz@dBfA`@j@Rt@RN`ALhLxQhAvA`E|CxA^vCTjB@~AOtFaAtBKni@fC|APnMf@bNZlHBzCVdFz@xW|BnD?VDhAj@`AELGLg@LAfLAvGL\\j@VxAb@nA~B~Fh@bA`A`DdGxNlTfj@f@r@|@b@p@B`y@gKnBSTHLVvAdP`DhZj@v@n@Zv@@|Ks@nBUbCEhT_B~Je@|BWjQkAdGq@b@BPNfAq@pDm@bQyFvEiAnCWh@Bl@bBd@Nb@KxBATIFWGy@FUPIfBDpVUfJ@|Sa@xUWdQ_BfIi@dC]fIs@fbBOtM@fINVTBP?d]@\\VhACnIO`BHfBIdDLfLLlCHde@NnQFng@L~BX`Cd@|BxAjEbBhCzVhb@LNL@JKE}Ar@yKv@gB`AqCvDkDjA_@`@i@f@P_@OIMDSNQnEoCnB}AnEqCpG{EfEkCnCsB~N_IZEZDdGvDNNJh@FDHICEKd@?|B]tDFlTIzEEb@MRk@EDHh@CPe@JuG",
+"average_heartrate": null,
+"average_speed": 7.279,
+"elevation_gain": 109.0,
+"source": "strava",
+"streak": 2
 }
 ]
