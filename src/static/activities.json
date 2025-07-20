@@ -1454,5 +1454,21 @@
 "elevation_gain": 153.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15170391612,
+"name": "Morning Ride to Longteng Avenue",
+"distance": 38075.0,
+"moving_time": "1:26:55",
+"type": "Ride",
+"start_date": "2025-07-19 21:07:11+00:00",
+"start_date_local": "2025-07-20 05:07:11",
+"location_country": "\u5168\u5bb6, \u798f\u6cc9\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "oyn}DkvucVh@aPHYAqAX_LViEZUzAOj@SbGg@BQ[WBOlABp@SxCsK~AgGGg@]a@iI_EOQGa@j@yAdAwDVa@Dg@ZmAdI}X`@qBPoBFqBEqIG}ACmHMaDBqDSmPHi@?aAU_IC_LfCsYPWb@?zK~CZP~@KRMVc@N{@CmAD[vD{OdBoIdBmHZk@ZgB`DeLpAeHl@kL^mGDoB^_IP}@Xq@tFcEvHyExLoI`GuD`A_@vAeAvKwGdDuBxHkFdDkC~@aAvBkCP[`BsF|AwLfAsHl@uBbAmBnFsGdDiFv@aAVK`@?`Gj@pK^D[GwAWY}J[gG_@uAUqEMaAMEIdJ}RpAcEzAkHdBaEn@{@rBcBv@e@nCiAlBc@`@m@TgB~@aCTkAh@kI\\uDPiDToAZ{@j@{@hGkHbA{AbD{Cj@_A?eCaAkNU{ESwAkAsVEoAJ_@JGb@@pGcBjBK|BT|JzB|B@jCIdBg@hDyAxI_FpAk@rAYpBKnA?nARtBl@z@f@tArAdB`C`]fVlNbNb@p@jChC~BbB`CfAdCp@zPnC|CRjBOnPyBvYcG`Cu@`B}@rIoF`RyHfEsBtAgAfBcBbF_HnBwAlEgBB[EOMGQB{DfBsAz@iBnBmBlCkBdC{C~BgCpAcTxIuInF}Ar@qBl@{YdGqPvByBDsAIcQwCwBi@wCuA}BgBwDgEoN}M{PqLyFcE_HyGcCuAmBi@qDQsAHwA^mJhFw@Rc@j@i@^cBp@_BZeCNkCSiASsC_AwCg@qAOqA@mBV}RdFsD`@{CRyGx@_Go@a@UWAs@RSYe@U{AUmB}@}E_BoIeCu@]yB{AgAIeA\\uDbD]h@Kj@Jv@jBrGXf@`CzCDb@uJjNeBbB}A|@}C~@{An@iS`FcA`@a@TaAbAuCpB{E~BqGhDqLbHmAj@qE`AcFBi@R[VOd@?^H\\tDxLhDtJl@tArAvErB`ERlALZt@lAx@j@PVdA|BfBbD~ChHHpAnBzORdCnDfMLdA?vAe@pCkA|Bo@dCiAdDQvAo@hC@Pu@vDoD|OUnC}@xGy@hJQnEUzBG`DYnGUjCFhB}@hRk@hLc@nDaBtHoC`Jk@xBgBvHaCfLyBdJKb@SREXB~BNzATlAl@hBhDzI`D|G|BlFD\\LFc@XaHlAcE`AoUrDyDt@gCZgAX_@^G`@U`Gm@|F_@|BGbAaAvFy@lDiAzDK`Aa@vT[tLGbGSrDIpHy@pUWbGY`JS~I?vBYtH",
+"average_heartrate": 148.9,
+"average_speed": 7.301,
+"elevation_gain": 74.0,
+"source": "strava",
+"streak": 1
 }
 ]
