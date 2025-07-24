@@ -1456,6 +1456,22 @@
 "streak": 1
 },
 {
+"run_id": 15165288846,
+"name": "Evening Walk",
+"distance": 4799.8,
+"moving_time": "1:10:15",
+"type": "Hike",
+"start_date": "2025-07-19 11:44:06+00:00",
+"start_date_local": "2025-07-19 19:44:06",
+"location_country": "\u4ed9\u971e\u897f\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "w}n}DaitcVG`CEZ@\\Q|FAbAEf@?\\Cz@@HKxA@PEXAh@CrBOr@?v@ItA?j@G\\i@v@AAH@CBFPM\\ENBJAZMh@KRGDMBm@@]Dw@@M@}@@e@DSAa@F]?a@FODoCZcACWBQEo@?YE?OQU]AMDUEC?ERUB[VM?CBGTKn@Ab@@NFTARMt@MfAGRGh@Qv@OjAEVIPOzAI`@DFCXGLAJGBe@?g@FQCKBiBByAHUAcENQAs@Fy@Zi@n@Uv@Ef@IHMB@n@JlAHh@@TRpAFLNHHLd@fE?LF\\JbARdB?r@C\\BRHDB@A@C?D?g@aGMu@MwAMw@g@oEAUQa@M@CIK}AAuBCc@Bu@CC@M@oANyELsACa@@SJq@J{A@k@LuCCgA@uATaHJ}DDy@FqAAODy@?uABMVYLANBb@?ZM`@@ZA\\@VCTBVEX@HCb@C^?p@EJ?b@GR@x@O|@_@p@OdBk@n@K\\OFKA_CDkA@{@?OG_@?_@Bg@GaAHSLC|@IfBC",
+"average_heartrate": 81.0,
+"average_speed": 1.139,
+"elevation_gain": 34.0,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 15170391612,
 "name": "Morning Ride to Longteng Avenue",
 "distance": 38075.0,
@@ -1469,7 +1485,23 @@
 "average_speed": 7.301,
 "elevation_gain": 74.0,
 "source": "strava",
-"streak": 1
+"streak": 2
+},
+{
+"run_id": 15174718490,
+"name": "Evening Walk",
+"distance": 1784.1,
+"moving_time": "0:28:45",
+"type": "Hike",
+"start_date": "2025-07-20 10:01:38+00:00",
+"start_date_local": "2025-07-20 18:01:38",
+"location_country": "\u91d1\u6c47\u8def, \u8679\u6865\u9547, \u95f5\u884c\u533a, 201103, \u4e2d\u56fd",
+"summary_polyline": "ayi}DcxwcVYAi@DKCIBw@AsB]GCa@II?Mf@Cd@Lb@P`AG|AETAnAAIH{AH_AB@Gc@ASWqADg@EIWImBc@aAMqAIi@F[?{Ad@}@`@_@JYBWN_@HKJA?@B?C?FIAYDICWJONO@UHc@Jq@RWBw@Xe@Jk@RK@]L",
+"average_heartrate": 79.2,
+"average_speed": 1.034,
+"elevation_gain": 3.0,
+"source": "strava",
+"streak": 2
 },
 {
 "run_id": 15193696269,
