@@ -50,6 +50,7 @@ TYPE_DICT = {
     "indoor_cycling": "Indoor Ride",
     "Indoor Bike ": "Indoor Ride",
     "walking": "Hike",
+    "Walk": "Hike",
     "hiking": "Hike",
     "Hike": "Hike",
     "Swim": "Swim",
