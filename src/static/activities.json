@@ -1662,5 +1662,21 @@
 "elevation_gain": 78.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 15329606377,
+"name": "Afternoon Ride",
+"distance": 13912.0,
+"moving_time": "0:54:52",
+"type": "Ride",
+"start_date": "2025-08-03 09:09:13+00:00",
+"start_date_local": "2025-08-03 17:09:13",
+"location_country": "\u7518\u6eaa\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "qgo}DawucV`@cITwC?c@PwEZiG?WDOLiBAQQSSCe@BiC\\_CReDPcBNiC^{@BWDYCwABECaAC_A?oEIwAGGEBAgGIkCIOBSKWAgADmCGeFEaAG{@?kJQgAKg@Ig@Ou@Ym@_@a@YcCmCEQJDVVdBnBfAt@j@VTBFCR?FCJQP_ABgDJqC^eDLe@`@eA|@}ArAmALMrEaCrA_A`AgAv@_B^sANuAD{AAU@_BSeDUgHAaABeAP{BdBiJT_CJoDAoAUaJ@w@BM@gAXqApAkEZ}AVgBDq@DmABoF?aGB}ACYIUMMQEq@@qCP}A@}DJeANc@?KEACm@A{AD}GKoA@cAF}AN}AV}Ep@sANkAFILSBHEADDBx@EDYqUyUH?RO\\GpAIvBKfFC^Cp@DjAA\\FN?REt@@?CfBBjFAhCBvE?nBBXBvCEp@Bj@CLA^OjAWd@Ql@KlC_AH?N@LTTr@jAbEj@`BTx@TrAJz@D|@@tBC~LG~GGdAK`A]fB[pAUf@e@xAMf@Mp@Ex@C`AHfCLhIIrCe@`ESjA}@lEMfAXJ@HEJY`GVrI?xAEl@FLCh@AtAC^Kh@a@xAy@vASR{@v@cGlDw@n@u@|@m@fAa@|@Qh@YxAOxAGxAGbEQvAITIHMD[Ga@Ss@c@_A{@wAcBw@u@uAiBcBqBMIWf@JRf@n@jDzDfAdAdApAz@r@dAl@x@ZdBZtKTzDFvJRr@CnCDp@Dt@?lBPr@G^AdGHl@DtCBxAGjAM\\Kn@@bAG|BYd@AtC[lE]XBXZCx@StEKlAKfCQrCITEd@@l@Ct@OrDS`D",
+"average_heartrate": 95.5,
+"average_speed": 4.226,
+"elevation_gain": 27.0,
+"source": "strava",
+"streak": 4
 }
 ]
