@@ -1726,5 +1726,21 @@
 "elevation_gain": 66.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 15392615873,
+"name": "Zhapu Bridge & LV Boat",
+"distance": 37283.9,
+"moving_time": "1:53:51",
+"type": "Ride",
+"start_date": "2025-08-08 20:55:30+00:00",
+"start_date_local": "2025-08-09 04:55:30",
+"location_country": "\u7518\u6eaa\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "{po}DmoucVwFt@uDNm}@gB{HmBk]{PS]xHmQZC~Az@pIfGZDvAwB|@aAhFgC~@uAf@aBX}Jt@aEvCaEvHoEx@w@~@eBd@sATuAPuD_@sCSwKD_CnBaM`@qFOqMDuDzBgIl@qFDkTGuEg@oCiF{Q[iCJcM`AwIGaHc@mEu@oDuAcEiB_Ee@wAe@kCSsCEwHgAgImAcBcIbCoIvA{@@kIWgLcCqBuIgEaNV]dGkChAQxCgApB_BhFcCvCqBrCcEr@i@D]kHoF_CoCcBkCgFmCwOeE_GWqBZuGJe@MaAw@q@kAaAcCoBqCeBsFaDoGe@Q}Dl@oTzG{B@y@g@u@yAeAaJ}@wLWi@s@YcRbAwAa@_AmBAkBh@sB~CqFZ}@GeLVwAvGwG|AaAnCsCxHcGn@_A\\_ABk@YyBVdAk@}BmBkOsA}PXfCJRlANhASz@g@vGmL~EaJbC_CfEaDfBuBfB{Ct@sDQwBu@{CeEqEuFaFuCeJQgBAqAl@aHpAeFlBaFhCaEf@eBVwBIcCa@aB}BaFc@kBqCeGkA_EKwAOgFJwAAyDVy@vAw@j@o@hBcFNwAGaAe@{ByAcCyD_FkGkFuCwEgA{CC_Am@eDIaBBkAP]t@A@HHEpBZNr@l@jGj@dCbAhCtDbElEvFrBdDhAzCTfBBzAMtEu@jBnAtHU^oEB[POlA?pCf@zDf@nB|@jB|AbB`@x@xBhFp@vCXxEk@vD_BhF\\JPKEbAHlA~BrF`@|C@p@jA|FzBnFt@pAdF|FnAOxAZxM}Dp@s@nFoBl@C?THQLFOYC\\nDH@q@Wa@XWCOGMGt@[\\oASMa@y@DOh@WViA\\A|@lBrG|@t@j@zBb@x@@VfAhDJ`BTp@j@hA`BzAVh@L`Bb@jB]tCl@rAr@|CFz@hAtDE^SRwGhEuGhCURCh@bCnHtDxGVx@t@v@rDbKrAxExBbD`EvExAxE~@jBLhH\\lCbAtERdCY~AuCdEiG~OwB~EeAdBaDxI_AdBl@jC|@AeAtCCzBd@nBnCnGzBhCvCnCxMrIPd@f@jGN`@~@XpAjBNnASnAC`B]~EBrCnDtJbAvLVrI`@zCh@pBzBxFf@fBt@d@pCNpKnB@VyApIM~HRxBJ~E`AfHA|AaA`FSfCD|R\\fY[xGaAxG{B~Lg@fEI~BL`DGtGHt@kA|JHxCGt@~@dLNxDChB[nAcFzCkDfDw@`BuBfHs@dCA~@d@z@nATbMTdFEvFVt@OjIXzEEnVwBh@JJX?l@mCfg@",
+"average_heartrate": 111.8,
+"average_speed": 5.458,
+"elevation_gain": 111.0,
+"source": "strava",
+"streak": 1
 }
 ]
