@@ -73,12 +73,8 @@ const YearStat = ({
     return b[1][0] - a[1][0];
   });
   return (
-    <div
-      className="cursor-pointer"
-      onClick={() => onClick(year)}
-      {...eventHandlers}
-    >
-      <section>
+    <div className="cursor-pointer" onClick={() => onClick(year)}>
+      <section {...eventHandlers}>
         <Stat value={year} description=" Journey" />
         {sumDistance > 0 && (
           <WorkoutStat
@@ -119,7 +115,7 @@ const YearStat = ({
           <YearSVG className="my-4 h-4/6 w-4/6 border-0 p-0" />
         </Suspense>
       )}
-      <hr color="red" />
+      <hr />
     </div>
   );
 };

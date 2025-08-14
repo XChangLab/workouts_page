@@ -139,9 +139,8 @@ const Index = () => {
 
   useEffect(() => {
     const runsNum = runs.length;
-    // maybe change 20 ?
-    const sliceNum = runsNum >= 10 ? runsNum / 10 : 1;
-    let i = sliceNum;
+    const sliceNume = runsNum >= 8 ? runsNum / 8 : 1;
+    let i = sliceNume;
     const id = setInterval(() => {
       if (i >= runsNum) {
         clearInterval(id);
@@ -149,8 +148,8 @@ const Index = () => {
 
       const tempRuns = runs.slice(0, i);
       setGeoData(geoJsonForRuns(tempRuns));
-      i += sliceNum;
-    }, 10);
+      i += sliceNume;
+    }, 100);
     setIntervalId(id);
   }, [runs]);
 
@@ -203,8 +202,8 @@ const Index = () => {
 
   return (
     <Layout>
-      <div className="w-full lg:w-1/4">
-        <h1 className="my-12 text-5xl font-extrabold italic">
+      <div className="w-full lg:w-1/3">
+        <h1 className="my-12 mt-6 text-5xl font-extrabold italic">
           <a href="/">{siteTitle}</a>
         </h1>
         {(viewState.zoom ?? 0) <= 3 && IS_CHINESE ? (
@@ -222,7 +221,7 @@ const Index = () => {
           />
         )}
       </div>
-      <div className="w-full lg:w-4/5">
+      <div className="w-full lg:w-2/3" id="map-container">
         <RunMap
           title={title}
           viewState={viewState}
