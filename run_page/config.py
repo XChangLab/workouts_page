@@ -49,8 +49,8 @@ TYPE_DICT = {
     "VirtualRide": "VirtualRide",
     "indoor_cycling": "Indoor Ride",
     "Indoor Bike ": "Indoor Ride",
-    "walking": "Hike",
-    "Walk": "Hike",
+    "walking": "Walk",
+    "Walk": "Walk",
     "hiking": "Hike",
     "Hike": "Hike",
     "Swim": "Swim",
@@ -69,6 +69,7 @@ TYPE_DICT = {
 
 MAPPING_TYPE = [
     "Hike",
+    "Walk",
     "Ride",
     "VirtualRide",
     "Rowing",
