@@ -22,6 +22,7 @@ import {
   TRAIL_RUN_COLOR,
   RICH_TITLE,
   MAP_TILE_STYLES,
+  WALK_COLOR,
 } from './const';
 import {
   FeatureCollection,
@@ -375,6 +376,8 @@ const colorFromType = (workoutType: string): string => {
     case 'Snowboard':
     case 'Ski':
       return SNOWBOARD_COLOR;
+    case 'Walk':
+      return WALK_COLOR;
     default:
       return MAIN_COLOR;
   }
