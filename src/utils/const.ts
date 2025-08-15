@@ -73,6 +73,7 @@ const RUN_TITLE = IS_CHINESE ? '跑步' : 'Run';
 const TRAIL_RUN_TITLE = IS_CHINESE ? '越野跑' : 'Trail Run';
 const SWIM_TITLE = IS_CHINESE ? '游泳' : 'Swim';
 const RIDE_TITLE = IS_CHINESE ? '骑行' : 'Ride';
+const Walk_TITLE = IS_CHINESE ? '步行' : 'Walk';
 const INDOOR_RIDE_TITLE = IS_CHINESE ? '室内骑行' : 'Indoor Ride';
 const VIRTUAL_RIDE_TITLE = IS_CHINESE ? '虚拟骑行' : 'Virtual Ride';
 const HIKE_TITLE = IS_CHINESE ? '徒步' : 'Hike';
@@ -106,7 +107,7 @@ const RUN_TITLES = {
   HALF_MARATHON_RUN_TITLE,
   RUN_TITLE,
   TRAIL_RUN_TITLE,
-
+  Walk_TITLE,
   SWIM_TITLE,
   RIDE_TITLE,
   INDOOR_RIDE_TITLE,
@@ -130,6 +131,7 @@ const TYPES_MAPPING = {
   VirtualRide: RUN_TITLES.VIRTUAL_RIDE_TITLE,
   'Indoor Ride': RUN_TITLES.INDOOR_RIDE_TITLE,
   Hike: RUN_TITLES.HIKE_TITLE,
+  Walk: Walk_TITLE,
   Rowing: RUN_TITLES.ROWING_TITLE,
   Kayaking: RUN_TITLES.KAYAKING_TITLE,
   Snowboard: RUN_TITLES.SNOWBOARD_TITLE,
@@ -211,6 +213,7 @@ export const COUNTRY_FILL_COLOR = dark_vanilla;
 export const KAYAKING_COLOR = red;
 export const SNOWBOARD_COLOR = dark_vanilla;
 export const TRAIL_RUN_COLOR = IKB;
+export const WALK_COLOR = '#5448aa';
 
 // map tiles vendor, maptiler or mapbox or stadiamaps
 // if you want to use maptiler, set the access token in MAP_TILE_ACCESS_TOKEN
