@@ -1774,5 +1774,53 @@
 "elevation_gain": 84.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15466329102,
+"name": "Evening Ride",
+"distance": 3603.3,
+"moving_time": "0:12:01",
+"type": "Ride",
+"start_date": "2025-08-15 11:07:46+00:00",
+"start_date_local": "2025-08-15 19:07:46",
+"location_country": "\u540c\u666e\u8def, \u957f\u5f81\u9547, \u666e\u9640\u533a, 200333, \u4e2d\u56fd",
+"summary_polyline": "{ns}D}ytcVAg@]qB[uAK{@?YK]S_@sDoO@I@IJMFCt@UzB}@vDoANSdAgC\\w@V_@\\Bh@RlNhH`Ab@|GhDbBv@bBj@`AVtCj@~Df@v@A|BB\\D|@EdDBpDLl@D|@I^BxHJl@FzCCfBDdAFb@Id@?|ELv@?TETTBRk@pFEdBFr@TX\\@~BQvD]",
+"average_heartrate": 108.5,
+"average_speed": 4.998,
+"elevation_gain": 8.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15476612784,
+"name": "Afternoon Ride",
+"distance": 43243.3,
+"moving_time": "1:36:40",
+"type": "Ride",
+"start_date": "2025-08-16 08:57:54+00:00",
+"start_date_local": "2025-08-16 16:57:54",
+"location_country": "\u5916\u73af\u9ad8\u901f, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "cln}DwzscVhEe@tAq@|FOjB_@pAcBlF[rE{@|@o@tC|@bBy@dCPjC{AdG[eHb@}@|@aEDcBv@sC{@yGnBaF\\oBfBoIh@mJlB}CLmBgBqBrEaDs@mBRuBdEiAv@iK|@oF~A}ACuSdIk@ZwAjA}Da@sE~BqEn@kFs@qUpDoDk@oA~@_BRoKaAqDhBqCQiCv@}ELsBw@yCrAcCOwBcAoBPeFwBiDd@Uy@t@iEw@tEj@r@pDi@dEpBfCKvDnA`BIhBaAxBt@hFUvBq@hCRhEkBfJ`AzBUrA{@dDn@~UwDfFt@fEo@|GcDrDFzV}JpALdFeBdKy@bAu@zBmEzBKtCl@jAwD^Yf@HlAbBdDSnC{@|Eu@xIk@tAaB`FWdHoBnC|@pB_AdBT~A]t@y@nGa@sGb@yCtAoBQiBt@yCy@wGnByEZoBfB{Il@}Et@mCt@}CHiA_Bc@GgBvEeDq@mBRuB`EgAx@mKv@gCfA}DVeUjJq@IFc@yEjAgFbCoEl@sFs@}UzDqCo@gElAgKu@uDbBmCQaCt@iFJiBu@aDnAyBIuBgAaCL_FsBaDj@UeAp@}Ds@fE^z@xDc@lEnBbCKpDpA`BMlBaA~Bt@dFSdCs@xBR|DgBzJz@jBS`BaAfDn@rUsDpFt@hEs@lG{C~KqBpOeGrAJpFcB|Jy@hA}@xBgEtBGvCj@dBoEl@HpBdBlGqAxB?bBq@~Io@`BgBtEWbHkBtCx@nBy@jBPpCwArGc@wGd@sCrAwBMqBv@uCw@{GlB}EZcBbB}Ij@{InBcDNsBkBmBlEcDo@gBTwB`EaAv@yKbAaF|AcBCyShIg@j@}GPyEdCqEl@cFu@mVzDmCk@_Bz@eBLwJy@cEfB_CMgCn@uFNcBw@mCrAkCKgCiAqBPyEqBoCh@o@m@j@cDYeC~AwOxAwFrAaCnCmC|DyAp@gAxLuFtOyKPJEnOa\\jLsArAMnA^lF`DvOx@`@`HMxf@_B~@[OgMcf@rCsEsSgInCeAdBZfHpCfNKr@{HYwLeBlBmPbAaDfBsCrC_C~CcAj@cAtLuFzOyKNTIrNu\\bMgApAI|Ab@nF|CnOp@TdLSxc@wAf@g@F}Jg@u@{e@`CiAqH{B_JmIvCcAdB\\rHjCjO{VeBOnA^~@q@tDJbAfE]lEpB|BOtDnA`BG|BcAlBv@jFUtBs@hCTxDiBhK|@bEoAzCn@xUwDzFp@~Do@rHkDjDRpV}JxAFjEaBlKy@dAq@jBcEjAY",
+"average_heartrate": 153.1,
+"average_speed": 7.456,
+"elevation_gain": 144.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 15483496830,
+"name": "Morning Ride",
+"distance": 44973.3,
+"moving_time": "1:47:06",
+"type": "Ride",
+"start_date": "2025-08-16 20:57:01+00:00",
+"start_date_local": "2025-08-17 04:57:01",
+"location_country": "\u534f\u548c\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "oyo}DcotcVoTfAeE@Ia@hA_\\Y}@{@s@yc@u@oDg@oGsBmVwL}CaBU[Fg@dIsP`@DdMnIjAyBfAsAlFiCx@kA`@uAZaL\\iBv@qB~BsCtHoE`AeAr@uAh@oBJeBc@kW^eD`BcJVmDOyRZoBlB{Gd@uED_UIoEg@mCoFeRU_BLyMbAyJQqHc@qDcAkEsEwLq@iFIyIcA_IwAmBgJfCoHhAmBD_J]cIuBk@e@gAiHwEqND[nOsFjByAzEaCbD}BtAyBjBkBAQkIkGuEwGoEsBwPmEiFO{Hh@yBUc@y@w@m@kAyCiBkC}B}GkD}FmD`@aVjH{BIs@u@s@mB{BsVOg@}@[_Sz@u@U]c@g@aCHqAp@qBtC{EVy@GcLNoAb@s@xIeI?s@i@eB]qMDwB~FgRd@YtA|@nAC`Am@dBuBpDuFvHaOtA_A|A_CdF_FN{@u@yBxAcBlAwBh@kD?aAg@mCwAwCcIwH}@oAaCgI[wCt@mIlAmF|A{DxCyEt@wFIgB]iB_CaFWcBcBmC_AaCy@sCUkCKoELqHXk@~Au@b@m@hBuFJsAOyA]wAoCwDwEsFyD{C}@{AuAfAg@Me@oAwBqDs@uCy@iJ~DKlDf@v@d@~@JpNMjApAf@NfNqFdNuClJgC~CkAlBsAhCy@lGeAbAXZGNk@VmPt@mDvE{CpCiExCy@fCW|BgALeAKuEgA_DTqAa@CcAsBAWRc@`LmMvDiCvByCtDqCxMyFzRcFjFw@|Dp@|MpF|O~H`Ap@l@tAfCh@xArAd@hAhAz@Jb@wAdGcA~BCv@pF|K`@Bj@g@|AqDhDyF|@a@v@BxQvKzJpJxN`Kl@hA?|@Ud@uGpEa@HeIkHoDcBwC{@uFe@oFgA}CwA_BsA_AsAqBmDQeAbB}DvDqGdAYtBf@aBq@w@CgAv@kDfG}AvCGxATv@zD`GrAjApDhBHTEX{E`FuHlFqPfHg@v@Gt@jLbl@hD|NnDjIzAtFnCfFhChJAl@SRmEdA|@XlAjEtCfQuLzDcBhASbAfAnJz@pCrBzD|B`GpC~S\\tEhCdKrAdKhCxH~B`JrEvRbMl`@jRz^pCpV~DxOIlB_@tB}DdLmHp]cCtUs@~Ji@rOQx@ChFcBn]aAvF}In\\_CxLyC|LE~@}@\\F|Dy@lI?rCZbCx@lCjBzDzChNjCfH|E~YrBdHtDjHHh@U^yHjEy@fAq@dBmFtg@[|AArAmBrQo@TuNqAuHAwLfAeJhBq@hAw@n[",
+"average_heartrate": 137.8,
+"average_speed": 6.999,
+"elevation_gain": 53.0,
+"source": "strava",
+"streak": 3
 }
 ]
