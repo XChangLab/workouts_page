@@ -15,7 +15,6 @@ import {
   filterAndSortRuns,
   filterCityRuns,
   filterTitleRuns,
-  filterTypeRuns,
   filterYearRuns,
   geoJsonForRuns,
   getBoundsForGeoData,
@@ -336,15 +335,10 @@ const Index = () => {
           <LocationStat
             changeYear={changeYear}
             changeCity={changeCity}
-            changeType={changeType}
-            onClickTypeInYear={changeTypeInYear}
+            changeTitle={changeTitle}
           />
         ) : (
-          <YearsStat
-            year={year}
-            onClick={changeYear}
-            onClickTypeInYear={changeTypeInYear}
-          />
+          <YearsStat year={year} onClick={changeYear} />
         )}
       </div>
       <div className="w-full lg:w-2/3" id="map-container">
