@@ -183,7 +183,6 @@ export {
   HOME_PAGE_TITLE,
 };
 
-// eslint-disable-next-line no-unused-vars
 const nike = 'rgb(224,237,94)'; // if you want to change the main color, modify this value in src/styles/variables.scss
 const yellow = 'rgb(224,237,94)';
 const green = 'rgb(0,237,94)';

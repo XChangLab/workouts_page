@@ -2,7 +2,7 @@ import { lazy, Suspense } from 'react';
 import Stat from '@/components/Stat';
 import WorkoutStat from '@/components/WorkoutStat';
 import useActivities from '@/hooks/useActivities';
-// eslint-disable-next-line no-unused-vars
+
 import { formatPace, colorFromType } from '@/utils/utils';
 import useHover from '@/hooks/useHover';
 import { yearStats } from '@assets/index';
@@ -63,6 +63,7 @@ const YearStat = ({
       streak = Math.max(streak, run.streak);
     }
   });
+  const sumElevationGainStr = sumElevationGain.toFixed(0);
   const hasHeartRate = !(heartRate === 0);
   const avgHeartRate = (heartRate / (runs.length - heartRateNullCount)).toFixed(
     0

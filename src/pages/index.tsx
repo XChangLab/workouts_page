@@ -16,6 +16,7 @@ import {
   filterCityRuns,
   filterTitleRuns,
   filterYearRuns,
+  filterTypeRuns,
   geoJsonForRuns,
   getBoundsForGeoData,
   scrollToMap,
@@ -175,7 +176,6 @@ const Index = () => {
     [changeByItem]
   );
 
-  // eslint-disable-next-line no-unused-vars
   const changeTitle = useCallback(
     (title: string) => {
       changeByItem(title, 'Title', filterTitleRuns);
