@@ -39,7 +39,12 @@ const YearsStat = ({
       </section>
       <hr />
       {yearsArrayUpdate.map((yearItem) => (
-        <YearStat key={yearItem} year={yearItem} onClick={onClick} />
+        <YearStat
+          key={yearItem}
+          year={yearItem}
+          onClick={onClick}
+          onClickTypeInYear={onClickTypeInYear}
+        />
       ))}
     </div>
   );

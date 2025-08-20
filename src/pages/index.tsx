@@ -34,7 +34,9 @@ const Index = () => {
   const [currentFilter, setCurrentFilter] = useState<{
     item: string;
     func: (_run: Activity, _value: string) => boolean;
-  }>({ item: thisYear, func: filterYearRuns });
+    item2: string | null;
+    func2: ((_run: Activity, _value: string) => boolean) | null;
+  }>({ item: thisYear, func: filterYearRuns, item2: null, func2: null });
 
   // State to track if we're showing a single run from URL hash
   const [singleRunId, setSingleRunId] = useState<number | null>(null);
@@ -79,9 +81,17 @@ const Index = () => {
       activities,
       currentFilter.item,
       currentFilter.func,
-      sortDateFunc
+      sortDateFunc,
+      currentFilter.item2,
+      currentFilter.func2
     );
-  }, [activities, currentFilter.item, currentFilter.func]);
+  }, [
+    activities,
+    currentFilter.item,
+    currentFilter.func,
+    currentFilter.item2,
+    currentFilter.func2,
+  ]);
 
   const geoData = useMemo(() => {
     return geoJsonForRuns(runs);
@@ -111,7 +121,29 @@ const Index = () => {
       }
       setCurrentFilter({ item, func });
       setRunIndex(-1);
-      setTitle(`${item} ${name} Running Heatmap`);
+      setTitle(`${item} ${name} Heatmap`);
+    },
+    [thisYear]
+  );
+
+  const changeTypeInYear = useCallback(
+    (year: string, type: string) => {
+      scrollToMap();
+      // type in year, filter year first, then type
+      if (year != 'Total') {
+        setYear(year);
+        setCurrentFilter({
+          item: year,
+          func: filterYearRuns,
+          item2: type,
+          func2: filterTypeRuns,
+        });
+      } else {
+        setYear(thisYear);
+        setCurrentFilter({ item: type, func: filterTypeRuns });
+      }
+      setRunIndex(-1);
+      setTitle(`${year} ${type} Type Heatmap`);
     },
     [thisYear]
   );
@@ -143,9 +175,17 @@ const Index = () => {
     [changeByItem]
   );
 
+  // eslint-disable-next-line no-unused-vars
   const changeTitle = useCallback(
     (title: string) => {
       changeByItem(title, 'Title', filterTitleRuns);
+    },
+    [changeByItem]
+  );
+
+  const changeType = useCallback(
+    (type: string) => {
+      changeByItem(type, 'Type', filterTypeRuns);
     },
     [changeByItem]
   );
@@ -327,7 +367,7 @@ const Index = () => {
 
   return (
     <Layout>
-      <div className="w-full lg:w-1/3">
+      <div className="w-full lg:w-1/4">
         <h1 className="my-12 mt-6 text-5xl font-extrabold italic">
           <a href="/">{siteTitle}</a>
         </h1>

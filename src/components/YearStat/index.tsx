@@ -100,7 +100,7 @@ const YearStat = ({
         ))}
         {SHOW_ELEVATION_GAIN && sumElevationGain > 0 && (
           <Stat
-            value={`${sumElevationGain.toFixed(0)} `}
+            value={`${sumElevationGainStr} `}
             description="M Elevation Gain"
             className="pb-2"
           />

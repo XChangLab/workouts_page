@@ -32,6 +32,14 @@ const RunTable = ({
 
   // Memoize sort functions to prevent recreating them on every render
   const sortFunctions = useMemo(() => {
+    const sortTypeFunc: SortFunc = (a, b) =>
+      sortFuncInfo === 'Type'
+        ? a.type > b.type
+          ? 1
+          : -1
+        : b.type < a.type
+          ? -1
+          : 1;
     const sortKMFunc: SortFunc = (a, b) =>
       sortFuncInfo === 'KM' ? a.distance - b.distance : b.distance - a.distance;
     const sortElevationGainFunc: SortFunc = (a, b) =>
@@ -58,6 +66,7 @@ const RunTable = ({
       sortFuncInfo === 'Date' ? sortDateFunc : sortDateFuncReverse;
 
     const sortFuncMap = new Map([
+      ['Type', sortTypeFunc],
       ['KM', sortKMFunc],
       ['Elev', sortElevationGainFunc],
       ['Pace', sortPaceFunc],
