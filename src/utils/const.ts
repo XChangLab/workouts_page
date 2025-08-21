@@ -212,7 +212,7 @@ export const COUNTRY_FILL_COLOR = dark_vanilla;
 export const KAYAKING_COLOR = red;
 export const SNOWBOARD_COLOR = dark_vanilla;
 export const TRAIL_RUN_COLOR = IKB;
-export const WALK_COLOR = '#5448aa';
+export const WALK_COLOR = '#f2a364';
 
 // map tiles vendor, maptiler or mapbox or stadiamaps
 // if you want to use maptiler, set the access token in MAP_TILE_ACCESS_TOKEN
