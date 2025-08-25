@@ -1870,5 +1870,21 @@
 "elevation_gain": 128.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15565680860,
+"name": "Afternoon Hike",
+"distance": 3429.4,
+"moving_time": "0:53:25",
+"type": "Hike",
+"start_date": "2025-08-24 06:42:05+00:00",
+"start_date_local": "2025-08-24 14:42:05",
+"location_country": "\u767e\u91cc\u4e1c\u8def, \u73e0\u51a0\u5927\u53a6, \u4e94\u9a6c\u8857\u9053, \u9e7f\u57ce\u533a, \u6e29\u5dde\u5e02, \u6d59\u6c5f\u7701, 325003, \u4e2d\u56fd",
+"summary_polyline": "mg`jDcdm_VJCAMFCDAHJf@MJUEEFCKLKDMEK?[JGFAAF@FLGR?DLF\\@d@]\\E`@S`@Kh@Nf@?JILSLGFWN[VCLc@B[^UH@AJCGBKRGHWf@m@LYHIHGLDFF@Hi@d@DFF@HJ@LGLKBDAAHMJI@GCFB@EDCEAFPCFQJCD?VL\\@TBJPXNJB?FGABGJKCYg@_@WIMk@QG@l@j@N^JJLh@LCLp@R^Cd@@b@KDy@FODINCl@HRNH\\Dn@G`@It@@\\KPKFIbAYl@IH@PILMRETO^CVIR@l@I\\U^Mb@EZOLMPGTGR?DCBKXQBEAYQi@?IFAFKHCCCBAJd@FKCj@CMMIEIr@Za@Yv@^_A]OIQSe@YKAp@`@\\FM?NDCHz@P{A]g@GrAR[Sl@d@C@EILFOBKKFROGc@e@KCFTVH~Av@BDKGCMOQ@Qs@Ic@c@GKG_@GOKGQCIMGU]Ya@o@GOYUW[EUSQ]g@Ga@WSSSw@c@_@[GUKMc@Se@FYYK?WNQ@k@Ri@Ns@XSTODUJa@`@_@JML_@PONEALBDHa@\\[Ry@dAu@b@WT[NY\\k@^IJYLSPOV?L",
+"average_heartrate": 102.8,
+"average_speed": 1.07,
+"elevation_gain": 57.0,
+"source": "strava",
+"streak": 2
 }
 ]
