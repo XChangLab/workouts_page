@@ -1886,5 +1886,37 @@
 "elevation_gain": 57.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15611936941,
+"name": "Morning Ride - Tour of Pingtan",
+"distance": 87374.5,
+"moving_time": "4:14:07",
+"type": "Ride",
+"start_date": "2025-08-27 21:37:02+00:00",
+"start_date_local": "2025-08-28 05:37:02",
+"location_country": "\u4e07\u5b9d\u4e2d\u8def, \u6d77\u575b\u8857\u9053, \u5e73\u6f6d\u7efc\u5408\u5b9e\u9a8c\u533a, \u5e73\u6f6d\u53bf, \u57ce\u5357\u6751, \u798f\u5efa\u7701, 350400, \u4e2d\u56fd",
+"summary_polyline": "ggrzC}n`zUTaYa[uVzH_k@_z@y`@nRwh@]yAqJUob@gKsLy@mMlAcc@tNeK\\aJ}Ayb@}Lg]{PqZoImDiBdAg@aSeJeBoBoATQ_BsBb@wo@i\\oa@{[qMsE_Qx@eYdOim@lQ}IjA{Fq@a`@}OsNaKcJqNoAaF_FyEsAwIeBeCiJ}DqXtAqMgDaAqCd@qRcBcD{Co@qCnA}D|KqPrSeSzg@oEhEiKtDkBhCu@fEuBpKtBpLc@jE}DpF}\\`[sBjGYjO{G~L?~CdEtKlI`FrCtDjLr\\`E`IpCxMlJzSdAvGkA|Kw\\h}@fAgEg_@gOkOzVae@|Fyf@b@gHzNsFFaMeKoJI{NeEoJ}J{F_AeKiLN}D{Ea@]sF_Fo@}DgGaAkL}PeE{AoCl@qDkBcA_GvA_B|KiBOcChDaHJMzAxAhBXbDyEtGkCt@cAbBnEzE`@pLvBdBbA|F`Cr@xDrGjCnAe@tDd@bF}BnClEcAfCsEjBw@jJhC|DvEyAbCIbDiEb@YtCxB~AvEuCnLWj@|JcCvDDzAx@z@fFu@jCsDX`A_B~GfJhDcApG`AfC`EMhBqEvCQzIjQnBq@hAkBrAP`@vJ|AnDlFhAjHzJvAc@xAsDxs@fKbB{AjJrAd@nFiAjFcB|@pChCrIl[|JdN|LrBmF@mCjAeK_BaHqCqChEcFTuJ}EyEbAh@hBfFhCbD@hDrC|E~Hj@nDi@hA}Bj@?vCmAvCVjLi@pC{BbA{AhCqD@oAxAu@gAu@ZDzAvCxEYfEw@rEp@zEhA\\|AsBk@hBhChBzIF`F~D`BD|C|HX`FpKbB`D|FHzEvCxElB`H|ItDl@xL~DnEjBnFzEvDiA|AnApE`Er@hLtHpCzOeBb\\~Dn@bCdE~IdBdGoArZrHXlA{@nEzFjJpA|G}AjOlIdFzFcGpKfJpFqE|IeBxGyM~B_KxC}BtFwKxSdIrGBbAsIjDsFtDsBrKuBzBgBlEqJrCqKO_YuAkHgKqLqNe^_Ya^kL{Uk@oHxCqLhSg\\|O_TjMeNdTaQpPiKtlAsm@zg@qPdSwDdViBn[Gx^nDze@zK`lApg@n_@|Lpo@|FfNb@fPEj|@dOB~@fh@~Hlo@t@rYbKtp@~Mxy@bX`BuAlFVhWmB|cD_eBWmCqDiAybAiNiMiGsFmK}Em[sG_RmHiGsh@qWgHuHeDyKiDcc@iFiSyMqVyN_OqLaHi`@yNwXcG{_@}k@iKmJi_@qPk\\}KkRuLyGsA_CVqOjFe[zDod@xlAz_@vSby@jm@j@vAUpM",
+"average_heartrate": 138.6,
+"average_speed": 5.731,
+"elevation_gain": 1121.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15613565656,
+"name": "Afternoon Ride",
+"distance": 3239.0,
+"moving_time": "0:14:42",
+"type": "Ride",
+"start_date": "2025-08-28 08:49:17+00:00",
+"start_date_local": "2025-08-28 16:49:17",
+"location_country": "\u4e07\u5b9d\u4e2d\u8def, \u6d77\u575b\u8857\u9053, \u5e73\u6f6d\u7efc\u5408\u5b9e\u9a8c\u533a, \u5e73\u6f6d\u53bf, \u57ce\u5357\u6751, \u798f\u5efa\u7701, 350400, \u4e2d\u56fd",
+"summary_polyline": "iirzCwr`zUGtBD`@AfAE^If@CBMA]MaAc@gAa@s@c@kFmCmDeBQMu@c@iCsAaDqByDiCm@k@MGeEoCmEcDgA}@{EoEg@a@m@o@OW_BgBc@k@s@u@qBaCiAkAGg@rDyHdByCl@{Az@cBAa@U_@c@]e@[_CmAIOv@qBVc@^}@Po@Ri@LURW?GNYJ[L_@Nm@b@eAHCVFNFb@ZL@f@oAXo@`@eALWD@{DqBo@Ug@]GDK@GACKx@oBB??D",
+"average_heartrate": 99.1,
+"average_speed": 3.672,
+"elevation_gain": 6.0,
+"source": "strava",
+"streak": 1
 }
 ]
