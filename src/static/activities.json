@@ -1934,5 +1934,53 @@
 "elevation_gain": 6.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15632145070,
+"name": "Morning Hike",
+"distance": 887.6,
+"moving_time": "0:14:15",
+"type": "Hike",
+"start_date": "2025-08-30 01:39:06+00:00",
+"start_date_local": "2025-08-30 09:39:06",
+"location_country": "\u6cc9\u5dde\u5c11\u6797\u5bfa, \u4e1c\u5cb3\u524d\u8857, \u9cf3\u5c71, \u4e1c\u6e56\u8857\u9053, \u6cc9\u5dde\u5e02, \u4e30\u6cfd\u533a, \u6cc9\u5dde\u5e02, \u798f\u5efa\u7701, 362000, \u4e2d\u56fd",
+"summary_polyline": "ilbwCko|rUDCEAGMw@FESII?EKOCKIEKEQ?[KSAGGMCMIE?IQCULU@MKYECGAKHG@KAWD?BAQIGERGBGEIFCCMBSRE@ENE?ED}@AOCEEOA@?ADEIGCOWCKBSGOC_@U?g@\\K?WUGAMQUIG@@CABSBSQSEK@QMK?AKIG]DiA]WS@BBEYWe@[EGGCE@GEG?GCMDAF?CAFDCDKA?AG?DB?CC?@D@@BIOBA?B?C?D@C@H?C@B@C?@@ECAC??@DAABB?ADB@ACBA@DC??BAE?FGABCCCBA@@C?DBAG?BC?BD",
+"average_heartrate": null,
+"average_speed": 1.038,
+"elevation_gain": 57.9,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 15632587894,
+"name": "Lunch Hike",
+"distance": 5659.3,
+"moving_time": "1:31:12",
+"type": "Hike",
+"start_date": "2025-08-30 02:26:40+00:00",
+"start_date_local": "2025-08-30 10:26:40",
+"location_country": "\u6e05\u6e90\u8857\u9053, \u6e05\u6e90\u519c\u573a, \u4e30\u6cfd\u533a, \u6cc9\u5dde\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd",
+"summary_polyline": "caiwCe`{rUHF\\I[g@JREABNF?HV@CDFd@Mp@A@DLE`@?N^PLANVDFIPBBDNC?QHIBDFWIICDKC@PIQ?FCAH@@CID\\O@JDCCLK@QRAPLDLTBJCLPJATEIFKEGEF?FQGEBEGO@KD?LG?IO]Ce@b@F@PWE?HCWF@IGA?D?ELLGUYLEMJEO?FCEBAGBAEAE?ANJXD?CMDIZFJJLAD[JOADNACEWP@PXCHXf@PJERa@HDLGBEGC?IOX@CAf@DBEDAEE?EH?JB?@LBACFDDAPh@B?OF?M[ABCIBFCBAGj@{@MU?D?c@La@CGSMK@ID?T?EOBMKGRK?GMWEa@AQ_@UK`ALLMHAJOTElAXA\\IB?LMR@HGVF^ZAJGF]F@R]j@_@@MLLFQNEHe@NGFFJQNCHUCQVOBUDDVGFJPDFPAHB@C@L?DGAGEBBN?MABMM?KHIEEBAAGHCAHJ?@MHEDOEIDKCCAODEEE@EDOD?AIB@@I\\S@SXLJERDJJVF?]NCC[@AEK?OSQAMFQH?AOHICILI@WHIMe@HU@Hd@KBBN?RGLMTCBKFGJ@NGFAIDHCBFCCRCRJTCPe@^A~@g@l@^n@FJ?b@Od@PPb@`@PJNFCRZODKd@MJE\\?GGBCJBFCEGDORF?g@x@?FXRDPI@?CDFEA?\\WRNvA?EBDEGBKD?AEHIN@FPF?FB@LJOAID??EJRFCDFRKCHBBCILH@F@MJODNGLHAJNBECE?FN?C@FKCGBFRLBFMIADB?G?H?GFFRHCFFO`@DEDB?^E}@@ER@FOGCBCE?HAEHJFKFC^EDBNCh@@IFJAEEPOFH@[RDBG@APa@f@CXGDBJGBJEICELCCBU?XEFS@]OMDHCDJ?EDBJK\\LT]DO@UPUBHGBACDC@DGAPSD??KPAPRADBCJHLVERBHU\\NFCLFKEAAH?MAHDIFHK@Ab@C?Ad@H@JRh@RAPJRHAGEDLCBDF?Zd@LDD?PTDVXTALJBFGJFHCHD\\CTFD?`@Ff@CZDTM~AHb@I\\B^CZHt@I\\BRa@j@Qd@[XWKc@?@Em@c@@HCGWFSE_@FOYa@YIADDED@JMFDFG@DIEBAEJKIZMEBPLKAc@FFCHDG@IBHCFJDBFE?EEt@^PDh@QXGBD?GLHV^P?p@^AFh@j@Zj@PDh@n@\\TDCJDvBrAhA`Bb@OBMBRZp@nArAz@j@DANXr@NLLAbARLCMBJGGEB?G",
+"average_heartrate": null,
+"average_speed": 1.034,
+"elevation_gain": 70.7,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 15639120758,
+"name": "Night Ride",
+"distance": 3264.5,
+"moving_time": "0:14:03",
+"type": "Ride",
+"start_date": "2025-08-30 15:42:25+00:00",
+"start_date_local": "2025-08-30 23:42:25",
+"location_country": "\u8679\u68651\u53f7\u822a\u7ad9\u697c, \u8fce\u5bbe\u4e00\u8def, \u7a0b\u5bb6\u6865\u8857\u9053, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "omk}DgfscVCkBGUDQCa@AoADOCGAiAAkBBEEw@B_@HWIYg@o@c@OWCIEO_@i@w@O[e@k@kA{@q@_@_@KWMeAAo@DaA@s@Bq@@OBMAw@DSAwAJO?GCESCgBMgBGU_@QEEGQCy@Mg@FCIw@HGIUBu@EE_@?OBYEy@@SCYBu@@_@DW?UF_AB]CCKFGD_@F]@qABu@?KBIAo@JsAAEDYAMFkC?w@Eq@Qg@OOMEY?ICm@LoDNMBqAH]FW?WEOFw@FUDMEY@}@PI?MD_B@a@JM?QDIA[J_A?SCm@FS?IBSBMDQAeALOA?Ba@F[?IFi@@MDo@BwARa@AOFSAk@Fe@Ac@HGAKBMAMDk@Ba@Je@BGA[B]?a@JW?IFW@",
+"average_heartrate": null,
+"average_speed": 3.872,
+"elevation_gain": 2.5,
+"source": "strava",
+"streak": 3
 }
 ]
