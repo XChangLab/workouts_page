@@ -277,6 +277,10 @@ const ActivityList: React.FC = () => {
 
   const navigate = useNavigate();
 
+  const handleHomeClick = () => {
+    navigate('/');
+  };
+
   const toggleInterval = (newInterval: IntervalType): void => {
     setInterval(newInterval);
   };
@@ -396,10 +400,7 @@ const ActivityList: React.FC = () => {
   return (
     <div className={styles.activityList}>
       <div className={styles.filterContainer}>
-        <button
-          className={styles.smallHomeButton}
-          onClick={() => navigate('/')}
-        >
+        <button className={styles.smallHomeButton} onClick={handleHomeClick}>
           {HOME_PAGE_TITLE}
         </button>
         <select
@@ -408,7 +409,7 @@ const ActivityList: React.FC = () => {
         >
           {sportTypeOptions.map((type) => (
             <option key={type} value={type}>
-              {TYPES_MAPPING[type]}
+              {type in TYPES_MAPPING ? TYPES_MAPPING[type] : type}
             </option>
           ))}
         </select>
