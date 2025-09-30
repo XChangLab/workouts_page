@@ -2238,5 +2238,21 @@
 "elevation_gain": 89.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15981733323,
+"name": "Morning Walk",
+"distance": 1745.5,
+"moving_time": "0:19:41",
+"type": "Walk",
+"start_date": "2025-09-30 00:40:02+00:00",
+"start_date_local": "2025-09-30 08:40:02",
+"location_country": "\u7518\u6eaa\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "imo}DsptcVa@DcB@YFs@@o@F[EQDu@?i@Hg@Dc@?GC[A[JaCJsCTMAwAJiBDMHg@@m@Ee@Ns@Do@CMGo@CODW`@[D_AXK?g@Jo@HMD}@Jy@PQIg@@IBi@f@{ATo@Pu@Js@R]B_Cl@[Bo@LUEUG_A@GBGFM^a@Pe@Cc@Dk@JwAP[eA?OPg@@[E[",
+"average_heartrate": 87.0,
+"average_speed": 1.478,
+"elevation_gain": 7.4,
+"source": "strava",
+"streak": 1
 }
 ]
