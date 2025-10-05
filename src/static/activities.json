@@ -2286,5 +2286,21 @@
 "elevation_gain": 102.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16027201186,
+"name": "Lunch Hike",
+"distance": 1101.1,
+"moving_time": "0:22:13",
+"type": "Hike",
+"start_date": "2025-10-04 04:06:22+00:00",
+"start_date_local": "2025-10-04 12:06:22",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 98.3,
+"average_speed": 0.826,
+"elevation_gain": 112.0,
+"source": "strava",
+"streak": 1
 }
 ]
