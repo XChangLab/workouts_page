@@ -2318,5 +2318,21 @@
 "elevation_gain": 74.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16048511089,
+"name": "Lunch Hike",
+"distance": 5768.0,
+"moving_time": "1:28:57",
+"type": "Hike",
+"start_date": "2025-10-06 04:30:31+00:00",
+"start_date_local": "2025-10-06 12:30:31",
+"location_country": "\u7701\u5e9c\u793e\u533a, \u4e91\u5ca9\u533a, \u8d35\u9633\u5e02, \u8d35\u5dde\u7701, 550003, \u4e2d\u56fd",
+"summary_polyline": "_vjaDq{fjSKHS@AB]NM?QR?JUBa@CAB@ABDIPQRIXOZEVIJe@Hi@?GFWBo@?EF]HYVYJGPK`@]\\GDO?DA?D]n@GP?PAHOTETJAFG@@CJBKFEFFC^KN@BNCBBEJBVFLFCENAN@DHAHKFq@Zg@TIE@x@IV?HAJBHNBLFd@HT@TJ^b@d@`@VDJCDBJx@tADLd@p@x@`@JHX~@j@ZFLVRDPDj@JTBTFDEXTfAL\\?JJb@CHM?a@]GA[]q@a@[A_@@]?_@Gu@QMGcBY_A[SEYLYTWFi@TOJG?SFc@?KBW@[AODGJDGOmBEMy@zM?PUb@FXJH\\P\\HVAl@Fn@GBHJNbA@TCb@QV]`@WT?f@Dz@b@RFTEL@NJZCL@v@t@FAHGT?NFPCP?Ib@?NQZJPCFBNA^EJSHY\\D?LN?n@O|@GR[d@IBWDU@WGMG]HIFCJHEAPBFJ@DNt@?PPB\\EJETt@jAJHLRR^L\\VVTLPNNBLJP@ZYHOBAt@LDFOp@DRh@BLFFHJN@f@Tf@BPHLDFPBt@AJBJJNf@CPONHDJHVXPr@?PABFz@f@xAZt@V`A@RE`B]pAKHCA@VCRFLJJp@`@XLr@Tp@D`@AXBl@ANEP?v@Z`@JNHBFA@VLZFRNv@TZZTLfA\\XLh@HBJZNX@b@Ph@H\\VNd@BLD@p@bA^`@|@p@d@j@DPTb@@HJZNPHPJNj@ZL?f@Jz@Ff@H\\Cp@R`AId@Hn@BFENAv@@zAODLLB`@El@ZNBNAVFX?JHf@HRNh@?d@Th@b@l@NTN`@P^JHJ~@j@LDVRXDTNj@BHLb@EN@TRl@ALMPGj@EdAOJ??A`@Ap@@",
+"average_heartrate": 89.2,
+"average_speed": 1.081,
+"elevation_gain": 124.0,
+"source": "strava",
+"streak": 1
 }
 ]
