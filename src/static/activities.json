@@ -2632,11 +2632,27 @@
 "start_date": "2025-11-07 23:05:57+00:00",
 "start_date_local": "2025-11-08 07:05:57",
 "location_country": "\u7518\u6eaa\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
-"summary_polyline": "sgo}DeuucVXyET{EJq@@iAPeEj@iKFi@Ec@WIo@@[Hq@D}@JmGh@WCY@cC`@_AJyALqAB}AICBe@EuBAuAGaCEUIC@[GuC?ac@y@_BGe@G[G{@Wg@Wq@a@c@_@sAwAa@g@IOZPtA`Bt@n@rAv@V\\CNOJe@h@",
+"summary_polyline": "sgo}DeuucVXyET{EJq@@iAPeEj@iKFi@Ec@WIo@@[Hq@D}@JmGh@WCY@cC`@_AJyALqAB}AICBe@EuBAuAGaCEUIC@[GuC?ac@y@_BGe@G[G{@Wg@Wq@a@c@_@sAwAa@g@IOZPtA`Bt@n@rAv@V\\CNOJe@h@[VsChAaAt@u@~@a@|@Qj@",
 "average_heartrate": 107.0,
 "average_speed": 4.833,
 "elevation_gain": 15.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16398639501,
+"name": "Morning Ride",
+"distance": 2715.6,
+"moving_time": "0:08:17",
+"type": "Ride",
+"start_date": "2025-11-08 22:48:06+00:00",
+"start_date_local": "2025-11-09 06:48:06",
+"location_country": "\u9633\u5149\u8def, \u5929\u5c7f\u5c71\u9876\u522b\u5885, \u5343\u5c9b\u6e56\u9547, \u6df3\u5b89\u53bf, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "uozsDk}puUf@Zb@Pv@`@zB`A[SmCmASC]QaBcAm@a@kA_AsAkAC?GDOf@[\\S\\Yz@Jc@VWT[Vg@JYRD\\\\nAbAtBrAjB`AbCdA`F|BfAp@hCzBzApB|InOp@`ATVVb@l@f@bAl@pAd@p@NtA?t@Ev@MxAe@bE_Cp@e@tDyBl@Wz@m@`CiAtGgCpAk@jAu@r@s@",
+"average_heartrate": 120.0,
+"average_speed": 5.464,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
 }
 ]
