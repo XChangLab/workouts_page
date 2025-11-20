@@ -91,6 +91,7 @@ const MAX_SPEED_TITLE = IS_CHINESE ? '最快速度' : 'Max Speed';
 const TOTAL_TIME_TITLE = IS_CHINESE ? '总时间' : 'Total Time';
 const AVERAGE_SPEED_TITLE = IS_CHINESE ? '平均速度' : 'Average Speed';
 const TOTAL_DISTANCE_TITLE = IS_CHINESE ? '总距离' : 'Total Distance';
+const AVERAGE_DISTANCE_TITLE = IS_CHINESE ? '平均距离' : 'Average Distance';
 const TOTAL_ELEVATION_GAIN_TITLE = IS_CHINESE
   ? '总海拔爬升'
   : 'Total Elevation Gain';
@@ -101,6 +102,8 @@ const WEEKLY_TITLE = IS_CHINESE ? 'Week' : 'Weekly';
 const DAILY_TITLE = IS_CHINESE ? 'Day' : 'Daily';
 const LOCATION_TITLE = IS_CHINESE ? 'Location' : 'Location';
 const HOME_PAGE_TITLE = IS_CHINESE ? '首页' : 'Home';
+
+const LOADING_TEXT = IS_CHINESE ? '加载中...' : 'Loading...';
 
 const RUN_TITLES = {
   FULL_MARATHON_RUN_TITLE,
@@ -149,6 +152,7 @@ const ACTIVITY_TOTAL = {
   TOTAL_TIME_TITLE,
   AVERAGE_SPEED_TITLE,
   TOTAL_DISTANCE_TITLE,
+  AVERAGE_DISTANCE_TITLE,
   TOTAL_ELEVATION_GAIN_TITLE,
   AVERAGE_HEART_RATE_TITLE,
   YEARLY_TITLE,
@@ -181,6 +185,7 @@ export {
   ACTIVITY_TOTAL,
   TYPES_MAPPING,
   HOME_PAGE_TITLE,
+  LOADING_TEXT,
 };
 
 const nike = 'rgb(224,237,94)'; // if you want to change the main color, modify this value in src/styles/variables.scss
