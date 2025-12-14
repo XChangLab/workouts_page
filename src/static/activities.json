@@ -2750,5 +2750,37 @@
 "elevation_gain": 158.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16728882896,
+"name": "Afternoon Ride",
+"distance": 4592.6,
+"moving_time": "0:18:36",
+"type": "Ride",
+"start_date": "2025-12-13 09:47:37+00:00",
+"start_date_local": "2025-12-13 16:47:37",
+"location_country": "Vanilla Residence, 11/7, \u0e16\u0e19\u0e19\u0e40\u0e17\u0e27\u0e31\u0e0d, \u6e05\u8fc8, \u0e1f\u0e49\u0e32\u0e2e\u0e48\u0e32\u0e21, \u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u6e05\u8fc8\u5e9c, 50300, \u6cf0\u56fd",
+"summary_polyline": "_~wqBk}a{QLw@Be@FkDd@eIDe@JqCDWDKI[gE[C@CXI|BEJC@s@@g@ZkIhBG`@VtCL`BdAtMHpADJnB`C^h@hBrBlBdBd@Vp@p@j@b@xB`BjDxBrDnB|CrAxAh@z@XL?LAHEJKd]ww@`@kATyAY_@wAk@a@OSCWQ_DiAcAc@{DwAu@WYCo@]_A]{@SMHcEhH{@bBE@K?c@Iq@GaAEoD_@_EQwAMQ?GFMPGTGfBYzEIj@A~@Ed@A^c@|H",
+"average_heartrate": null,
+"average_speed": 4.115,
+"elevation_gain": 4.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 16735181207,
+"name": "Morning Ride",
+"distance": 5749.4,
+"moving_time": "0:14:52",
+"type": "Ride",
+"start_date": "2025-12-13 22:44:29+00:00",
+"start_date_local": "2025-12-14 05:44:29",
+"location_country": "Vanilla Residence, 11/7, \u0e16\u0e19\u0e19\u0e40\u0e17\u0e27\u0e31\u0e0d, \u6e05\u8fc8, \u0e1f\u0e49\u0e32\u0e2e\u0e48\u0e32\u0e21, \u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u6e05\u8fc8\u5e9c, 50300, \u6cf0\u56fd",
+"summary_polyline": "o~wqBmva{QYvEGnASvC@LlB|AzAhAvA`AnAv@hDjB`Bz@fAn@x@\\zBr@HJLVD\\I^]n@kFpLaMjYc@x@a@bAQh@_@?o@SkAo@q@q@a@q@IUKc@YsBQq@W_@c@QoFa@uGs@uEa@aAGuD_@m@MeAe@g@G]?yCTyUnAg@Bi@Ag@Kg@QcPaIiBw@_AUiCYcSaB]A_@Bq@N]PaJjGc@VWJaARuGt@gH`Ae@Bg@CiQaBkDo@aA_@s@OKG?ANMD@zDt@N@FAHIHUr@iDDWEO",
+"average_heartrate": 111.9,
+"average_speed": 6.446,
+"elevation_gain": 7.0,
+"source": "strava",
+"streak": 2
 }
 ]
