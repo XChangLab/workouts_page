@@ -2830,5 +2830,53 @@
 "elevation_gain": 9.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16745631974,
+"name": "Chiang Mai Day 3: Ride to Mae Kuang Dam",
+"distance": 70530.3,
+"moving_time": "3:05:52",
+"type": "Ride",
+"start_date": "2025-12-14 23:50:18+00:00",
+"start_date_local": "2025-12-15 06:50:18",
+"location_country": "Vanilla Residence, 11/7, \u0e16\u0e19\u0e19\u0e40\u0e17\u0e27\u0e31\u0e0d, \u6e05\u8fc8, \u0e1f\u0e49\u0e32\u0e2e\u0e48\u0e32\u0e21, \u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u6e05\u8fc8\u5e9c, 50300, \u6cf0\u56fd",
+"summary_polyline": "c~wqBm|a{Q{@jSvJdHlPvGt]sx@jA}NfBouA~Pd@gMPu@rAUlF_ABPaL~BiCBuZ|HiB_FkKcH_Uk[cr@ygAaeBwmAebBkIcHqEqKeZq`@koAw`CsBtFaBa@Wj@aG{BeCf@oJwHaKXIw@yCq@XyOuQeFgAjAiGEiFiE}CuHyQ_AAsClBmEByCkCqBD{BsAuAUwBuCa@gH}JX_QeCmB^sBcOoG{ShAiN_BuKeDoB_C{AcHiFj@sEwDyD_J_Ie@cCcBo@oDsCcCkF[cG}BsAzCyBl@]rAoD}GaCgAD}AsAaCRqDsBcGyEuFgDcBuAcGD}DaBwNh@}G`B}DNoEpDuBaBcB^}BgI{Di@eE_FcBgLo@wAvAiIi@kEpBqKO}@hB{AQyB}DUeCcDcB}AcDcBeF_@aFmHyC{KaAL}ChCcBDcG{HhCoH_FsCoEcAx@`C}BcA~@}@s@eHeNeJkBiEoEyIuOuIsAmDLkCbB_IWcT_EuAjLcf@gF_EuGsVrLwS_[sD`DyGjBo@OlADeMmE}FzEyDGs@pB{Du@yB_CYbCqBxBsNx@qEnD|Ea@o@`C?hLO{Kz@oCaD|@s@g@tEkDrN{@dBwB^aC|BbCbEn@n@sBrDHtG}ElAxAlIbCjGsBtDuDnSd\\kAzC_Dz@kAfBVxDiBzDzBzBaCoCfBeD]aDn@gBhE{AxDgFlSeJz@ZfA~DbAv@xe@`F`BkLpTbEbHTxEsBvIj@hCjApHtNpFpFdNzA}C?pAhBvPzBhMcLpGeO`C}AvR`@DvDfD`A~A`EpN`D~AM|GuEp@xBlDYh@|HSxIs@fFuCrCi@lKtGhEbn@nOo@nEjHDfC`AqDcA]`CsBz@kEtFk@|FkHQoB`DqAM[~BnFjFcAzBhCnBxFoB|SjHfG|KT`DxK~GdD`IhDdDJzBwB~GyG|CStAnG`LdA`JGvA}@ElA\\vDrIlEdDfFk@~ArHnAbBm@b@_BrKsCYsChEwDhC?|CaAxB|@`EuA`CdGtJdDjBzBlGnBhBlIlP~H|FrA`FNdLbDjAzGOmAhGIpGrBbCfCrM?nJrC~Bh@zExNfEbBpIpEpFf@~F|AlCvGfVfDdDbFxCdC`W`EfCtA~DMm@`Bu@fBr@dHxHl@fD|DrG|NbKfIlCLx@fJhClfAbHxRpDjM~E~`@rW|@u@`RnLfI~BxDzCrIrIhRlJlDh@BrBpRn@v_A~{AGdA_HnGpJdVhAhWiEfVG~Im@^}I_CkD|[{FTe@lIdAhSwAhQHvFs@hB|@nIcGtVzA`AU|F}At@MtSrEdAkAB",
+"average_heartrate": 123.2,
+"average_speed": 6.324,
+"elevation_gain": 202.0,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 16746474517,
+"name": "Bua Tong Waterfalls",
+"distance": 1055.1,
+"moving_time": "0:19:54",
+"type": "Hike",
+"start_date": "2025-12-15 06:50:31+00:00",
+"start_date_local": "2025-12-15 13:50:31",
+"location_country": "\u0e0a\u0e21.4031, \u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e41\u0e21\u0e48\u0e41\u0e15\u0e07, \u6e05\u8fc8\u5e9c, \u6cf0\u56fd",
+"summary_polyline": "gnksB{kv{Qd@@PFRKRWAUDMTIHIHSPEb@WGQSOCQBRZZEJWHg@Fu@Bn@AL@DBDLRVHTHF?DPDCJBDNFBDJBFFJB@KGQBAHFJ@DAFIND@D\\KFNF@r@T?GWR?EE?H@@DCIEABMGABEEAHABIADE?KM@OAD@EABGGFADB@EIGQDNGDKD?@ECBCSM@IN?D@MG?OHE?MEE@CKMA@EEAADAKEEDAGGG??ECBGACHE??D@CAAG@GHB?@MGHAEQ?BCCAGBECAEE@AGG?",
+"average_heartrate": null,
+"average_speed": 0.884,
+"elevation_gain": 37.3,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 16746362200,
+"name": "Afternoon Hike",
+"distance": 517.8,
+"moving_time": "0:09:01",
+"type": "Hike",
+"start_date": "2025-12-15 07:23:12+00:00",
+"start_date_local": "2025-12-15 14:23:12",
+"location_country": "\u0e0a\u0e21.4031, \u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e41\u0e21\u0e48\u0e41\u0e15\u0e07, \u6e05\u8fc8\u5e9c, \u6cf0\u56fd",
+"summary_polyline": "smksBatv{QHCJFM?IU@QCML[Js@FQ?[FYCISSOWUO@A@FDSEIBA?ROP@@E?PC?FIDVGN@PPN\\?HSbAM\\Kh@?FNl@P`@LJHCFB?DLT@F",
+"average_heartrate": 116.6,
+"average_speed": 0.957,
+"elevation_gain": 16.0,
+"source": "strava",
+"streak": 3
 }
 ]
