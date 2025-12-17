@@ -2833,7 +2833,7 @@
 },
 {
 "run_id": 16745631974,
-"name": "Chiang Mai Day 3: Ride to Mae Kuang Dam",
+"name": "Chiang Mai: Mae Kuang Dam",
 "distance": 70530.3,
 "moving_time": "3:05:52",
 "type": "Ride",
@@ -2878,5 +2878,37 @@
 "elevation_gain": 16.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 16754820718,
+"name": "Chiang Mai: The Mae Rim - Samoeng Loop",
+"distance": 91679.3,
+"moving_time": "4:34:58",
+"type": "Ride",
+"start_date": "2025-12-15 23:39:38+00:00",
+"start_date_local": "2025-12-16 06:39:38",
+"location_country": null,
+"summary_polyline": "e~wqBiwa{Qs@tN`[dS{Xln@oDiB_DiIub@{Ec^fBiXsLaXuB}NlIeTpEc{@{JwTv^_JhBqd@_NoTwA{x@jTyJ}Cp@sWgB{As_A~L}_A|h@_iDb~@im@|[tWlY~BjMi@dGcRtb@_CzOl@`CvHlDv@pL{BvFLpFhGvHlNfi@zGlFnD|Ljc@x@~HbKaAAr@pEqB|IuDKCiDoEbFxG~C|ClGaCrMzA|DkDjDbD`Gs@~CKdMfNlK~GeAfJvFdHfRyAhG`ItQ[hUnCdQmFvQ|@zIpGtd@{AfL|BtCVlFuD`U`IlHeBfI`BfGaFbHb@lGvGhG_BlFlDxAhJdOh@lFsA~FxAvH~GdH`JbUjYrYqA|Ih@|B`FlAs@~MnAnKzAnClJdCDzI_DtKnEnLpJt@\\lGrBtAfBxIzCnB}CzKdA\\rGqIbC^qBz@}@bJ`HbAaE`IrGzHbD`RPx]bFxD_EpJiE`D|BjGC|G{GfEM|JsBrAxApFrCWzF`DkAbDb@`ItCpCI|ElCdEjBaAiAeCf@iGpHT~DmE`EuIzHjG~DgBjHnJZxErGnAbC_EY_FxDwLxBWnDvF^dT~CrBx@jHtIlDhAxDrEyCnFcOpEtExJ{E|BbM{DxBe@tFtDzG_BrD~@hEfOcBxH`D~AkD~H_CnC|@xA}GpIt@hCsAiAuRbEqHdFe@x@sInGsAjFcFpH|A~E_H|IwArChBlDeDrC`HxDxAbWeB~IiFtHg@hEaGjCbAa@zC`BK`CsTdFSxBgDnJcA`CeCdc@u@|EzBxTeDnGcGpPuAtGqGjKh@j@iOcSqDmIsUp@_IkEwTnBbA}EwM`EcGiDyIrDaLqEpCtEyCaDdLpCqLyBbDwJj@bCsCQgDiCp@\\aEqGq@gN{OpQsNyCqJrDoNvFy`@rW{HhBcDbJzBrA_Ifa@_AzByFJmIq@oEpRoBnEyAnCwGlMwAtB_NrHcKlDkMvNqQhAiL|GwBfAwGzKaA|EgEvE}\\nUeXmB{H`@qFvAgDjGk@pIaKRqDbXqK~B_XvMpB|FaSlF{GlIaFxHj@bF{KrHQuAwGsOgEdWkVxEbAl@_DbH}BbUa@lJaEnCfAnCfIfp@R{AqHDyFeNwOsD}PlK{PnHwWna@oS~MoNvBea@nCeJRwUnCeJn@mWoVxBqb@_AcCmDsBoQuUmNy`@ot@kh@fCwKoD{RzCkBsBcAcJuLA{KmFyJ_Ag`@i_@kb@qI}PcJkCmEsC_QcDwCq^o@_`A}Uqu@tO_OyFqDeJkI{BbIb@GkFxDUbMdDzb@qbAkHyChBn@h@qBeLoC_AtCkK}@]rGkKgC}AvA",
+"average_heartrate": 141.0,
+"average_speed": 5.557,
+"elevation_gain": 1371.0,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 16756232991,
+"name": "Doi Suthep Monk Trail",
+"distance": 4354.7,
+"moving_time": "1:29:55",
+"type": "Hike",
+"start_date": "2025-12-16 08:24:34+00:00",
+"start_date_local": "2025-12-16 15:24:34",
+"location_country": null,
+"summary_polyline": "{evqBwm|zQEDRZVVLr@GhA@nAFx@?`@IvAPl@@VE~@ILAHAC?@HJEDC?DBUn@GVGLKFMBKGc@e@I?IDUXg@v@mAzACNN`@CDIBe@KMDMJ]B_@?_@WO?WFOR@\\DFBb@HRD\\OVG^Q^UNMAQB]CcBTI?SDi@HMLSFu@p@]p@K^?NBLNN`A^ZRb@R`@BPE`B?ND`@PRRPBPHDJEN?FFX?RL\\@HCNBNGPO|@Dl@ZnARVLvARd@DZLVCf@@PCCCBEA@@DAC@@@AA@BOXMh@?JLfAAZ[XKTKb@?HIHGP?HEVMJAC?@C?FB?RCHKHIBAC?JFA?RA@BKA?BNL\\LLH@EJ?DHHCBFHAJKF@XLHEBBRCPAADJEPEBBFCLGF@BE\\AJB@BHMJKRI?IAGD?HBPCI@GAHU@OFABCEO@QIE?CBMCGHCLEr@DLGNAHGEACAD@@@C@@BIUV[Pe@PKFc@RK?WJS@KDMz@c@`@O@ORMDWZGB@?GTB~A@HDD@FLT@HNPFLFh@AVMr@OLCH@LERIPENKPOh@Gf@@`@a@nAE\\@NDTBDDEBFFDRh@DF@LA@?FJb@CFDH?h@DXVrAFDDLCJIHAHKLE@ELSN?H@?AJ]l@@??HBHCC@DDCCDB@?JF@?REHID@A?FKFBDCB@@EFAL@DE?CPIT?POJENIHANWXCF@TMJCXGDI??JGPmAt@U\\u@p@ELE\\FXv@n@Rh@@VALKZWVGLMHy@JU?kAXk@FIHCCODG?]FU?EFi@Gm@DCIA]EEAMHc@?a@AE@QCI@IACB?GO@KBEAW?UBAC?DCDBBCE?@FDCEBGCACBI?@JM",
+"average_heartrate": 127.8,
+"average_speed": 0.807,
+"elevation_gain": 652.0,
+"source": "strava",
+"streak": 4
 }
 ]
