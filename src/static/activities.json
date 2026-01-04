@@ -2958,5 +2958,21 @@
 "elevation_gain": 245.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16921156804,
+"name": "Afternoon Walk",
+"distance": 4061.1,
+"moving_time": "0:59:23",
+"type": "Walk",
+"start_date": "2026-01-03 08:53:11+00:00",
+"start_date_local": "2026-01-03 16:53:11",
+"location_country": "UV-Working, 1295, \u5357\u82cf\u5dde\u8def, \u65b0\u6865\u793e\u533a, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200070, \u4e2d\u56fd",
+"summary_polyline": "ibu}DuxidVEFEd@Dj@CXO~@Gr@ILCRAb@ILCNDNALXxABj@GLC@Hx@AJJj@JVHr@Nj@LZPV`@d@d@Z@JHLNHR^\\Vb@RD?AA?@VZ^VPHNBv@j@NNL\\d@\\l@bADNLPTFXREVAX^LJJ^bAFTJNJFFPr@`CBR?XId@KJ_@TIRI@UQUCULAFBDO^KJK`@c@r@[b@Kd@EDQFEB@DEFSFQPWb@i@r@AJOq@_@{@OMACBAB@AKKQB@E?B?[LQRSn@u@h@UJi@^OPQLW\\mAz@SR[`@Uj@o@z@o@j@Uj@]p@g@rAg@x@Ud@o@jABP?XGH@K@Di@v@Ud@y@vAQh@[h@SPSFMP]FOAWLUA}@TIDCT?RETMC[DICOWOHYEe@e@W]_As@KOu@u@c@OCEA@e@YEECIIAGIKCOMUGg@[[Ec@Sa@Ge@Q]G_@ES@UAw@K[Be@GUB{@EY@]C?CFCR@BCGKSFABZ?HB@D@nAGp@EFWF{BAMHGN?v@^rAh@vAPl@FJRJFRVTFPDt@Jd@@b@ANPjB?\\CTJd@ATJl@EZJn@?j@Hr@?nADZBh@BdA@HP\\AJPA",
+"average_heartrate": 72.1,
+"average_speed": 1.14,
+"elevation_gain": 40.0,
+"source": "strava",
+"streak": 2
 }
 ]
