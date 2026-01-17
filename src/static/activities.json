@@ -3022,5 +3022,21 @@
 "elevation_gain": 194.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17067729738,
+"name": "Evening Ride",
+"distance": 2965.1,
+"moving_time": "0:09:10",
+"type": "Ride",
+"start_date": "2026-01-16 10:10:41+00:00",
+"start_date_local": "2026-01-16 18:10:41",
+"location_country": "Century 3 (Shanghai) Inc., 1178, \u5317\u7fdf\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "ixq}DuctcVBFLW\\BZU?G@_BGmDAmBIaGCu@E_Q?_ASwN@wAJyAXyBP[HAZFfFfBh@FRAPILQBUp@oNFy@JQXCbDHdC@pAG|@AnBH`AAlANzBCxABtC@lBFfA@dAArFc@f@CTG\\C|Fg@zCUz@CnG}@~@Ev@O",
+"average_heartrate": 110.5,
+"average_speed": 5.391,
+"elevation_gain": 2.0,
+"source": "strava",
+"streak": 1
 }
 ]
