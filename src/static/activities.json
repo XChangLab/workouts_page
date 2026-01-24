@@ -3086,5 +3086,21 @@
 "elevation_gain": 6.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17146218261,
+"name": "Lunch Walk",
+"distance": 2479.5,
+"moving_time": "0:32:18",
+"type": "Walk",
+"start_date": "2026-01-23 04:19:34+00:00",
+"start_date_local": "2026-01-23 12:19:34",
+"location_country": "699, \u798f\u6cc9\u5317\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "w_r}DmutcVBSx@M\\MvA_@HE@OBcAG{@L{@CS?s@JUEoA?w@]SAI@I^y@Eq@BUAe@CSIKOKmBOu@KQEEGuACMS?g@B[BWNSBc@Gw@EUKcBKc@EECUB[Iq@K_BEkBHoBJo@NWHKTKNSf@[RETCR?`BId@IXMVERLH?RI^[@MFGXw@NYa@hBw@fCk@~COhBCjADfF?fCDp@Gh@OTKCJJDz@?l@HNFT@NIb@A\\Bj@Qp@HNPN?hBF|CCv@DZ?\\Ib@KVHb@JLHZCt@Ub@D^?vAMZ",
+"average_heartrate": 90.3,
+"average_speed": 1.279,
+"elevation_gain": 7.0,
+"source": "strava",
+"streak": 2
 }
 ]
