@@ -3166,5 +3166,21 @@
 "elevation_gain": 15.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17392184244,
+"name": "Twin Hills Hiking \ud83e\udd23",
+"distance": 1936.0,
+"moving_time": "0:32:10",
+"type": "Hike",
+"start_date": "2026-02-14 09:03:15+00:00",
+"start_date_local": "2026-02-14 17:03:15",
+"location_country": "\u4e0a\u6d77\u4e45\u4e8b\u56fd\u9645\u9a6c\u672f\u4e2d\u5fc3, \u901a\u8000\u8def, \u6d66\u4e1c\u65b0\u533a, \u6768\u601d, 200232, \u4e2d\u56fd",
+"summary_polyline": "ieh}Dc`ldV]RCF[NICIYKGOCYFOCGGMYAu@OUMAC`@GNMHM?[GMQIYUQWu@Cq@@_@E[GMYQOQGQ?]JQPo@HY?QG[Q]C]@OGq@YUKOK?EC?OEO@[MAGIK]@QEQKAEXGJIFM?OJKR?AOI?AA?B@CC?@@GCAEQKSEOTKL@NE?GKOBORK@ICQ?MYa@QAQFQ@YKMDADSDOIKOKY@GLQf@QPW@WMg@BWLMNE\\DZE\\g@RKNNFVLVF@NENKHBL^A?e@mAUe@oAkB[iAQSYu@IY?SL]LKNQBQD}@FK|AkBfBmAPErA}@fAi@LOLGBET?JEXBFFT^^^HV",
+"average_heartrate": 86.6,
+"average_speed": 1.003,
+"elevation_gain": 37.0,
+"source": "strava",
+"streak": 1
 }
 ]
