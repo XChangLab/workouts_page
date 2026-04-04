@@ -3056,6 +3056,22 @@
 "streak": 1
 },
 {
+"run_id": 17102111201,
+"name": "Evening Ride",
+"distance": 0.0,
+"moving_time": "0:37:05",
+"type": "Ride",
+"start_date": "2026-01-19 10:29:26+00:00",
+"start_date_local": "2026-01-19 18:29:26",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 125.3,
+"average_speed": 0.0,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
+},
+{
 "run_id": 17134953761,
 "name": "Lunch Walk",
 "distance": 1820.0,
@@ -3326,5 +3342,21 @@
 "elevation_gain": 1165.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17967427434,
+"name": "Morning Ride",
+"distance": 5764.7,
+"moving_time": "0:14:52",
+"type": "Ride",
+"start_date": "2026-04-03 21:35:08+00:00",
+"start_date_local": "2026-04-04 05:35:08",
+"location_country": "\u7518\u6eaa\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "aio}DogucVB@@g@X_F@UGCFAFq@?yALqBXwFPuBHuBZ_G@{@Fk@FgBRyBAYIQIESGa@?_BNgJn@_D`@oAJkBHk@CmFE{CMq@?YIMKKA{@Jm@Bo@IsDCk@CSIC?@@YCg@Dw@AyDIoEEcDKsGIaAIw@Mk@Qm@Wc@WaAw@oBsBCK@EJBjArAz@z@\\Xx@d@\\HZCVILe@JgABgAAqCHaB\\mC`@mAXi@|@iAbAaAn@e@~EmCXQ`@_@x@kA`@w@Z{@VqAFs@DoAIgDE_AIeFGmACaDBu@HiAd@_Dv@{DTkBNiBDwA?eAKcHKkDBUB_AF]h@kB\\aA`@oAXyAZoCBm@@aAD_VEsAQsAYoAwCcKKmAES?WCK?@",
+"average_heartrate": 121.0,
+"average_speed": 6.463,
+"elevation_gain": 17.0,
+"source": "strava",
+"streak": 1
 }
 ]
