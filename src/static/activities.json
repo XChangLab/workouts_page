@@ -3422,5 +3422,37 @@
 "elevation_gain": 163.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18142893742,
+"name": "Evening Ride",
+"distance": 3087.1,
+"moving_time": "0:11:56",
+"type": "Ride",
+"start_date": "2026-04-17 10:09:30+00:00",
+"start_date_local": "2026-04-17 18:09:30",
+"location_country": "699, \u798f\u6cc9\u5317\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "e`r}DwttcVhB_@vAc@?@^UdA}@HWEwG@yBC_D@gAIgGIcDA}AB}APaCRkAp@wB~AaGz@yCZMf@AdCL`AAjCHjCD\\?hAKfA?xELTFj@?t@EnB?fFNzC@dGa@hAMlGg@~BYxAIR@`Ca@tFw@NC\\B\\CDAZyKHiAJcFLwB",
+"average_heartrate": 105.8,
+"average_speed": 4.312,
+"elevation_gain": 8.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18150267042,
+"name": "Morning Ride",
+"distance": 3714.1,
+"moving_time": "0:10:41",
+"type": "Ride",
+"start_date": "2026-04-17 21:59:39+00:00",
+"start_date_local": "2026-04-18 05:59:39",
+"location_country": "\u7518\u6eaa\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "kio}DeeucVBEDs@JkCXgEDeB\\uFl@aMLgDf@mI?SMOKGYCg@@{ALcDZkDRmCZUFcBFw@JsC?_CIwFK_@G@FOMYCiABy@AoBGaFEyAGsWc@iAKg@Ki@Qw@[u@i@k@e@oAuA_AsAwEqFB?U]e@iAs@cAWWgAi@uCiBUMaAY}BWICOM?UfCgHRu@BYCWO[o@Yu@UGK?GFEBOVg@BQDg@J{@H[Do@HAQ[LL",
+"average_heartrate": 147.3,
+"average_speed": 5.794,
+"elevation_gain": 12.0,
+"source": "strava",
+"streak": 2
 }
 ]
