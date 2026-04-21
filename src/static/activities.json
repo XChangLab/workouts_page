@@ -3502,5 +3502,21 @@
 "elevation_gain": 15.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 18179794943,
+"name": "Lunch Ride",
+"distance": 6586.6,
+"moving_time": "0:22:39",
+"type": "Ride",
+"start_date": "2026-04-20 04:06:36+00:00",
+"start_date_local": "2026-04-20 12:06:36",
+"location_country": "\u534f\u548c\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "ggr}D__tcVQEEIAW@uAHgAJi@X}BTaCJiDc@kKQeGJs@pAoCJSPORA^Bv@VhAR~ANVU?GOe@MGwCa@{@SwBk@y@[_A_@wCwAwEcCsJuEuAy@gB{@[Kg@GcAUcBe@_Bk@s@Q{@MmA]OIEOzBqGb@yA\\{@`BsEP[r@cCjA_DbA}Cb@eAnAuDfEoLLg@ACSKA]GKeA_@e@YAEd@q@FYVyAFuAKeAI_BGYY]QO@EVVPVHl@LrCS|BMz@e@jABPRPtAd@HN?^Qp@_CvGMXS\\Sh@gBtFiBlFkA`D?F[b@YhAmGnQM\\OL]b@GTTHh@@l@LrA^`A\\dARpDdA~Ah@hHfDnKtFbGvCpAd@pA^pCn@xBTXLJNFRPdQJZLTJH^Jf@A~@OtAKHBBLBSM^aBTQF?VZ`BPvA",
+"average_heartrate": 115.5,
+"average_speed": 4.847,
+"elevation_gain": 21.8,
+"source": "strava",
+"streak": 4
 }
 ]
