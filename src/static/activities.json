@@ -3694,5 +3694,37 @@
 "elevation_gain": 15.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18525717815,
+"name": "\u6d59\u897f\u5929\u8def\u592a\u5b50\u5c16",
+"distance": 96298.1,
+"moving_time": "4:27:35",
+"type": "Ride",
+"start_date": "2026-05-16 03:40:48+00:00",
+"start_date_local": "2026-05-16 11:40:48",
+"location_country": "S102, \u9f99\u5c97\u9547, \u4e34\u5b89\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "abbwDukavUyCpA`@xo@sEzRe]dOcO~OHzXnJri@_BpEuSbLmDxMWxHpEv[nVvg@~FzYfV`[hSdOvPh@r_@qK`J{NpLaEvRvAxD~JbD`WvZ|e@pCnNs@vQkP~b@_Lfh@LhFhCtFl[fXjb@jC`BxFaAlIvE~D`@nIoDtPmLpJaSoIkLs@fAro@wUvlAqChCsMD_HzGmBhJn@`e@vCx\\g@~TwDlP}JnJeGp[hBvFdNdMuA`RzB~SlUrIhWlq@dAjWoEdWFjRsCnV~NzReDh^rEtQ{DbHoA`TyA~[`BdPoObHi@rI_NdIsHjTeMlK{E`ORnJyBrGWfLwDdEqCpKvBhJoBfIjCtHqAxGvCfErB`V_Bpd@rDxN\\jOzB~E_JtSjFhJDlD{CtFyHbCwEvF}NiCkG`JuI_DoEdFaE_HoLG_GqRlAg@xBjJxBk@aF{SkGgKi@}ItClAzBnHhHgDiCuFiCX[uFsDmCmKa@aMyHeEzDaAmG`GsA|@{DtC[`FdFvGqJ~EtEjFeFtF|DLdCzE{@`@tFzLfAlDoRfCqD[iDyFqE}E\\sDsQHaHeAdFrB`U|ApDxFdAoEhGoHqZgHsEuD^aE{Fm@_LwImCq@_LkLwUfDzSjBbCf@lMpG`FEzFeK_JeNsBcKsNmM{AkObEnCAaIo@gQsJvJ_CdBkLkGtCkGmJkDIhDs@|GbAyGgEeIsQ|IvI|@wAwJqR}FkDvHt@zCtDlGcHyF`@_H}EbIuAeEmPkA@nA`FgAjBgOgE~EiAo^iRnLx@j@yAeYiGqBkIsT}XoIuDGcN{CqFMaRsC}LwDuGsPuNMqYaHuCoCyLcHcD{AoN_PoDsAiMz@}MwOeOaI{NrIk]z@kOxJ}U`AwUgIgH}SfIqXaO{VqDeNeQwKrD_Ge@qJsHqKgBiQoIkk@gXsFuF{MyF}JvAsRcFqGf@eHqNkSyO{KzBwTcAwNcKkLcV_VaZmO@{GeF\\kMqCqMeT_Fa@mNoPuKmAgHqCkBk@iJ~CoHI_PqE{AkJ}LgKjCgBjF}Dv@iPoCoSxQgAsBxAcFbQwN~Lo@jCiSlOuLfEaNk@{N`BiKo@cEsEcBvCgCa@{ByImA}KfIuIwHUeJzKqO}@cFkHoIHqCtPsCbGyFxB_KjD{AxGfEtQEdJeJxF|OpN_BzQlB``@gKvMyHr_@uf@bCe[|MkMxL{UlAaNlY__@tDoPza@g^pCuLp@sTbMsGhEwUrRoR`[uHjKiKhGiB||@`MxUaGbCkCfD_SbQH`HkG|a@}HnG{F|MmYbT}G~b@oDvA}D}@sTvBiDle@k@tn@~Ith@_G|W}KxTeB",
+"average_heartrate": 157.7,
+"average_speed": 5.998,
+"elevation_gain": 1473.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18530591446,
+"name": "Night Ride",
+"distance": 5313.0,
+"moving_time": "0:15:25",
+"type": "Ride",
+"start_date": "2026-05-16 14:21:43+00:00",
+"start_date_local": "2026-05-16 22:21:43",
+"location_country": "\u957f\u5b81\u8def, \u5468\u5bb6\u6865, \u5468\u5bb6\u6865\u8857\u9053, \u6cd5\u534e, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200062, \u4e2d\u56fd",
+"summary_polyline": "kup}Dwd}cVRtDp@zD?z@GhAu@pDUhBCjA?lDJnNFnFNxIAxEItBQ`C[~BA`@q@vDWlB_@|AiA|GU`CCnBBnBHp@@|@EjEH`AGrAs@bEQ`BCbA@tACh@DtACt@L|@b@nF\\`D@n@C^SlA[p@QNkDnBk@b@gA~@}@bAa@r@m@vAm@`CoBzG@T@J^|@n@`@T@fMTTERDz@E~C@f@FxABr@HrBIbHJFETHzBBvAGlAM^?dAGPCXBFDDDDRAV{@jL[hDERBf@XXxCAp@EzAQvCs@|@QRDJPBTMfDa@nGKz@AlBWjE",
+"average_heartrate": 104.7,
+"average_speed": 5.744,
+"elevation_gain": 15.0,
+"source": "strava",
+"streak": 1
 }
 ]
