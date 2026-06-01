@@ -3790,5 +3790,21 @@
 "elevation_gain": 35.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18723547511,
+"name": "2026 Trek 100 Anji",
+"distance": 94776.5,
+"moving_time": "3:37:01",
+"type": "Ride",
+"start_date": "2026-05-31 00:57:38+00:00",
+"start_date_local": "2026-05-31 08:57:38",
+"location_country": "\u5b5d\u4e30\u9547, \u5b89\u5409\u53bf, \u6e56\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "muxyDouzwUkCsK}LyNxCuFjDq_@pG}HqAyBnEgRdDSeAmCbMoD|DmEvCvA@yCzGrBrTyIz]p@`EyKtDTrCxEoDtDC|B`GaBlF~HlTxLhNA`GtPjRhFbKbIi@tHbCzK}DxOvDjKuLvEkHzO}NLePrE{W[e[~LsPvKqS~AmRyIwGlCiT~@yDbKyEdEcHZ`@~NeIrNVjGjGbHnTfE`GbJxHld@fCvEbNY~LiGvG{Ir@l@cApKvEdDjc@aNnc@tNzT`b@~Evj@pEhOtBnClVjF~K~HbE`L~CtSuCr[oK`@qKfH_CzH|AxLkCtI}TpJkPfOmFbLKpKwIfI{EtNqL`OyCrTd@zCjDdG_K|FiA~F|Cds@tJ`Sa@tRkE`Y~@|NwD~SjAhP}BxGoA`Q~@~b@fItXkCjWo_@~^o`@m]cKsRwFoTvFcDhCcHpEyDzAsKvFsIiBeNbAkG}CoSlA_e@pF{PUySzNmH`PqAdJmLpD_AcDwu@bAcFbKuFsDcH_@mD`FkZyTsH{Q_O{JvFmFtLqFjEe\\VqSkJgOdGqC}Fc_@x@aC`Bq^kOaA~@ClK_HuBoDbDcMcBqUxJmKaCyFjAuBaKqMoQw@_m@gD{M}EeACwHk@fEgCb@jBoBoDuGuXeLmJgIwCuHmNkKyKgOaC_MeMoC{BoKgDGsJnV_Z|Dai@aU{TgT}GkAu@kEtAwCmFmHxCi@pDgPlQ`CdBeC`QrIpMLpI{J~BuJpYmB[kIxBsFKoJfJqBdFkE|Ge@hBeFpEy@rN{KpKuPfKWvCkFrSiMlI@~CqCzG`EzFiIdJjBdFsMnSz@pAiPdGn@KiHpGp@|GwBxB{DpKuEjAcJbLwPfDeMlSzAfQyg@rF~A`IuFvEkc@jGwHoAiCpEyQdDY}@oCvL_DbEoEnCxA@yCnHjBpRiI|_@`@bEaLzDj@vBjDuD~E?xBbGcBnF~HtT~LvMOxGdQlR`FxJbIo@bIfCfKaEdQxDfJgNrG_JrU{IfMkGhYjIbNeCd\\vKnL_G`MQpD`J`OvIhFtBfJlWc@pz@mUlCoEm@uJz@{BnMmCjI~@dL_JzAwThW}MpDAv`@jPhRTrL}CtB|CpLrDj@|F]|T}CjNmRnOw@hCbA~SmGxWi@`TlAdGlItIuHnP_KtLgEjPiCFiXgI{WcDzDeXhKsJ~HuAnIeUzFHrJmFqCiDgNtBAgEiF_BmIwFk@gJiSmR{EqL}AmRaCqQsLjH_GuAgMlBwAzCd@pKaD`Emz@`Umc@f@q@lJ}WPuKyLo_@gL_d@zMuEgD`AyJ{@gAsF~HcNhH}MZcCoEmGkb@mGoKgOqB_NwLBwHrHkLmByTtFeh@wAbA",
+"average_heartrate": 172.0,
+"average_speed": 7.279,
+"elevation_gain": 988.0,
+"source": "strava",
+"streak": 2
 }
 ]
