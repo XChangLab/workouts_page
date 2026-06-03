@@ -12,8 +12,8 @@ import Map, {
   FullscreenControl,
   NavigationControl,
   MapRef,
-  MapInstance,
-} from 'react-map-gl/mapbox';
+} from 'react-map-gl';
+import { MapInstance } from 'react-map-gl/src/types/lib';
 import useActivities from '@/hooks/useActivities';
 import {
   IS_CHINESE,
@@ -36,18 +36,16 @@ import {
   geoJsonForMap,
   getMapStyle,
   isTouchDevice,
-} from '@/utils/geoUtils';
+} from '@/utils/utils';
 import { RouteAnimator } from '@/utils/routeAnimation';
 import RunMarker from './RunMarker';
 import RunMapButtons from './RunMapButtons';
 import styles from './style.module.css';
-import type { FeatureCollection } from 'geojson';
-import type { RPGeometry } from '@/static/run_countries';
+import { FeatureCollection } from 'geojson';
+import { RPGeometry } from '@/static/run_countries';
 import './mapbox.css';
 import LightsControl from '@/components/RunMap/LightsControl';
 import { useMapTheme, useThemeChangeCounter } from '@/hooks/useTheme';
-
-const KEEP_WHEN_LIGHTS_OFF = ['runs2', 'runs2-indoor', 'animated-run'];
 
 interface IRunMapProps {
   title: string;
@@ -58,12 +56,6 @@ interface IRunMapProps {
   thisYear: string;
   animationTrigger?: number; // Optional trigger to force animation replay
 }
-
-type MapStyleLayer = {
-  id: string;
-  type?: string;
-  layout?: Record<string, unknown>;
-};
 
 const RunMap = ({
   title,
@@ -77,18 +69,23 @@ const RunMap = ({
   const { countries, provinces } = useActivities();
   const mapRef = useRef<MapRef>(null);
   const [lights, setLights] = useState(PRIVACY_MODE ? false : LIGHTS_ON);
+  // layers that should remain visible when lights are off
+  const keepWhenLightsOff = ['runs2', 'runs2-indoor', 'animated-run'];
   const [mapGeoData, setMapGeoData] =
     useState<FeatureCollection<RPGeometry> | null>(null);
-  const isLoadingMapDataRef = useRef(false);
+  const [isLoadingMapData, setIsLoadingMapData] = useState(false);
   const [mapError, setMapError] = useState<string | null>(null);
 
   // Use the map theme hook to get the current map theme
   const currentMapTheme = useMapTheme();
   // Listen for theme changes to update single run color
-  useThemeChangeCounter();
+  const themeChangeCounter = useThemeChangeCounter();
 
   // Get theme-aware single run color that updates when theme changes
-  const singleRunColor = getRuntimeSingleColor();
+  const singleRunColor = useMemo(
+    () => getRuntimeSingleColor(),
+    [themeChangeCounter]
+  );
 
   // Generate map style based on current theme
   const mapStyle = useMemo(
@@ -98,31 +95,14 @@ const RunMap = ({
 
   // Mapbox GL JS requires a token even when using other vendors
   // Always use the MAPBOX_TOKEN from const.ts (user may have set their own token)
-  const mapboxAccessToken = MAPBOX_TOKEN;
-
-  /**
-   * Toggle visibility of map layers based on lights setting
-   * @param map - The Mapbox map instance
-   * @param nextLights - Whether lights are on or off
-   */
-  const switchLayerVisibility = useCallback(
-    (map: MapInstance, nextLights: boolean) => {
-      const styleJson = map.getStyle();
-      styleJson.layers.forEach((it: { id: string }) => {
-        if (!KEEP_WHEN_LIGHTS_OFF.includes(it.id)) {
-          if (nextLights) map.setLayoutProperty(it.id, 'visibility', 'visible');
-          else map.setLayoutProperty(it.id, 'visibility', 'none');
-        }
-      });
-    },
-    []
-  );
+  const mapboxAccessToken = useMemo(() => {
+    return MAPBOX_TOKEN;
+  }, []);
 
   // Update map when theme changes
   useEffect(() => {
     if (mapRef.current) {
       const map = mapRef.current.getMap();
-      let restoreStyleTimer: ReturnType<typeof setTimeout> | undefined;
 
       // Save current map state before changing style
       const currentCenter = map.getCenter();
@@ -136,7 +116,7 @@ const RunMap = ({
       // Create a stable handler for style.load to ensure proper cleanup
       const handleStyleLoad = () => {
         // Add a small delay to ensure style is fully loaded
-        restoreStyleTimer = setTimeout(() => {
+        setTimeout(() => {
           try {
             // Restore map view state
             map.setCenter(currentCenter);
@@ -154,14 +134,8 @@ const RunMap = ({
 
       // Use once to automatically remove the listener after it fires
       map.once('style.load', handleStyleLoad);
-      return () => {
-        map.off('style.load', handleStyleLoad);
-        if (restoreStyleTimer) {
-          clearTimeout(restoreStyleTimer);
-        }
-      };
     }
-  }, [mapStyle, lights, switchLayerVisibility]); // Include lights to ensure layer visibility updates correctly when theme changes
+  }, [mapStyle, lights]); // Include lights to ensure layer visibility updates correctly when theme changes
 
   useEffect(() => {
     if (mapRef.current) {
@@ -171,7 +145,7 @@ const RunMap = ({
       let tileErrorCount = 0;
       const MAX_TILE_ERRORS = 10;
 
-      const handleStyleError = (e: unknown) => {
+      const handleStyleError = (e: any) => {
         console.error('❌ Map style failed to load:', e);
         setMapError(
           'Map tiles failed to load. Please check your internet connection.'
@@ -232,21 +206,35 @@ const RunMap = ({
     return filtered;
   }, [countries]);
 
+  /**
+   * Toggle visibility of map layers based on lights setting
+   * @param map - The Mapbox map instance
+   * @param lights - Whether lights are on or off
+   */
+  function switchLayerVisibility(map: MapInstance, lights: boolean) {
+    const styleJson = map.getStyle();
+    styleJson.layers.forEach((it: { id: string }) => {
+      if (!keepWhenLightsOff.includes(it.id)) {
+        if (lights) map.setLayoutProperty(it.id, 'visibility', 'visible');
+        else map.setLayoutProperty(it.id, 'visibility', 'none');
+      }
+    });
+  }
+
   // Apply layer visibility when lights setting changes
   useEffect(() => {
     if (mapRef.current) {
       const map = mapRef.current.getMap();
       // Add a small delay to ensure map is ready
-      const visibilityTimer = setTimeout(() => {
+      setTimeout(() => {
         try {
           switchLayerVisibility(map, lights);
         } catch (error) {
           console.warn('Error switching layer visibility:', error);
         }
       }, 50);
-      return () => clearTimeout(visibilityTimer);
     }
-  }, [lights, switchLayerVisibility]);
+  }, [lights]);
 
   const mapRefCallback = useCallback(
     (ref: MapRef) => {
@@ -264,15 +252,14 @@ const RunMap = ({
             return;
           }
           if (!ROAD_LABEL_DISPLAY) {
-            const layers = (map.getStyle().layers ?? []) as MapStyleLayer[];
+            const layers = map.getStyle().layers;
             const labelLayerNames = layers
               .filter(
-                (layer) =>
+                (layer: any) =>
                   (layer.type === 'symbol' || layer.type === 'composite') &&
-                  (layer.layout?.['text-field'] !== undefined ||
-                    layer.layout?.text_field !== undefined)
+                  layer.layout.text_field !== null
               )
-              .map((layer) => layer.id);
+              .map((layer: any) => layer.id);
             labelLayerNames.forEach((layerId) => {
               map.removeLayer(layerId);
             });
@@ -286,27 +273,25 @@ const RunMap = ({
         switchLayerVisibility(map, lights);
       }
     },
-    [lights, switchLayerVisibility]
+    [mapRef, lights]
   );
 
   const initGeoDataLength = geoData.features.length;
   const isBigMap = (viewState.zoom ?? 0) <= 3;
 
   useEffect(() => {
-    if (isBigMap && IS_CHINESE && !mapGeoData && !isLoadingMapDataRef.current) {
-      isLoadingMapDataRef.current = true;
+    if (isBigMap && IS_CHINESE && !mapGeoData && !isLoadingMapData) {
+      setIsLoadingMapData(true);
       geoJsonForMap()
         .then((data) => {
           setMapGeoData(data);
+          setIsLoadingMapData(false);
         })
         .catch(() => {
-          // Keep map behavior unchanged; tile errors are reported separately.
-        })
-        .finally(() => {
-          isLoadingMapDataRef.current = false;
+          setIsLoadingMapData(false);
         });
     }
-  }, [isBigMap, mapGeoData]);
+  }, [isBigMap, IS_CHINESE, mapGeoData, isLoadingMapData]);
 
   let combinedGeoData = geoData;
   if (isBigMap && IS_CHINESE && mapGeoData) {

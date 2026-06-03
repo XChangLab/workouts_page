@@ -1,38 +1,35 @@
-import React, { lazy, Suspense } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
+import Index from './pages';
+import NotFound from './pages/404';
+import ReactGA from 'react-ga4';
 import {
-  initializeGoogleAnalytics,
+  GOOGLE_ANALYTICS_TRACKING_ID,
   USE_GOOGLE_ANALYTICS,
-} from './utils/analytics';
+} from './utils/const';
 import '@/styles/index.css';
 import { withOptionalGAPageTracking } from './utils/trackRoute';
-
-const Index = lazy(() => import('./pages'));
-const HomePage = lazy(() => import('@/pages/total'));
-const NotFound = lazy(() => import('./pages/404'));
-
-const createRouteElement = (element: React.ReactElement) =>
-  withOptionalGAPageTracking(<Suspense fallback={null}>{element}</Suspense>);
+import HomePage from '@/pages/total';
 
 if (USE_GOOGLE_ANALYTICS) {
-  void initializeGoogleAnalytics();
+  ReactGA.initialize(GOOGLE_ANALYTICS_TRACKING_ID);
 }
 
 const routes = createBrowserRouter(
   [
     {
       path: '/',
-      element: createRouteElement(<Index />),
+      element: withOptionalGAPageTracking(<Index />),
     },
     {
       path: 'summary',
-      element: createRouteElement(<HomePage />),
+      element: withOptionalGAPageTracking(<HomePage />),
     },
     {
       path: '*',
-      element: createRouteElement(<NotFound />),
+      element: withOptionalGAPageTracking(<NotFound />),
     },
   ],
   { basename: import.meta.env.BASE_URL }

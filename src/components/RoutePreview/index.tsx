@@ -1,6 +1,5 @@
 import React from 'react';
-import { pathForRun } from '@/utils/geoUtils';
-import type { Activity } from '@/utils/utils';
+import { pathForRun, Activity } from '@/utils/utils';
 import { NO_ROUTE_DATA, INVALID_ROUTE_DATA, INDOOR_COLOR } from '@/utils/const';
 import styles from './style.module.css';
 
@@ -96,9 +95,8 @@ const RoutePreview: React.FC<RoutePreviewProps> = ({
         />
 
         {/* Routes */}
-        {allCoordinates.map((route) => {
+        {allCoordinates.map((route, routeIndex) => {
           if (route.path.length < 2) return null;
-          const routeKey = `${route.color}-${route.indoor}-${route.path.length}-${route.path[0].join(',')}-${route.path[route.path.length - 1].join(',')}`;
 
           const pathString = route.path
             .map((coord, index) => {
@@ -108,7 +106,7 @@ const RoutePreview: React.FC<RoutePreviewProps> = ({
             .join(' ');
 
           return (
-            <g key={routeKey}>
+            <g key={routeIndex}>
               {/* Route line */}
               <path
                 d={pathString}
