@@ -27,9 +27,6 @@ const MAP_LAYER_LIST = [
   'country-label',
 ];
 
-const USE_GOOGLE_ANALYTICS = false;
-const GOOGLE_ANALYTICS_TRACKING_ID = '';
-
 // styling: set to `true` if you want dash-line route
 const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
@@ -167,8 +164,6 @@ const ACTIVITY_TOTAL = {
 };
 
 export {
-  USE_GOOGLE_ANALYTICS,
-  GOOGLE_ANALYTICS_TRACKING_ID,
   CHINESE_LOCATION_INFO_MESSAGE_FIRST,
   CHINESE_LOCATION_INFO_MESSAGE_SECOND,
   MAPBOX_TOKEN,
@@ -336,6 +331,13 @@ export const MAP_TILE_STYLES = {
   default: 'mapbox://styles/mapbox/dark-v10',
 };
 
+export const getMapTileVendorStyles = (
+  vendor: string
+): Record<string, string> | undefined => {
+  const styles = MAP_TILE_STYLES[vendor as keyof typeof MAP_TILE_STYLES];
+  return typeof styles === 'object' ? styles : undefined;
+};
+
 // Configuration validation
 if (typeof window !== 'undefined') {
   // Validate token requirements
@@ -360,7 +362,7 @@ if (typeof window !== 'undefined') {
   }
 
   // Validate style matches vendor
-  const vendorStyles = (MAP_TILE_STYLES as any)[MAP_TILE_VENDOR];
+  const vendorStyles = getMapTileVendorStyles(MAP_TILE_VENDOR);
   if (vendorStyles && !vendorStyles[MAP_TILE_STYLE_LIGHT]) {
     console.error(
       `❌ Style "${MAP_TILE_STYLE_LIGHT}" is not valid for vendor "${MAP_TILE_VENDOR}"\n` +
