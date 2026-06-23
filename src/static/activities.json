@@ -4014,5 +4014,21 @@
 "elevation_gain": 432.6,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19022233713,
+"name": "MyWhoosh - Hollywood Hills",
+"distance": 13596.6,
+"moving_time": "0:34:58",
+"type": "VirtualRide",
+"start_date": "2026-06-22 13:03:25+00:00",
+"start_date_local": "2026-06-22 21:03:25",
+"location_country": "NF-7N56Y, Calaveras County, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde;\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "mdziFt|o|U?kFE]MW_Aw@mJcGKHcDjJmJ~YQZWN[A_A_@M?YJe@r@wAnCYLk@CaFaCc@_@Kc@AQDc@fG_S?QIOc@e@g@]]AUVuBfFq@|AKL[L]Gw@]]HSZeE`Ne@nAWV_@Bw@a@]CYT[n@i@\\}@Ak@OUYCe@Fi@La@|CuJJa@@OkCeBqDqB[KcDCUXKb@A`@Dv@Rl@n@dADNBt@CbCO|CQ^_@`@OjA?t@@b@Nr@Vj@`@\\jI~Ex@\\j@CVUFOXsATq@`@a@LGdAFlBh@pANxDfArJ?HP?xMF\\h@n@Lx@?j@GbAM^[h@I\\AfAKb@OJ{@LKJM`@GDQK?WDSh@uAB_@GQaA[SQ?SN_@?MKQEASLWX[?MHCRDt@]n@QrAGNc@f@QZET?t@Ol@LdCPjBBlALf@LDp@EHH@TANMLk@`@Y^QnAUd@]Pw@B_@HWTKXEnB]xA@dAVfD@p@I\\UXYl@EDU@GAOQg@uAQYOKU?OJM\\A^RpCB`@CTMVQ?SQg@}@OKW?SPc@|@Qp@Gb@AbAT|@E\\GFQBWKISGq@I[m@MKIE[@sAMYUCIDGJ?nAB~AFPPJFR?TQVGd@DhALv@JTRR`@N`@`@t@f@lDm@h@A|BXzBh@j@BXK`A_ALCh@At@JXAVUd@iATIdBOtAe@~@IHGHSAa@KSSMa@Go@Dy@ZyFFu@EQSEOCo@BON[XIdDA`@ZJ^HfAJFfACVUZIv@BVHRVB`@ENWPw@FuA`@wBZo@pAWPgBKYHeAz@[J_@CwBe@yC]wDj@]GYOo@m@s@c@Qc@KkAAi@Hc@Pc@c@aACsA?uAXQXPBj@Cf@Df@x@\\J`@Fd@RZ\\?La@UiADmAXgA`@{@ZQXLz@nAXEL_@UkD?e@D_@XSXBRRf@tALVTHVGZm@PUHY?{@WsDA}@\\uAB{AF_@PUVMhAKVIPUL[JaAN[bAy@Da@UQ[DYEMa@EmBMeAMsCJa@BiANa@j@q@La@Bg@Hc@VYAiAVQZCT[X?@^Kb@NTXN\\DTXCb@o@fBD`@VOR_@|@OVYBsAJe@f@eAHqA?k@Ig@k@u@Ic@?uMJQbMCr@HpCvAfARjPB^IR[?uo@CUO]a@_@kEqC",
+"average_heartrate": 150.6,
+"average_speed": 6.481,
+"elevation_gain": 198.2,
+"source": "strava",
+"streak": 1
 }
 ]
