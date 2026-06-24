@@ -4030,5 +4030,21 @@
 "elevation_gain": 198.2,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19036396064,
+"name": "Night Ride",
+"distance": 19288.7,
+"moving_time": "0:51:46",
+"type": "Ride",
+"start_date": "2026-06-23 13:30:43+00:00",
+"start_date_local": "2026-06-23 21:30:43",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 144.1,
+"average_speed": 6.21,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
 }
 ]
