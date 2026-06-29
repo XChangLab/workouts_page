@@ -4174,5 +4174,37 @@
 "elevation_gain": 17.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 19093418332,
+"name": "Lunch E-Bike Ride",
+"distance": 3413.8,
+"moving_time": "0:19:04",
+"type": "Ride",
+"start_date": "2026-06-28 04:51:36+00:00",
+"start_date_local": "2026-06-28 12:51:36",
+"location_country": "\u6c99\u5bb6\u6d5c\u9547, \u5e38\u719f\u5e02, \u82cf\u5dde\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd",
+"summary_polyline": "_vq_Egxg`VCB@BMBMEMKG?[?M@m@Ay@Fa@I[BOCg@Sa@AQEuAA?CSCOIY@]GCBq@GE@OL?DEDITSbCMZUJK?[JKGODe@DMCIBYA_@Da@C]FUCiADSGuA}@o@u@IW?{@@w@COGKSGCIIC[QEOUgBGk@?]@A@[DIC@ADBFAGC?BKEW?SQq@Ku@EKC?@ICWGUEa@CEGSWkBE_@?[GUEo@EOIgA?YESOmB?QHWp@o@Vw@?ODMFORKPAZIFGA@NBJK@GAe@QqAI]Q_@EWIQOQOc@B_@DMHKLEJ?b@Hp@GL@NFf@XBFBAPDFABBFE\\CNG^[Va@Rc@^q@XS\\S?EX]POTGR?ZRNTNtAVZPb@Gf@?VGTAPDHAPC@LTJ^BXH\\BVAh@CNCf@T|@@NE`@C?CT@f@EZAj@CJB\\ADA?CL@DCAFg@FGH?FDDCDHAAHAf@?PJ^CLDLA^DDCp@DT?L@VRJf@AP?VADHZC|@?DJRLDh@KL@^EF@FGN@DCF@FA~@DL?^HJHJx@?fADLA^B`@?r@I`@AXFx@DhAFp@APGVBVC|@D^X|AC~@@RBBHBHABB",
+"average_heartrate": null,
+"average_speed": 2.984,
+"elevation_gain": 7.1,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 19094571361,
+"name": "Afternoon Ride",
+"distance": 3996.5,
+"moving_time": "0:12:23",
+"type": "Ride",
+"start_date": "2026-06-28 07:42:07+00:00",
+"start_date_local": "2026-06-28 15:42:07",
+"location_country": "\u771f\u5317\u8def, \u771f\u5317, \u957f\u5f81\u9547, \u666e\u9640\u533a, \u4e0a\u6d77\u5e02, 200333, \u4e2d\u56fd",
+"summary_polyline": "s_s}DauxcVCFFdAIt@Ap@@n@Kt@S`@ENKT?NLNTLdA\\HN@HAT]hAwAvDaCdH}AbEoCdIMT?GKZi@hB}@|BmB|F_BhE?LPHDJ@EEd@FTp@X~Bl@rA`@j@Lp@Vn@ND@BCDD\\HxB`AhAl@zE~BtCzAh@ZjClAzDpBpAj@tBv@rA\\pBb@xBVD??AN@\\Hf@F|@?xCJdAG^?xCDjBJ`B?h@Az@L`C@dAEf@@v@Ap@HdDFhC@lAE|CD~BJ\\EZ@rCQdEe@fB[fEeAV@DDDLElBI`@Al@Gf@?E",
+"average_heartrate": 122.3,
+"average_speed": 5.379,
+"elevation_gain": 12.0,
+"source": "strava",
+"streak": 4
 }
 ]
