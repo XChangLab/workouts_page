@@ -4206,5 +4206,21 @@
 "elevation_gain": 12.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 19123422827,
+"name": "MyWhoosh - Threshold 15",
+"distance": 18620.2,
+"moving_time": "0:37:21",
+"type": "VirtualRide",
+"start_date": "2026-06-30 12:16:42+00:00",
+"start_date_local": "2026-06-30 20:16:42",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, RAP Caribe, 132560, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "q`hw@vereMhCyBJOFOD[B}FC_V@kEAUGWQQWGq@CsP?OAao@@OA[OSUK_@C_@?mOLI~L?N@NDJHHLD^DrJFLJHNDNB~]ANBHJ@P@|FCbAM^MFOBaE?a@LmAjA[R{KDuH?OEYUeAcA[M}G?}ACODIJE`@@~JFZFHZFtl@Cr@@^DNHFJF^B`P?b@Fp@Rl@P\\|DvEJJLFLG|BsB~G{FRWJ[BiA?_RAeI@eEC]CMIMKI_@Go@CaP?OAoo@@MC[MQUI]E[@uOLGlL?b@BNFJJFND`@BbJDNJJNFPB~]APBFN@P@fGCr@CPINMFQB}D?SDOHuApAa@LoKBsH?OEMK_A}@[UOGyG?aACa@?OBILE^@`K@NFNJF^Dtl@ClAFTTD^B`P@h@Dj@HZLZZd@pDfEHHLFLGvBoBbH}FX]DODc@?k@?}QAkI@gEEc@IQOISGs@CcP?QAuo@@e@QIIMYIg@Ak@@_NBQPCnL?`@DNFHNFb@FrJFN^LP@n]AZFDJ@L@bGCx@GZIHKFM@aE?OBg@^y@x@[NuKDwH?YKiAgAa@WmHAoACYDEJEZ?hJBh@BLHFXHtPA",
+"average_heartrate": 150.4,
+"average_speed": 8.309,
+"elevation_gain": 30.4,
+"source": "strava",
+"streak": 1
 }
 ]
