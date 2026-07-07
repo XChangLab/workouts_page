@@ -4270,5 +4270,21 @@
 "elevation_gain": 1084.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19201213560,
+"name": "Evening Ride",
+"distance": 19806.4,
+"moving_time": "1:00:05",
+"type": "Ride",
+"start_date": "2026-07-06 12:44:07+00:00",
+"start_date_local": "2026-07-06 20:44:07",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 137.7,
+"average_speed": 5.494,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
