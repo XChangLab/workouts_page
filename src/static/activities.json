@@ -4478,5 +4478,21 @@
 "elevation_gain": 485.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 19399960211,
+"name": "Afternoon Walk",
+"distance": 3272.4,
+"moving_time": "0:42:29",
+"type": "Walk",
+"start_date": "2026-07-21 08:34:26+00:00",
+"start_date_local": "2026-07-21 16:34:26",
+"location_country": "\u91d1\u5c71\u8def, \u6b50\u539d, \u73e0\u6c99\u91cc, \u91d1\u57ce\u93ae, \u91d1\u9580\u7e23, 89346, \u81fa\u7063",
+"summary_polyline": "im~sC_qfqUSCQIK?UBg@N}@d@iATy@?k@DSDYDKE[?QFa@PQDWTgAf@iAt@_@N_Ah@KLM^QVWRcAVWPs@Vq@`@i@J{An@IBWZsA^_@RUFED{CbAoAl@sBh@mAl@w@PMHa@@iATw@XsAPYLKJu@|@_@ZUNc@TYFy@Zi@V]J}@`@[Dk@?s@UYCYIkAK[Fc@PkAN{@Iy@AsAS]Ai@@UBaFjBsBbAcAr@q@j@YNQT_Al@{AjAUf@u@nBIh@DBKJIPAPW|@GLEP@JCRsBPa@Ec@DA@a@GW?UCcANJpBFFJBEABA@DCBCGBCCB@D@E@BTHEAC@OQ@@@FKKLJCECFCEF?AAAB?CC@HJJDE]NFDLQICABDCA@?JCDIEQGCGFCLBHEKHF@AA@DAWPEGFCZCb@DIa@q@`@AA",
+"average_heartrate": 93.1,
+"average_speed": 1.284,
+"elevation_gain": 15.0,
+"source": "strava",
+"streak": 4
 }
 ]
