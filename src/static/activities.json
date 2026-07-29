@@ -4542,5 +4542,21 @@
 "elevation_gain": 219.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19500180524,
+"name": "MyWhoosh - Zone 2 Endurance #1",
+"distance": 29831.7,
+"moving_time": "1:01:17",
+"type": "VirtualRide",
+"start_date": "2026-07-28 12:31:13+00:00",
+"start_date_local": "2026-07-28 20:31:13",
+"location_country": "Villanueva, Villanueva City - Administrative Border, Casanare, RAP Llanos, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "}f|Z`~j{L{@pCu@vCaCtMs@hCmAxCoBpCeCzByHrFeCvBiBlBcHzI}CzCqFnEgC`CaBlB{C`EuCrCmClBsDjB_BfAgC~@qDbAwBbBgBv@cAJs]C{AFgEb@w@@kEAkAQyAs@_BuAeJqKo@cAMe@Gw@CaPCk@MYk@KkCCqi@Dm@IGMCa@AgJBa@PW|J?^LjAfAj@XbUEh@Ux@y@d@[hE?`@MLc@Be@CaHEIUIg^?YGOWEmJIe@SSYGy`@AeBIaBYeFcBwCs@}Ci@iEi@{Du@}Bo@kDwAmBiAoA}@qCsC}AaC}CgHgAyAoFyDkFeFyKwIsAuAaAsA_CmE}@qA}CqD{GeHsBgCmAwBe@uAUkAKkAAmAD}@RkA`BcGf@eC^iCNyBAkAImAiA{HG}@AkBRkBf@eBr@kAvAyAhD{C`DeD`BwB~@iBT{@H{@PeILkBXwBfA{FIIkKyBgFmAgDkAgBaAyAqA}@uA[eAI{@?}@Hy@ViA`@cAn@{@j@g@|@k@v@UhAMhAJr@ZjCjCx@l@bA^xAHx@Ih@Op@c@Za@\\u@ZcAL{@DwA?_DSuIWqBe@_Ay@cA}@u@}@s@i@Uk@Q{@IuCLkAGsBaA_@a@MWMkAGaBJ{E`@yEPu@\\m@f@c@j@W|AYlB?z@Lh@Rp@^l@f@`@n@Vt@RzAf@dAtEpDpAn@f@Dz@ExCy@rAQ`ADlC`@|@?hAW`@]j@}@Nk@Fm@Ek@Qi@s@w@YOy@SwBGoCLkAMy@YiAw@a@}@EcATaA`@m@b@Y`Bg@bAKnAEzHDdDJrAP~@TfAf@zBdBTf@F^HtCHn@Pj@h@l@hAx@|B`AvEt@jBf@hAj@l@f@b@j@vA|Cz@zBLFhHaC|B[~DQjDB|BL|JjB`AFpBCzDg@nEcArDm@xNiBnCe@jCg@xHeBnAK|A@rC^vA^rK|DxG|AnKrBnBj@rB|@lChB`BzAhEfFbHjJjC`DvDzDtCbCnFjDxE|BvEhBrGzBzItDvBpAbBnAjBjBv@`AtBjDx@bBfAnChAtDpAhGv@lGXnEHbME`HDzAJxANv@^bAvDpGtAjDjClIzApG`AnG\\pEDhFUxEg@jDgA`FmAxD}ExMm@nBmA~E_CjMaAbD{@dBuAnBiBhBiA~@cIxFyApA_BbBwFhH_BfBiCdCqErDeB~AaB`ByAnB",
+"average_heartrate": 141.0,
+"average_speed": 8.113,
+"elevation_gain": 92.6,
+"source": "strava",
+"streak": 1
 }
 ]
