@@ -4606,5 +4606,21 @@
 "elevation_gain": 37.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19582480061,
+"name": "MyWhoosh - Zone 2 Steady State",
+"distance": 21372.5,
+"moving_time": "0:45:15",
+"type": "VirtualRide",
+"start_date": "2026-08-03 12:12:35+00:00",
+"start_date_local": "2026-08-03 20:12:35",
+"location_country": "Hervey Range Range Complex, Hervey Range Road, Hervey Range, \u6606\u58eb\u5170\u5dde, 4817, \u6fb3\u5927\u5229\u4e9a;\u6fb3\u6d32",
+"summary_polyline": "hqduB{jc}ZqCuCuFuDeEqBeG_CyJaFWVmDnIy@|@cAVu@EkFuCk@EgAn@kApDu@tAg@V_@?y@g@Mc@DgBR_B^gAl@y@lCuBdB}Bt@qAlBgFNgAEeAu@_D_AeB@MbOuM`@a@J]OaAg@o@oGqEeDaA{@IuBCsBJo@NaCnAaBtAw@hA_AnBUNm@rAKn@wDhLYf@YhAOjBIbHh@fBf@n@ZJVj@Pn@AhA]fAsBpCg@dAiCrC]h@K`@Hb@hAtAp@f@j@HbAa@jEqDb@Uz@Cz@XrAnAb@~@@b@KZkCtCoE|DeNrK}A~@wA?a@e@Iu@F}DKs@Ym@c@e@eA[iAFk@V_@j@WjAEjAFfBZ~ApBhFNpA[hBiArB}AdBk@\\q@Ru@?aAg@mByCy@w@k@[cBOcBRsAp@u@hAQdAAz@Bh@ZdAl@x@h@\\zHjCbAj@tAdAr@z@nAlCp@xCT`CJbFRnAx@jAd@VxAXhBChAU`Ai@dAuAZ}AIiB_@y@q@k@yBqAc@y@CuA^wApBcCtD_D~DeBfEgAfKwAtCSjDIvOF~BTtBr@fAv@n@z@b@lAJ|AMb@o@h@kGbAw@`@a@j@_@rBBlCb@fB\\b@f@RhAOrN}CjFmAf@W\\c@Fo@c@oD@aBViAv@y@fA_@tCWrB?zD`@~@?r@O\\[Hi@@{IAa@K[i@UiBCwCd@aCBqA]i@y@Es@Fs@^}@f@]jAUlDIdE[NIcAePQqAeAkBgC}CoAoAwBcBsGqDmIeDyJaF[`@cD|H_@h@k@`@u@Pw@EaAa@eCaBk@Um@?}@l@oAvDq@nAg@Va@?{@m@Iy@DsAf@gCh@cArDyCdBiCfB_Ej@mBHeAEs@w@_Du@uAC[`OuMl@_AOaAg@o@gFyDg@WeDaAuAMmEJq@NaCnAaAt@eAnAiAxB}@rAWlAyDfL_@t@S|@MhBKdHp@tB\\`@d@VTl@LdAGz@Wp@sBpCg@bAuCbD]z@D`@|@nA|@r@h@HpAi@~DiDb@UbAAr@VrAlAb@~@Bd@IX}@fA}GhGqMhKoBjAi@Hk@Gc@a@KUF{EKu@g@aAwAq@iABk@Va@h@YhAGlADdBd@xBfBpELp@@v@UlAy@`Bs@~@cB|AkAVs@GUMg@a@_CmD_Am@aBS}ALk@R",
+"average_heartrate": 129.8,
+"average_speed": 7.872,
+"elevation_gain": 115.0,
+"source": "strava",
+"streak": 3
 }
 ]
