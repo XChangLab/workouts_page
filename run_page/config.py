@@ -71,4 +71,3 @@ MAPPING_TYPE = [
     "Ski",
     "BackcountrySki",
 ]
-
