@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Optional
+from typing import ClassVar
 
 from rich.console import Group as RichGroup
 from rich.panel import Panel
@@ -11,9 +11,9 @@ from rich.table import Table as RichTable
 from rich.text import Text as RichText
 from textual import events
 from textual.app import App, ComposeResult
-from textual.message import Message
 from textual.binding import Binding
 from textual.containers import Horizontal, Vertical, VerticalScroll
+from textual.message import Message
 from textual.reactive import reactive
 from textual.widget import Widget
 from textual.widgets import Button, DataTable, Label, Static
@@ -140,7 +140,7 @@ def _render_bar_chart(
         filled = (
             0
             if max_value <= 0
-            else int(round(float(value) / float(max_value) * bar_width))
+            else round(float(value) / float(max_value) * bar_width)
         )
         if value > 0:
             filled = max(1, filled)
@@ -327,8 +327,8 @@ class RouteMapWidget(Widget):
 class RunDetailPanel(Widget):
     """Metadata for the selected activity."""
 
-    activity: Optional[Activity] = reactive(None)
-    data: Optional[AggregatedData] = reactive(None)
+    activity: Activity | None = reactive(None)
+    data: AggregatedData | None = reactive(None)
 
     def _rows(self, activity: Activity) -> list[tuple[str, str]]:
         rows: list[tuple[str, str]] = [
@@ -550,7 +550,7 @@ class NavSidebar(Widget):
             super().__init__()
             self.view_name = view_name
 
-    ITEMS = [
+    ITEMS: ClassVar = [
         ("list", "1  List"),
         ("stats", "2  Stats"),
     ]
@@ -587,7 +587,7 @@ class NavSidebar(Widget):
 class StatsView(VerticalScroll):
     """Overall and per-year statistics."""
 
-    data: Optional[AggregatedData] = reactive(None)
+    data: AggregatedData | None = reactive(None)
     period_label = reactive("")
 
     def compose(self) -> ComposeResult:
@@ -596,7 +596,7 @@ class StatsView(VerticalScroll):
     def on_mount(self) -> None:
         self._refresh_body(reset_scroll=False)
 
-    def watch_data(self, _: Optional[AggregatedData]) -> None:
+    def watch_data(self, _: AggregatedData | None) -> None:
         self._refresh_body(reset_scroll=True)
 
     def watch_period_label(self, _: str) -> None:
@@ -890,7 +890,7 @@ class RunningTUI(App):
     #stats-body { height: auto; }
     """
 
-    BINDINGS = [
+    BINDINGS: ClassVar = [
         Binding("q", "quit", "Quit"),
         Binding("r", "refresh", "Refresh"),
         Binding("s", "toggle_sort", "Sort"),

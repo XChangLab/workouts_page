@@ -1,7 +1,7 @@
+import argparse
 import calendar
 import datetime
 import locale
-import argparse
 
 import svgwrite
 
@@ -196,8 +196,7 @@ class GithubDrawer(TracksDrawer):
                     dr.add(rect)
                     # Add diagonal stripe overlay for indoor days
                     day_key = date_title.split(" ")[0]
-                    if day_key in self.poster.tracks_by_date:
-                        if self._has_indoor_track(self.poster.tracks_by_date[day_key]):
+                    if day_key in self.poster.tracks_by_date and self._has_indoor_track(self.poster.tracks_by_date[day_key]):
                             dr.add(
                                 dr.rect(
                                     (rect_x, rect_y),

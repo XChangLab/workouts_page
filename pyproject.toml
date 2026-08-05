@@ -60,3 +60,14 @@ packages = ["run_page"]
 dev = [
     "pytest>=9.0.3",
 ]
+
+[tool.ruff.lint]
+ignore = [
+    "BLE001",   # broad exception catches are intentional for resilience
+    "DTZ001",   # naive datetime is intentional (local time without tz)
+    "DTZ005",   # naive datetime is intentional (local time without tz)
+    "DTZ007",   # naive datetime is intentional (local time without tz)
+    "ASYNC230", # test code uses blocking I/O intentionally
+    "S110",     # try/except/pass is intentional
+    "TRY002",   # generic Exception raise in library code
+]
