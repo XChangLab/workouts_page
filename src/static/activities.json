@@ -4622,5 +4622,21 @@
 "elevation_gain": 115.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19597006392,
+"name": "MyWhoosh - El Limonar",
+"distance": 9782.8,
+"moving_time": "0:45:35",
+"type": "VirtualRide",
+"start_date": "2026-08-04 12:01:05+00:00",
+"start_date_local": "2026-08-04 20:01:05",
+"location_country": "Chilcal, San Jos\u00e9 del Salado, Dagua, Sur, Valle del Cauca, RAP Pac\u00edfico, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "uh{TxdesM`CsBPSFYBSAqc@Cc@IUUKe@Gu@C}_A@]C[OSWI[C_@?}NDMLCxA?|I?N@ZJHJBND^B~IBNHHZHN@n]AL?LFFJ@L@xGEl@OXMDOBsCCc@?QB]PiAhAMFODqKFuHAMCYOkAiAYMMC{BByFCMFEJCL?bKD`@HL^DbTAJHAlOCp@Gb@O^W^mAr@q@p@QT[t@YdAIh@e@~DStCOj@KLOLy@T_@DQDc@PQNWVYf@Y|@Gb@AZ?\\Dd@VnAb@x@BPBj@DRFLLJRFn@?NBrAC\\FfAd@bAX`B`Af@LZ@\\CZMj@i@VMVGXBd@H`AXXLHLFL@NEhA@j@F^Pn@FfAH\\RZh@^n@r@`@V\\N^Vf@f@HNBHCVKN[@a@GS?UH]TSZO^CX@LFLRJXAj@OR?HBPPDJBf@DTLZPT\\Pj@Db@HRNHJ\\n@F\\Fz@L|@Pp@`@rAh@tB?VMpABd@Lr@?HCL[`@?PFLXTNPLXDZ?VGhA?HNZ\\^RZHd@FrBDr@CJKNOBKCOQa@}@[a@a@]eAg@y@_Ao@g@e@Yg@MeA?MCq@a@MAa@?[L{@nAYROFWCUO]c@IGSIa@M[SYKa@?o@FeA?YBu@Xw@f@Y`@Wp@A`@JRLDLA`@W^OJGVGP?TDNJd@f@`@f@JZ@n@",
+"average_heartrate": 140.2,
+"average_speed": 3.577,
+"elevation_gain": 409.6,
+"source": "strava",
+"streak": 4
 }
 ]
