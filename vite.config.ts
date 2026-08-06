@@ -92,7 +92,7 @@ export default defineConfig({
   build: {
     manifest: true,
     outDir: './dist', // for user easy to use, vercel use default dir -> dist
-    rollupOptions: {
+    rolldownOptions: {
       output: {
         manualChunks: (id: string) => {
           if (id.includes('node_modules')) {
