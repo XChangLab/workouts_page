@@ -528,9 +528,7 @@ const getMapTheme = (): string => {
 
   // Check for explicit theme in DOM
   const dataTheme = document.documentElement.getAttribute('data-theme') as
-    | 'light'
-    | 'dark'
-    | null;
+    'light' | 'dark' | null;
 
   // Check for saved theme in localStorage
   const savedTheme = localStorage.getItem('theme') as 'light' | 'dark' | null;
