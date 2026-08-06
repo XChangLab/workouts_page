@@ -23,7 +23,9 @@ const WorkoutStat = ({
     onClick={onClick}
     // style={{ color: color }}
   >
-    <span className={`text-5xl font-bold italic`}>{intComma(String(value))}</span>
+    <span className={`text-5xl font-bold italic`}>
+      {intComma(String(value))}
+    </span>
     <span className="text-2xl font-semibold italic">{description}</span>
     {pace && <span className="text-5xl font-bold italic">{' ' + pace}</span>}
     {pace && <span className="text-2xl font-semibold italic"> Pace</span>}

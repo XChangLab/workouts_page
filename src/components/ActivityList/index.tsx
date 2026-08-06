@@ -714,7 +714,9 @@ const ActivityList: React.FC = () => {
               value={type}
               disabled={interval === 'life' && type !== 'all'}
             >
-              {type in TYPES_MAPPING ? (TYPES_MAPPING as Record<string, string>)[type] : type}
+              {type in TYPES_MAPPING
+                ? (TYPES_MAPPING as Record<string, string>)[type]
+                : type}
             </option>
           ))}
         </select>
