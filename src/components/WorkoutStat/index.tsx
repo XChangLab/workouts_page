@@ -1,3 +1,4 @@
+import type React from 'react';
 import { intComma } from '@/utils/utils';
 import { MAIN_COLOR } from '@/utils/const';
 
