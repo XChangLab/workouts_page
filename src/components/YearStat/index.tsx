@@ -36,7 +36,7 @@ const YearStat = ({
   let sumElevationGain = 0;
   let heartRate = 0;
   let heartRateNullCount = 0;
-  const workoutsCounts = {};
+  const workoutsCounts: Record<string, [number, number, number]> = {};
 
   runs.forEach((run) => {
     sumDistance += run.distance || 0;
@@ -98,7 +98,7 @@ const YearStat = ({
             // pace={formatPace(count[2] / count[1])}
             distance={(count[2] / 1000.0).toFixed(0)}
             // color={colorFromType(type)}
-            onClick={(e: Event) => {
+            onClick={(e: React.MouseEvent<HTMLDivElement>) => {
               onClickTypeInYear(year, type);
               e.stopPropagation();
             }}

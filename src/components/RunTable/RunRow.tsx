@@ -52,7 +52,7 @@ const RunRow = ({
       <td>{type}</td>
       <td>{distance}</td>
       {SHOW_ELEVATION_GAIN && (
-        <td>{((elevation_gain ?? 0) * M_TO_ELEV).toFixed(1)}</td>
+        <td>{((run.elevation_gain ?? 0) * M_TO_ELEV).toFixed(1)}</td>
       )}
       {paceParts && <td>{paceParts}</td>}
       <td>{heartRate && heartRate.toFixed(0)}</td>
