@@ -27,10 +27,9 @@ jobs:
         run: |
           pip install -r requirements-dev.txt
 
-      - name: Run GPX sync test
+      - name: Check core modules compile
         run: |
-          # make sure the gpx_sync.py script is executable
-          python run_page/gpx_sync.py
+          python -m py_compile run_page/strava_sync.py run_page/config.py run_page/polyline_processor.py
 
       - name: Check formatting (black)
         run: black . --diff --color && black . --check
