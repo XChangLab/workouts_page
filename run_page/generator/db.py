@@ -32,6 +32,46 @@ options.default_user_agent = "workouts_page"
 g = Nominatim(user_agent=randomword())
 
 
+def _start_point_from_polyline(summary_polyline):
+    """Return a lat/lon point from the first coordinate of an encoded polyline."""
+    if not summary_polyline:
+        return None
+    try:
+        decoded = polyline_lib.decode(summary_polyline)
+        if decoded:
+
+            class _Point:
+                def __init__(self, lat, lon):
+                    self.lat = lat
+                    self.lon = lon
+
+            return _Point(*decoded[0])
+    except Exception:
+        pass
+    return None
+
+
+def _resolve_location(start_point, summary_polyline, existing_country=""):
+    """Return a geocoded location string, falling back to polyline when start_point is None."""
+    location_country = existing_country
+    if not start_point:
+        start_point = _start_point_from_polyline(summary_polyline)
+    if not location_country and start_point or location_country == "China":
+        for _ in range(2):
+            try:
+                location_country = str(
+                    g.reverse(
+                        f"{start_point.lat}, {start_point.lon}",
+                        language="zh-CN",  # type: ignore
+                        timeout=15,
+                    )
+                )
+                break
+            except Exception:
+                pass
+    return location_country
+
+
 ACTIVITY_KEYS = [
     "run_id",
     "name",
@@ -109,48 +149,14 @@ def update_or_create_activity(session, run_activity):
             current_elevation_gain = float(run_activity.elevation_gain)
 
         if not activity:
-            start_point = run_activity.start_latlng
-            location_country = getattr(run_activity, "location_country", "")
-            # Fall back to polyline first point when start_latlng is hidden by privacy zone
-            if not start_point:
-                summary_polyline = (
-                    run_activity.map and run_activity.map.summary_polyline or ""
-                )
-                if summary_polyline:
-                    try:
-                        decoded = polyline_lib.decode(summary_polyline)
-                        if decoded:
-
-                            class _Point:
-                                def __init__(self, lat, lon):
-                                    self.lat = lat
-                                    self.lon = lon
-
-                            start_point = _Point(*decoded[0])
-                    except Exception:
-                        pass
-            # or China for #176 to fix
-            if not location_country and start_point or location_country == "China":
-                try:
-                    location_country = str(
-                        g.reverse(
-                            f"{start_point.lat}, {start_point.lon}",
-                            language="zh-CN",  # type: ignore
-                            timeout=15,
-                        )
-                    )
-                # limit (only for the first time)
-                except Exception:
-                    try:
-                        location_country = str(
-                            g.reverse(
-                                f"{start_point.lat}, {start_point.lon}",
-                                language="zh-CN",  # type: ignore
-                                timeout=15,
-                            )
-                        )
-                    except Exception:
-                        pass
+            summary_polyline = (
+                run_activity.map and run_activity.map.summary_polyline or ""
+            )
+            location_country = _resolve_location(
+                run_activity.start_latlng,
+                summary_polyline,
+                getattr(run_activity, "location_country", ""),
+            )
 
             activity = Activity(
                 run_id=run_activity.id,
@@ -185,6 +191,12 @@ def update_or_create_activity(session, run_activity):
                 run_activity.map and run_activity.map.summary_polyline or ""
             )
             activity.source = source
+            if not activity.location_country:
+                activity.location_country = _resolve_location(
+                    run_activity.start_latlng,
+                    activity.summary_polyline,
+                    getattr(run_activity, "location_country", ""),
+                )
     except Exception as e:
         print(f"something wrong with {run_activity.id}")
         print(str(e))
