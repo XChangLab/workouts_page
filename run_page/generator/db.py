@@ -2,6 +2,7 @@ import datetime
 import random
 import string
 
+import polyline as polyline_lib
 from config import TYPE_DICT
 from geopy.geocoders import Nominatim, options
 from sqlalchemy import (
@@ -110,6 +111,24 @@ def update_or_create_activity(session, run_activity):
         if not activity:
             start_point = run_activity.start_latlng
             location_country = getattr(run_activity, "location_country", "")
+            # Fall back to polyline first point when start_latlng is hidden by privacy zone
+            if not start_point:
+                summary_polyline = (
+                    run_activity.map and run_activity.map.summary_polyline or ""
+                )
+                if summary_polyline:
+                    try:
+                        decoded = polyline_lib.decode(summary_polyline)
+                        if decoded:
+
+                            class _Point:
+                                def __init__(self, lat, lon):
+                                    self.lat = lat
+                                    self.lon = lon
+
+                            start_point = _Point(*decoded[0])
+                    except Exception:
+                        pass
             # or China for #176 to fix
             if not location_country and start_point or location_country == "China":
                 try:
