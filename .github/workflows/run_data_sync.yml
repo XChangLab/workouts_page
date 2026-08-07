@@ -75,17 +75,7 @@ jobs:
       - name: Fix missing location data
         run: |
           python run_page/fix_location.py --db run_page/data.db
-          python -c "
-import sys, json
-sys.path.insert(0, 'run_page')
-from config import JSON_FILE, SQL_FILE
-from generator import Generator
-g = Generator(SQL_FILE)
-activities = g.loadForMapping()
-with open(JSON_FILE, 'w') as f:
-    json.dump(activities, f, indent=0)
-print(f'Written {len(activities)} activities to {JSON_FILE}')
-"
+          python run_page/regenerate_json.py
 
       - name: Make svg GitHub profile
         env:
