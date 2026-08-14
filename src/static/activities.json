@@ -4702,5 +4702,21 @@
 "elevation_gain": 138.6,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19725700866,
+"name": "MyWhoosh - Climbing Threshold #2",
+"distance": 31968.2,
+"moving_time": "1:06:25",
+"type": "VirtualRide",
+"start_date": "2026-08-13 12:48:49+00:00",
+"start_date_local": "2026-08-13 20:48:49",
+"location_country": "D 68, Le Val-David, \u00c9vreux, Eure, Normandie, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 27220, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "}}{iH}_zFiG}KPcEo@qCsBw@gBfBUdBVpCMz@kKlQzFvKf@bGIxCu@bEuDdHuC`CiDjAsTPcEvDq@VmQ{A[xAd@tAnH`EZtAUvAaCd@qFuAgFUsAr@?hAXl@jGlB`AdAZ~AQnB{@z@k@IUsBq@_@iG`BUlBLjA`BrC`CjAhPoBjAb@\\dAIjA_DfFmApEq@|GIdHPfEvBzNzCfM`@bK^fC~@pClApAhEDzGoJhMqG`AmAnC}GnBqA`BD|@|A}@~LT~@n@ZfBi@|CoDd@iB^iGn@aA|@FbB`ClAn@pBDlAg@d@wAIyCcGsT[gDVmAjLwVpAmCh@UxCbCfDlAvAtCLhEgAtLg@hMb@~DdBnCdD`D~M~D|@hAWlBcDrEq@nDXfDbBhB~@dE`CxAfE?~DsAxAsCX_Fg@aJq@uDyGySeBuKQkJ~@qKlAeErBcEbBkB`CcAjBRj@pAShDcBvCwBv@iAmAQmCR{B`EaOEkF_A_EyEuLq@iIi@wBeEyHmAkDoB_@[aAZeAlAq@dIyA`A_B?iBgA{@mCGoGnBmBtBkBvI_IbHi@]cEkNoHnGoEFm@u@c@oCNgAbAiA\\}ASqF}LeUA_Hu@{AiAc@kA\\w@tAQ`BVfCIx@oKzQtF`Kl@vGM`D{@hEoDtGaDfC}C`AkTN}At@oBfCo@TiQ}A[rAl@`BdHvD\\zAYzAwB^qFuAmFUuAx@Ax@b@|@jEbA`BdAj@jAHpAW~Ay@p@k@SIsAi@q@qGpA]hBFnAjA`C`B|Ax@JdQmBp@`@\\dAIjA_DfFmApEq@|GIdHPdEhBdMjDrO\\`Jf@bDhAxC`A|@pEApGkJtM}G~DuIvB{A|AHz@rA@hB}@~IJn@t@f@bC{@bCwCh@{BVkFt@sA|@F`B~BhAp@nBHvAm@f@sBU{C{FmS[eDRoAnLyVtBgD`DfC`DhAzA|CLzDgAbMg@dMDfBh@jBxB|CbDpCzLhD|@x@GhBsCvDaA`DIhC^hBdBjBp@nD~ArA~ENfFmB|@oBZgD_@eKqAsGwEwMaCmM_@gGFoGxAiKzDqIjBcBtBo@fBh@\\|A_@|CwB|CuBVw@_BGwCPuA`EaOHmCUuBu@aDaFgMs@wIg@eBiE_IaA_DoB[_@eAP{@bB_AvHsAbAaB?iBgA{@}CEoGxBgB~B_BzHoIjHcFoOuHxGoDFaAu@c@oDfBkDB{Em@iCgLgSPeE]yB_BqAsBv@o@pCRzDsGbL",
+"average_heartrate": 149.2,
+"average_speed": 8.022,
+"elevation_gain": 272.8,
+"source": "strava",
+"streak": 1
 }
 ]
