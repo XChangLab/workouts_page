@@ -4798,5 +4798,21 @@
 "elevation_gain": 28.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19794010003,
+"name": "MyWhoosh - Sweetspot #1",
+"distance": 23044.8,
+"moving_time": "0:50:07",
+"type": "VirtualRide",
+"start_date": "2026-08-18 12:38:46+00:00",
+"start_date_local": "2026-08-18 20:38:46",
+"location_country": "None",
+"summary_polyline": "d_Add@HzEOlAaAtAuC|BQn@X|@pF`Hb@Ld@S~QuQLe@Ss@Aw@Jg@^m@|@a@dAA|@\\h@x@FdAUrAHXpKpKp@hATzAGfAUf@eAr@Sd@`@fB\\\\b@LxCAj@IdRgKpAcBzBuFnBkCnAeApEeClJmGnBs@dCg@xBS|A@hAPbAd@d@l@TdAE|@_@|@q@p@iAh@oAT{A@mBKaAYo@{@GoAf@oAhAu@rB]dBLl@v@DnA_@p@q@Hg@WQs@DkBx@cFVuCE{Aa@{@oAs@qBo@eEw@_BKsBJkF`BgFDm@OSyAc@s@_Bs@qBOsGN_BMo@o@CsCq@kAmAu@qDe@o@_@Oa@Cq@`@oAhBsArF_BR[@eARo@jAaAbBWnEl@~DOh@Q\\]`@}A\\i@fAg@xA?|Bp@lBlAlC~CrAf@xALhAQrBeCpAg@|A?lGt@fBMj@W`@k@Dk@UiAd@u@lB]bEI\\MN[G]s@i@uIgCqCfIm@^s@?sBi@cF_CqHkG}ASuDDsQbA{IRiItAgD|@mCjAoAjAoA`Cs@z@}@d@_AHq@QcAo@iD}D{AeCiCyGaAeB{@a@cALqIjEzDzIAn@e@`@yHxDe@d@On@BjM\\N~C@\\Gl@c@\\C`@VD\\e@z@If@Gv`@PxKa@pAgEvDMr@Vn@jE~Fr@l@j@?vRkRFYQs@Eu@Hg@\\m@bAi@|ADv@h@Zr@Dj@WxAD\\xKxKh@~@XvAGnA[p@eAp@Md@`@`BTXf@NbEGdRcKrAeBlCoGdByBnAeAdE}BfGkE`CqAnBo@bCc@hBOjBBhAT|@h@b@p@NdAK|@a@x@u@n@aAb@cDToBKcAWs@cAEoAl@oAjAs@`BWbBFt@p@Jj@Ap@]j@u@Jg@WOu@DiB|@uFR}BGmBe@s@iAo@cCu@aDm@oBO_CN{EzAsFFo@[G}@Uo@_BaAgBSwGLqBKa@SS]CqCk@iAoAw@yDi@m@_@QqAVaAl@q@|@k@~FgBP[@eALc@d@o@l@[`BUnEl@zDOz@]`AkCnAu@|A?xBn@pBnAjC~C`Bj@vAHdAWpBcCnAc@hB@xFr@nBMj@Y^g@Dk@UeA^w@dB_@rEKZKNc@Qc@k@_@mIiCwClIu@^oAI",
+"average_heartrate": 150.3,
+"average_speed": 7.664,
+"elevation_gain": 228.2,
+"source": "strava",
+"streak": 4
 }
 ]
