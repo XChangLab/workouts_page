@@ -4862,5 +4862,21 @@
 "elevation_gain": 9.0,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 19844277347,
+"name": "MyWhoosh - Easy Spin",
+"distance": 14158.0,
+"moving_time": "0:35:05",
+"type": "VirtualRide",
+"start_date": "2026-08-22 01:27:21+00:00",
+"start_date_local": "2026-08-22 09:27:21",
+"location_country": "4, Impasse du Pr\u00e9 du Puits, Martangy, Nolay, \u8bb7\u97e6\u5c14, \u6d85\u592b\u52d2\u7701, Bourgogne-Franche-Comt\u00e9, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 58700, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "gpn~GkkjSwNmBsD_@oCCyCHoAJwAd@oAn@{@l@e@l@c@x@Ob@Op@Gt@?`ANdBDfACn@Gj@Mf@Yp@m@z@WV_@Rq@Le@Ac@Im@Wo@c@YYWc@Oi@Is@?a@Bc@La@N_@\\a@JETGd@BLDZRX\\NLRDTGNYBa@C_@E]IWe@cAYe@_A}@_As@s@[c@Gw@Bu@Tu@f@_@b@}@pAmArBo@lAeCxF{@fBKh@Cj@Mb@i@v@Gf@Hb@RVh@d@Zv@tAtETjATdBBp@@jAGvBKbAUtA]jAQ^_@j@WVe@X[DgAEUDULOPKXCX?\\Hf@JV\\\\XJ`@BbAM~@Q~Ae@tAg@jAUzAMhAC|CBbETdFf@|Cf@lC`At@JjABdAChIw@nDQnBEVHJJN`@\\pBLb@FLJLHFLBdJKTSFOHe@Di@E{@ESO_@KIKCsIFOAIGIIQa@Eg@?i@Dg@Le@HMZM`ICd@BLHN^X|ARt@FNXNf@@nQEJIBcB@sO@SDQ`@_ABSAg@Q]YMM@KFi@p@YJwC?YEKIGQASAeRD{@He@Xm@RY`IsGVa@DYA_@G_@qCgKe@yAICGByDzCkBhAcAZcAHcBCiAIsU}C_Go@qBE{BB{BJ}@NuAj@g@V}@j@q@v@a@x@Ob@Md@IbA@rAPjB@p@Cn@O~@a@dAQXi@n@s@^g@Hq@Eq@Us@a@m@k@Q_@Ok@Iw@?a@Lu@Xm@\\]TId@?XJZTX^PHT?POJ]@a@E]Qs@e@aAk@u@}@y@s@c@s@Yc@Eu@De@Lu@b@_AhAm@~@}AlCaFzKMtAg@x@O^Af@L^j@d@PVZv@fAxDXlAVbBBr@Bp@C`BI|AK`AQ~@Sv@g@`Aa@f@e@Zg@J{@EYB[PSZIf@?\\BXPb@TXRLXF|@EbB]dAYbBm@z@QjBQbCGnFRzGn@|Cd@rBt@r@PlAJ|ACpFi@hCSnFQZFJHHLPv@PjATr@RVZDtIILERYJc@D{@Cg@Ic@GOUU}IDYIKKMa@Ei@?UF}@DST]JGvGEtA@JFJJFPFRFf@^|AHNJHLDpRCJEDO@sA?wOBSLc@R]FQ@g@CSGQIMMGMAMBMH]f@YP{C?[EKKGQASAcRHoAJc@R]`@c@r@m@tEuD",
+"average_heartrate": 129.2,
+"average_speed": 6.726,
+"elevation_gain": 101.2,
+"source": "strava",
+"streak": 8
 }
 ]
