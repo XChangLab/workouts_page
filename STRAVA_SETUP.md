@@ -54,7 +54,7 @@ Copy the `refresh_token` from the response. This token does not expire unless re
 ```bash
 STRAVA_CLIENT_ID=your_client_id \
 STRAVA_CLIENT_SECRET=your_client_secret \
-STRAVA_REFRESH_TOKEN=your_refresh_token \
+STRAVA_CLIENT_REFRESH_TOKEN=your_refresh_token \
 npm run sync
 ```
 
@@ -71,7 +71,7 @@ Store the three values as repository secrets:
 2. Add three secrets:
    - `STRAVA_CLIENT_ID`
    - `STRAVA_CLIENT_SECRET`
-   - `STRAVA_REFRESH_TOKEN`
+   - `STRAVA_CLIENT_REFRESH_TOKEN`
 
 Then trigger the workflow:
 
@@ -83,7 +83,7 @@ The workflow commits the updated `segments-data.json` back to the main branch au
 ### Refresh token rotation
 
 Strava rotates the refresh token on each exchange. If the script logs a new refresh token,
-update the `STRAVA_REFRESH_TOKEN` secret in GitHub with the new value. The old token
+update the `STRAVA_CLIENT_REFRESH_TOKEN` secret in GitHub with the new value. The old token
 remains valid briefly, so this is not urgent.
 
 ---

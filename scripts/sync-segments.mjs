@@ -5,13 +5,13 @@
  * Authentication (preferred — never expires):
  *   STRAVA_CLIENT_ID=<id>
  *   STRAVA_CLIENT_SECRET=<secret>
- *   STRAVA_REFRESH_TOKEN=<refresh_token>
+ *   STRAVA_CLIENT_REFRESH_TOKEN=<refresh_token>
  *
  * Authentication (fallback — short-lived, expires in 6 h):
  *   STRAVA_ACCESS_TOKEN=<token>
  *
  * Usage:
- *   STRAVA_CLIENT_ID=... STRAVA_CLIENT_SECRET=... STRAVA_REFRESH_TOKEN=... node scripts/sync-segments.mjs
+ *   STRAVA_CLIENT_ID=... STRAVA_CLIENT_SECRET=... STRAVA_CLIENT_REFRESH_TOKEN=... node scripts/sync-segments.mjs
  *
  * Reads:  public/data/segments.json        (hand-maintained list of Strava segment URLs per country)
  * Writes: public/data/segments-data.json   (full segment details fetched from Strava API)
@@ -35,7 +35,7 @@ const RATE_LIMIT_DELAY_MS = 200 // stay well within Strava's 100 req/15 min limi
 async function resolveAccessToken() {
   const clientId = process.env.STRAVA_CLIENT_ID
   const clientSecret = process.env.STRAVA_CLIENT_SECRET
-  const refreshToken = process.env.STRAVA_REFRESH_TOKEN
+  const refreshToken = process.env.STRAVA_CLIENT_REFRESH_TOKEN
 
   if (clientId && clientSecret && refreshToken) {
     console.log('Fetching fresh access token via OAuth2 refresh token flow…')
@@ -66,7 +66,7 @@ async function resolveAccessToken() {
     // Strava rotates refresh tokens on each exchange. Log the new one so the
     // operator can update the secret if needed (we cannot write back to GitHub Secrets).
     if (data.refresh_token && data.refresh_token !== refreshToken) {
-      console.warn('⚠  Strava issued a new refresh token. Update STRAVA_REFRESH_TOKEN in your secrets:')
+      console.warn('⚠  Strava issued a new refresh token. Update STRAVA_CLIENT_REFRESH_TOKEN in your secrets:')
       console.warn(`   New refresh token: ${data.refresh_token}`)
     }
 
@@ -76,13 +76,13 @@ async function resolveAccessToken() {
   // Fallback: bare access token (expires in 6 h)
   const accessToken = process.env.STRAVA_ACCESS_TOKEN
   if (accessToken) {
-    console.warn('Using STRAVA_ACCESS_TOKEN directly (expires in 6 h). Prefer STRAVA_CLIENT_ID + STRAVA_CLIENT_SECRET + STRAVA_REFRESH_TOKEN.')
+    console.warn('Using STRAVA_ACCESS_TOKEN directly (expires in 6 h). Prefer STRAVA_CLIENT_ID + STRAVA_CLIENT_SECRET + STRAVA_CLIENT_REFRESH_TOKEN.')
     return accessToken
   }
 
   throw new Error(
     'No Strava credentials found.\n' +
-    'Set STRAVA_CLIENT_ID + STRAVA_CLIENT_SECRET + STRAVA_REFRESH_TOKEN (recommended)\n' +
+    'Set STRAVA_CLIENT_ID + STRAVA_CLIENT_SECRET + STRAVA_CLIENT_REFRESH_TOKEN (recommended)\n' +
     'or STRAVA_ACCESS_TOKEN (short-lived fallback).',
   )
 }
