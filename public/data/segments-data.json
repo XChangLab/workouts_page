@@ -1,0 +1,7 @@
+{
+  "_meta": {
+    "generated_at": null,
+    "source": "segments.json",
+    "note": "Run `node scripts/sync-segments.mjs` or the GitHub Actions workflow to populate this file."
+  }
+}

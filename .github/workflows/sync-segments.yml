@@ -1,0 +1,43 @@
+name: Sync Strava Segments
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (fetch data but do not commit)'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync segment data from Strava API
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+        run: node scripts/sync-segments.mjs
+
+      - name: Commit updated segments-data.json
+        if: ${{ inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/segments-data.json
+          git diff --cached --quiet && echo "No changes to commit." || \
+            git commit -m "chore: sync Strava segment data $(date -u +%Y-%m-%d) [skip ci]"
+
+      - name: Push changes
+        if: ${{ inputs.dry_run != 'true' }}
+        run: git push
