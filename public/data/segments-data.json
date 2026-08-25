@@ -1,7 +1,115 @@
 {
   "_meta": {
-    "generated_at": null,
-    "source": "segments.json",
-    "note": "Run `node scripts/sync-segments.mjs` or the GitHub Actions workflow to populate this file."
-  }
+    "generated_at": "2026-08-25T05:20:05.899Z",
+    "source": "segments.json"
+  },
+  "FR": [
+    {
+      "id": "229781",
+      "url": "https://www.strava.com/segments/229781",
+      "name": "Hawk Hill",
+      "distance_m": 2658.5,
+      "elevation_gain_m": 155.9,
+      "avg_grade_pct": 6.8,
+      "polyline": "{g|eFrpqjV~@Qb@@d@Lt@\\rAr@f@Pj@Nv@HpAD^EPMhAaBHGPGP@VFT\\FXA|EDh@Xh@tAhBHPDVCTKd@kAlBo@F_AAiBDo@?i@BSH}A`AwAn@g@^MJo@fAm@`@QNa@t@KRCL?J@Th@~AFVDb@G`@c@`AEZB\\RZl@f@FJLh@?VGZMXW\\e@Xu@\\[TMNOb@e@hFOf@MRGVB^LFd@BJFLJp@~@`@^hA`@`BXXNTTP`@FVGtBFpA^vBJ\\HLRPpAVJFXT`@b@Vx@JR`@XZ@dEq@`@Sj@e@`@Sb@CTBRJHP",
+      "start_lat": 37.833087932025045,
+      "start_lng": -122.48351597654613
+    },
+    {
+      "id": "668879",
+      "url": "https://www.strava.com/segments/668879",
+      "name": "IoP Connector (E-W)",
+      "distance_m": 556.91,
+      "elevation_gain_m": 17.4,
+      "avg_grade_pct": 3.1,
+      "polyline": "{fcgEnu~eN{C~AcMrHgB|@{CjB",
+      "start_lat": 32.78974427841604,
+      "start_lng": -79.78855066001415
+    }
+  ],
+  "GB": [
+    {
+      "id": "614884",
+      "url": "https://www.strava.com/segments/614884",
+      "name": "Kooragang Island Lap",
+      "distance_m": 8214.43,
+      "elevation_gain_m": 10.2,
+      "avg_grade_pct": 0,
+      "polyline": "bfwgEu{k}[aCg@iHo@wBYgGi@gHy@aCUs@C_@D[RO^Ch@AxBInEGhBQbBOhASdAy@xC}DrL{BlHKb@QhAEv@?x@N`BVdAXr@T^^d@nAbAtGnDzAr@NDN@b@GZYHSHi@@WAcCBeJI}AM{@Uw@g@kAi@aA_@e@c@_@mAu@g@WaBk@}@Mg@KcBO{Cc@uDa@uJuAcAUq@IaAIeDMa@?qBHk@ZS`@YlBe@jCaBpF]vAGDES?SDQh@eBtB}Hx@mC\\c@PKh@Kj@Cj@?dBFnALlANlB\\v@JxDb@dEj@xD^bInAx@Rr@\\r@Vn@h@l@p@^V^CjAiAPMd@Yf@Sf@IR?rAR`BNrDp@dAHpB\\z@Jx@DxAT`Fv@vBf@zAP~@Xl@DtHPjEAtAIfEKxAEzABnBOjDGRE\\[Lo@JcB`@cDBYAUIUMQOQsBsAqHkF}BoAmBoAyCcB_FwBgKqDkBi@sCq@",
+      "start_lat": -32.8920130524784,
+      "start_lng": 151.781871858984
+    },
+    {
+      "id": "4560985",
+      "url": "https://www.strava.com/segments/4560985",
+      "name": "Ruppersdorf Climb",
+      "distance_m": 1470.8,
+      "elevation_gain_m": 102.2,
+      "avg_grade_pct": 6.6,
+      "polyline": "wh`~Gcil`BW]KWIWG_@@}@Hk@H[Pc@NQh@c@~@e@h@_@Xi@B[E]Wc@QOo@]OQQ]}@gEEo@Do@Hg@`@mAHMHSTa@F]Ic@Yc@k@o@SYCOA_@HWLSx@s@^MJIHQNe@l@_ABKBSZuABU\\cA?Kj@kAFSGUBSJYJ}@Xs@VSRId@KRIjASXMNIV[^s@FUJcBEiA[wDIaBDsAC}@Dg@",
+      "start_lat": 47.028769,
+      "start_lng": 15.960663
+    }
+  ],
+  "US": [
+    {
+      "id": "1241780",
+      "url": "https://www.strava.com/segments/1241780",
+      "name": "Batchworth Ln Climb",
+      "distance_m": 1263.19,
+      "elevation_gain_m": 29.2125,
+      "avg_grade_pct": 1.9,
+      "polyline": "qm`zH`hrAG|@Q~@a@pAKPIZ?ZOj@KTSbAKrAKf@WtBA\\Mj@G|@Ov@G~@FZEr@m@hFSjCItAGPGz@G\\I`BUbASj@Mr@Up@It@GVGt@_@hAGv@g@xCAXMd@Gp@Bj@Ct@@`@AVGj@Dl@BpBIbA@TOt@AV@RJZD`@X~@P|BJt@?XDhAIf@GD",
+      "start_lat": 51.61705225732989,
+      "start_lng": -0.42640133494291305
+    }
+  ],
+  "IT": [
+    {
+      "id": "643664",
+      "url": "https://www.strava.com/segments/643664",
+      "name": "N 950 E Climb",
+      "distance_m": 2908.47,
+      "elevation_gain_m": 119.79,
+      "avg_grade_pct": 4,
+      "polyline": "spb{FjwkjTLwGE{KHgK?{EFgFEmGDqCA}EDyCCeEBuB?}AEeEKiB]qBs@wCIg@M_BEmF?{HAa@G}@QWOGoAIy@C_NHmCGmCBiDGkFAeBBqBIeGAuEIsAB",
+      "start_lat": 41.30586392389144,
+      "start_lng": -111.968052827442
+    },
+    {
+      "id": "1231827",
+      "url": "https://www.strava.com/segments/1231827",
+      "name": "Lot 167 Watters Rd Climb",
+      "distance_m": 998.19,
+      "elevation_gain_m": 84,
+      "avg_grade_pct": 8.4,
+      "polyline": "podgF}cpvZoAg@c@Y]Kg@IoAGuA?u@Em@Gi@@aAGsB[aBMq@M_@OeBoAc@KgCYoA]kAe@cEsBi@a@GIWOYWkBkA",
+      "start_lat": -38.03912571631372,
+      "start_lng": 145.4139171447605
+    }
+  ],
+  "ES": [
+    {
+      "id": "10005761",
+      "url": "https://www.strava.com/segments/10005761",
+      "name": "Tooting Common to Marble Arch",
+      "distance_m": 9754.2,
+      "elevation_gain_m": 0,
+      "avg_grade_pct": -0.1,
+      "polyline": "}d}xH|i[g@`AKZy@hAEPOXIF[h@]`@uAzAOHY\\w@b@WRg@Ta@Xw@ZgBl@m@Lo@Rk@V_@F]Rk@Ny@\\KHKFYDSNOVa@PIHm@TYR]HQNWLM?UFk@\\mAd@SNG?u@b@QBaAb@QPu@h@u@t@MJOD_@\\MASSU@Y]OMMc@Si@ESQc@o@kAOIaBsASE[UGCk@Wo@c@EIWOIMUOGA[WOG]YMAq@c@a@SUE]?GDK?IGi@G}@CICYDQCOBYG[?ICG?[I[CSGM@ICa@?SG_AHUFIFq@HGGI?IFMGe@KKM]O]UOOKEGOKHw@YKIy@Y[Do@VMCOBMLSHW@WF_@@gCXK?UFk@FQHIBi@BKCYF]AIEUCKIKAEDu@HIBKA}ARMDWDIAKBi@BGFQ?IBGAa@Fe@Ls@DUDgAL]?e@D}AVc@JICq@LMCW@_@DMJMVIDEHKDIJe@Ns@Lk@PuATYNs@Je@Ps@LOAgAZuATMH]FYLw@TaAHk@PYAeA^]Dg@NQFKRG@G@KEWCe@@qCP[EIGSDm@KgBs@q@Q{@c@cCs@WOq@MQMQ?o@Q[SM?GCCEUGGEg@QSKYCk@O_@QGGUIwAa@iAUc@Oc@IcBk@KC]AMEo@e@O]QKGOASM_@?YOo@Qk@Yg@SUKASMc@@KBMXEXWNUXi@pAK^U`@GZQNGPOVc@`@[J]A[Dm@NYGGFGAO@YDm@XGHMd@KVIF]B[MIEOSKWEACEKBw@@w@JW?QESLM@QLK@KEs@Dg@Pk@JMAi@Hg@?q@TKBCFMBKBWAu@Fo@NWDW?YLMEK?a@GSBK?a@HY@_AR_@Lq@Jg@AQDSAmAXo@HsBJw@PGAEC]Po@PSTy@fAU`@u@`AKTML]t@MJ]AIKk@]eAy@e@[c@]GMKI[OIIo@_@uAq@W@UEEDECG@CFECIOq@Ac@GI?GGGAKBUGI@a@EE?ECSFCFMCMHI\\AVGJMAEKYOUEEBMZEn@O|@[v@KLWd@E`@EHGBQ^o@~@[dAy@zAENq@pAa@jA[d@e@fAcAbBKBMMYe@CMY_@O]GGIAKJm@lAc@lAST_@XIRGFMZGZg@D_@A{@@WD]AS@OAw@As@FWJM?GDU?MDCHG@WEe@Ls@xAKL[x@i@dAUj@]b@KDYZEHCLGNWB{@XEPBj@WNKBEFGB}@LMHcAZ[AIBICc@@ULGCKBQHIAKBEAWeAOQIAWDKKS@KBUXOEEFMA[DICM?WC]SSUEq@Mq@Eo@GgCU}CCq@ES?e@YuC?SG_A@c@C_@AeAG_AIu@Sk@?MQSSK]WG?OJMr@MT]Co@\\c@d@]\\GBEJQNe@Rc@f@IDI@SPKBGJUN]\\YPCHIDMPIDSCG@CHOLEHK?ULc@`@g@\\a@b@SJ[Z_A`AQHELcAn@OPw@j@_@\\g@XKLg@b@c@d@IFSBINWHGF]HQHONQJCHEBM@o@Tc@`@OFMNKDUVkArBMDq@nBGHMp@W`A",
+      "start_lat": 51.436477,
+      "start_lng": -0.145102
+    },
+    {
+      "id": "629873",
+      "url": "https://www.strava.com/segments/629873",
+      "name": "Bilgola Plateau (Plateau Rd)",
+      "distance_m": 1938.87,
+      "elevation_gain_m": 130.739,
+      "avg_grade_pct": 6.7,
+      "polyline": "dcilEkesz[pItEZNb@@^G|@UlAg@d@i@Xc@Xs@d@_BTJFz@H|CCbAGh@K`CWhCw@dBcAbBIb@BrA[rDId@MZ@\\^^FV?FUTk@L}ABg@LMTITHh@pBpB~AnAnAf@fGrBn@f@^j@@FEl@aCrGa@`AC`ABJ",
+      "start_lat": -33.6390622,
+      "start_lng": 151.3277399
+    }
+  ]
 }
