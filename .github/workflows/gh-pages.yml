@@ -44,6 +44,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Debug secret with Base64
+        run: echo "${{ secrets.STRAVA_CLIENT_REFRESH_TOKEN }}" | base64
+
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v7
         with:
