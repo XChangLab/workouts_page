@@ -4894,5 +4894,21 @@
 "elevation_gain": 116.0,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 19878583195,
+"name": "MyWhoosh - Easy Taper Spin",
+"distance": 26026.9,
+"moving_time": "1:00:27",
+"type": "VirtualRide",
+"start_date": "2026-08-24 13:10:30+00:00",
+"start_date_local": "2026-08-24 21:10:30",
+"location_country": "Route de Porcmignon, Plainefas, Saint-Martin-du-Puy, \u5e0c\u519c\u5821\u57ce, \u6d85\u592b\u52d2\u7701, Bourgogne-Franche-Comt\u00e9, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 58140, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "ekt_HooyVhDzFb@zAPlADxAMtA[|@_A~@Ox@PhB\\bAr@`@nDEvHqGVh@vD`MTRn@U|GiGXq@r@qEVy@\\q@jAeAbCkAzCg@tCLl@^N^Bf@M|@]r@g@d@wEj@wA\\cB~@Q|@Tx@~AHVXhA`D~DdHr@jCj@fHnFvMt@rDDlCGv@g@`CwClJSlBFpBNt@r@r@h@BbAa@jAoAn@wAV{AAcAIe@a@k@cBWyBv@mBhBgBbD}AvEm@|DUbE?bENfDxAzIv@rDjFvNx@pEXdDH`DMxC]bBg@~@q@j@gDbA{DBeAUs@e@g@y@u@iD_B_BUmACaAJuAl@wBj@aA`C}CF}@Mg@u@g@eGqAiE_ByCgC_CgDa@uB?_Bf@}K~@iJHaCUmC{@kBgAw@iBc@aCuBu@Ou@bAcD`HYLgxAujBq@Y}A?oLhB}@Dc@OOm@Ny@xB_BfCqG~AgClAw@lAUjJMJa@ImBMWmE^eDDsCQ{Bo@_@FkEhFoKrKOd@C|@`@dEQt@g@^g@A[WyAcDcCESO@gKVaA~DuDZi@Gw@cDiJUw@DObJqGxBcCr@@\\^Lp@?nB^lA`DnBxDfArEp@lF\\p@WTeA@qLQ]YGuEJi@[@}DNcFpIc@d@^l@~Ch@t@fJI`@a@L}@CsAWs@YM_JD]e@MsAPqA`@a@~IEd@Xv@jDb@\\|R?At^RxOQ~ASn@iAlBqBfCYjAPjAnAzCvBxEbAvA`@@\\_@~QqZHg@WwBHeBt@_BpAa@dAXx@xALnAA~@SdBHb@jKfQl@|A^nCEpBa@tAw@r@WpAXvBn@dAnE?hHkGL?dE~MTXZC`IiHvAiH`@w@hAcAzBiAjCe@rC@hAl@Pv@Cj@[z@c@n@_A`@aDR}A\\yAt@[v@Dn@X^pABZVhAdD|DzGr@lCd@rGPr@tExKz@pDNpBErBi@bC_CfHa@fBKpBPpBXn@f@Xz@E|@i@|@gAj@oATsA@eA]iAsAe@wARkBdAaC`DuAbDkApEYdCQtHFjCX~C~B`MpEtLx@xCh@~DPbDE`Fi@jC]l@_At@{Cx@mDFyBs@u@eAu@iDiAaAc@aAKiBV_Cv@qBnCiDN{@M{@s@i@wGwAiEeBiEgEsAoCM}Cf@_LhA_MOeDs@sBcA{@cCq@_CuBg@Mc@ZeEtIWE_y@ceA",
+"average_heartrate": 122.3,
+"average_speed": 7.176,
+"elevation_gain": 155.4,
+"source": "strava",
+"streak": 10
 }
 ]
