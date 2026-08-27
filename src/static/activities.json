@@ -4910,5 +4910,21 @@
 "elevation_gain": 155.4,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 19908258722,
+"name": "MyWhoosh - Easy Pre-Race Spin",
+"distance": 18424.9,
+"moving_time": "0:40:15",
+"type": "VirtualRide",
+"start_date": "2026-08-26 12:53:34+00:00",
+"start_date_local": "2026-08-26 20:53:34",
+"location_country": "19, August De Feyterstraat, Ternat, Halle-Vilvoorde, Vlaams-Brabant, \u5f17\u62c9\u8292\u5927\u5340, 1740, \u6bd4\u5229\u65f6;\u6bd4\u5229\u6642",
+"summary_polyline": "wvmuH_joX?zz@CvCEh@Oz@Md@[n@UZWTYNYJYF}B@wY?M?KL?nc@KtACRMf@[l@c@\\[Ji@Duq@DmBAi@GYGs@_@kSwO{@u@UY]m@Uw@SqAEaACkBAw]AU?me@Ak@Ck@CSWu@WWYOYG[AiGAYGMGIKU[Qa@e@uBSgBCaA?k@HuAJ_Ab@wBP_@JKLGVKj@E`KCZCZGXMXQ^e@P_@Ne@N{@DaA?aAHcCVeBXs@^i@XSVMZIZEh@CpK@ZBXHVR^j@zHjN|@xAVVXNXJt@Dxc@Af@AZEXIZQRY|DcHzBiEv@_AXUd@Uf@Mh@E`KAbE?XDZHVPVVZn@Jf@Hf@FlB@juACvCCj@Gh@Qx@Qb@i@v@UT[NYJYD{B@yY?M@GP?xb@C`AGh@Sx@S`@a@`@[JYF[@ms@Di@Aw@Gs@Wq@g@kB{AuM_KiA}@m@m@]k@Wu@YgBEkBCa_@AU?ke@AaAEk@Qw@a@g@[MYE[CaE@eAAYIMGUYa@eAMe@O{@QsAE_A?aAHuAL_AToATw@TYXMZGZAbKCt@KXMXQ^e@Pa@Lc@N}@Dk@?wAHaCPsALe@P_@R]VUf@Wt@Oh@CpK@ZBXHLF^h@dIxN|@xAVVXNf@Lf@Bxc@Af@AZEZIXQR[tCcFhBkDdAkBTYb@a@VQXMh@Mh@ErPA\\@d@LXNVVXp@Rz@HrA@j@@luACxCCh@M~@]fAS\\UZUR[PYH[D{B@yY?KBGP?vb@GtAIh@Md@Q^WXc@TYFY@_A?",
+"average_heartrate": 119.5,
+"average_speed": 7.629,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
