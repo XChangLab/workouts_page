@@ -4926,5 +4926,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19929670051,
+"name": "MyWhoosh - Race-Pace Sharpener (2x6m)",
+"distance": 15264.9,
+"moving_time": "0:40:07",
+"type": "VirtualRide",
+"start_date": "2026-08-27 23:18:44+00:00",
+"start_date_local": "2026-08-28 07:18:44",
+"location_country": "\u9e7f\u6cbc\u5e02, \u6803\u6728\u7e23, \u65e5\u672c",
+"summary_polyline": "qqx}E{u~rYsAxB[Zc@Xc@N_@Jw@HkBBADkAFw@V]Rc@d@c@r@_@jASnASlCOv@Yx@eAdBgDrEe@v@Frj@Fp@P`AZ~@x@lAb@\\r@ZfAF`F@z@TjAn@n@TdB@n@Wl@c@rAcBZaALsAPkCTaBNc@^c@n@[x@?l@ZVXlD`GFBT^`@`@|@`@rA\\dBp@fARjA?nAKbABpB?x@KdA_@ZSD?d@c@RURo@PaAR{BVgA^o@d@UV?v@T\\XTp@v@xCXn@f@h@ZNxBZbA?t@_@d@c@hAsBhBaCfAmAFQSa@yC}DYi@K]G]Aa@F_ALq@L]\\m@Z[~BcBxBiAt@k@n@y@Xq@Pq@J}AA{@M_AWy@c@s@k@g@kAe@gB[mAMmAUo@[USQWWaAEgABe@TeAR[XUv@a@x@WvAWjD[r@[j@e@R[\\}@NcABiAIiAW}@e@}@k@k@kAk@gAY_BUgEe@q@Sk@Y{AuA}CsD[P{GhKs@p@_AVqG@}INeBCu@]m@k@eDyDaAcAKEKDo@bAuFbKu@jAWZg@ZaAZ{@JgBBsALs@Vc@V]\\c@p@a@nASxASfCS~@Sj@eAhBWXuDjFCL@tGFna@HfANp@\\~@Xh@x@z@bA`@z@F~E@fAXfAl@L@\\PnAB^Il@Uj@c@d@e@t@oARw@ZoEPyAPg@\\i@x@[j@?t@ZVXrBlDt@hABHD@\\j@`@Zd@TxBl@rAh@dARdA?xAK`ABlB?lASn@Uj@]b@[\\o@PaA\\_DVeA^g@d@QP?z@TXVP`@~@pDZn@TXj@XvBZdA?p@[ZY`BsChDaEBUgDoEc@s@Mk@C]?g@J_A^iAt@_AlBuA|C_Bx@y@b@w@ZaALoACuASuAYq@e@m@i@a@o@WgAW_Ei@cAc@c@k@M_@KaA?gAF_@Z}@n@i@nAg@x@QlBUr@ClAUn@[f@i@N[Xy@L_ABeAIeAU}@_@y@_A_AsBs@cH{@{Ac@y@k@cCiCqAaBMAUT_AvAkBzCIFgBpCu@n@}@PmG@wIN{A?UEi@UgG_H]UIDc@j@sFdKqArBm@b@iA\\}@JsCJu@Jm@Vw@r@i@~@Y~@SnAKbB",
+"average_heartrate": 127.4,
+"average_speed": 6.342,
+"elevation_gain": 188.6,
+"source": "strava",
+"streak": 1
 }
 ]
