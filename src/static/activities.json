@@ -5134,5 +5134,21 @@
 "elevation_gain": 17.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 20073008454,
+"name": "MyWhoosh - Easy Z2 Flush",
+"distance": 22634.4,
+"moving_time": "0:50:27",
+"type": "VirtualRide",
+"start_date": "2026-09-07 11:56:41+00:00",
+"start_date_local": "2026-09-07 19:56:41",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd;\u963f\u5e03\u9054\u6bd4\u914b\u9577\u570b, \u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b;\u963f\u62c9\u4f2f\u806f\u5408\u914b\u9577\u570b",
+"summary_polyline": "scqmC}srnIdDjJLz@?vASz@c@r@uFjFeAXqAMkKiHyEmBsDaA}@rAqAVEh@YXQn@F~@^f@x@Np@SXa@Hc@Eg@Sa@}@Y}@^Ol@@`@N^\\R~@EZ_@Dg@Ma@WWw@?_@l@Ll@`@D\\w@TD?^WBe@]M@IZVP\\w@XKXNB^O`@]Re@Bc@QW_AJm@`@_@l@Ej@R\\fAMp@c@b@q@Hm@Q]e@Io@Hk@d@q@Gi@u@GsA}@uApAuBdDwA~CiArDu@lFKtF^tGrAbGdB~BfQvO`BbAfFh@|D[jDwAbA}@`AuAnAgCR}@lEyc@v@cCxAiBvB{@bDIbDR|HnAvJf@dAK|@cAH}@M_Ai@m@w@ScMjBgACsAe@g@o@yAyHqAkBuAy@mA_@qEOeA{@YiAF_Bd@}@v@c@hB?`DjAhAfAbJ|K|BvApBj@dFRbIWbEg@bKwB|CU~IfAhHvBfAv@r@nAVjA@pAYxAiA`BiH`Hk@pAU|A?lBLlAhEpND~AWxAcA|AoAn@}AF}@[y@gAU_BPkAhBeFDkBYiAsAoAkBO}Aj@a@d@[z@CrB~@fKjAdC|AhArA^rBBbB]vAy@|@gAj@sA\\oEZiA|@eApJeHt@eA\\uAHiBWyBq@kAoCkBc@s@aAwI_AiDsA{C}A_C_C_CyEcD_CkAaB]cACeAFuBj@{BxAmD`G}BnBmEpAkEJkCe@yCcBwAwAoEeG_E}CaEiBuC{@oC[eB?gATa@\\_@hAEbA^~AzCnILlACnAMl@c@r@{FrFeATuAOsFeEaDkBgEcBgD_AYDe@bA}A`@A^m@hAB|@Td@d@Vr@@j@]Rg@@m@Wk@g@Ye@?k@ZQf@Bj@Tb@bAP^UPa@Cq@U[o@K]NQ^Bf@^R`@y@LCRPEROF{@[IZZL^y@h@@Br@e@f@g@Be@SW_A\\aAj@Qn@J`@d@@nA]h@o@PeAYWk@Eo@Nk@Z_@?i@y@KcA{@Q?kBlB{AdC}BnF_AzD_@tDIhDRtFf@rD~@hDnBbCzRzPbCj@zBLfCMzAYbBo@vAcApAcBzAeDtEkd@n@eC|AwBtB}@jDMpCN`JtA~Id@|AUn@_AFu@OcAc@g@{@WaMhBiAA{@U_A_AqAgHmAqByC}AoEQkAi@",
+"average_heartrate": 124.4,
+"average_speed": 7.478,
+"elevation_gain": 61.6,
+"source": "strava",
+"streak": 3
 }
 ]
