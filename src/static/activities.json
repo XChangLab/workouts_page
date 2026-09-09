@@ -5150,5 +5150,21 @@
 "elevation_gain": 61.6,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20088055247,
+"name": "MyWhoosh - Sweet-Spot Session",
+"distance": 34410.7,
+"moving_time": "1:20:35",
+"type": "VirtualRide",
+"start_date": "2026-09-08 12:01:12+00:00",
+"start_date_local": "2026-09-08 20:01:12",
+"location_country": "RAVeL 2 Ligne 150B, Houyet, Dinant, \u90a3\u6155\u723e, \u74e6\u9686\u5927\u533a, 5560, \u6bd4\u5229\u65f6;\u6bd4\u5229\u6642",
+"summary_polyline": "kiiqHmcq]mEtHMl@?fAr@jMRxA\\^fBv@nBZhEcFpByCLiAQ}KhBmDfCwDd@OlBt@d@AlEyFl@e@xJxApBh@N`@ApAe@pJ[~AyAxC}GjKc@|@Iz@fBdEh@v@jE_@bD\\pLbH~ItCxExCjCrCn@pAjAzDfDnHrBlINbCBjLRlBlA`EH~@AzAStAc@dAsAxA_YfWoAd@cBOyAgA}@yAo@kCeC{Pw@gC{BkEsNyTwHeIiBkCyHgH}HcDoImEkC{@eBFoHxCwAFyAWw@a@eBeByQoUgAaAoAi@aC]gB@aC`@yCfAqBvAqBzBeExFqAlC}@xDg@hD}A`URbK~BzF`A~FdAnYf@nB~ChGlAtAjEdCrFrChALlGuCnFaDnEqJ~@kAxQwJtAe@x@CnCz@t@h@`ApAbPd_@X`BOdBm@lA{_@`d@qAXyNFsBVoChAwEvCuGvF}@\\wBHcC[qMsFi@i@aAuBcAoAoE{AgEuDsH{CwEo@c@e@}A{Di@w@uJyDsKsJmIqFkCmAyBCqDj@}V|GaBbAkClCwAn@aT`CaBKcAcAkKmOu@cBu@aKaAgHS_DFiFt@uHOoEm@kDq@iBgBcC}@g@eCI{QvFcAlAuGdMuApAoAf@_Ij@wG~AsAB_A_@eAiAi@oBYwCOqEJoEb@sCjCeLr@eJt@cClEqIlKiLvAm@vCqE|BwBxD_FxA{BtGeE~FcFr@}D`@w@xHcFvCwAdA?d@^fAnCrCxFhAjFtCvFvFpO^`@`@In@u@zIiNrFgF|@[~@DnA\\zC|ArAPzBcAlB{BjD_H\\kE?wDSgAu@cBqBoB_AsAmBeHaAuBaC_AcAEm@TyDzDuKfMo@b@i@FqAq@oAwCsBqIOiA?gBV_Bb@w@~QkLxI_Fx@u@^w@JcAAgByAmOgAiIi@yB}@cCEYNk@|JdBrDQdJ{EnCiClAaBvA]dCLbA\\lA~@v@nAd@hCd@dQl@z@zA\\lYUrA}AfDcJtB_Ef@a@vDgAv@@`ChGh@b@bA`@hBbHVZvASZX`A`C~EdIpEtEjMxR|BdCvF`FzAtBtDjBxOnRh@Cb@c@tMkUVCrFlKL~@_@|BuN`V]hAPrFp@rJ`@f@dBt@rA`@n@O`H_JNc@D_AUoJDi@fCwEhBkCf@KhBr@f@CxEgGd@UxMvBZh@@h@k@|KSlA_BhD{H~LQt@Hd@nBjE^`@`Ec@rDb@vKtGbJvCzEvC~AxAjAdBfBpFdCbFtBvHh@`E?lJ",
+"average_heartrate": 140.9,
+"average_speed": 7.117,
+"elevation_gain": 318.6,
+"source": "strava",
+"streak": 4
 }
 ]
