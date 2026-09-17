@@ -5278,5 +5278,21 @@
 "elevation_gain": 314.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 20199805910,
+"name": "MyWhoosh - Endurance Strength Blocks",
+"distance": 24244.3,
+"moving_time": "0:50:11",
+"type": "VirtualRide",
+"start_date": "2026-09-16 12:31:34+00:00",
+"start_date_local": "2026-09-16 20:31:34",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd;\u963f\u5e03\u9054\u6bd4\u914b\u9577\u570b, \u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b;\u963f\u62c9\u4f2f\u806f\u5408\u914b\u9577\u570b",
+"summary_polyline": "kqzmCcdznIqIkE}@YiAWo@USO[]Ig@r@eChSix@~K}b@Ri@Xa@NKPIb@Id@?b@F`AZn@LnAH~AIx@MdA]~@g@n@e@f@m@t@kARUXKv@?LEr@o@RWH[@mADORUtFqEtL}InAs@bAc@x@SdBUhBDx@Lv@Vr@b@`@^p@|@d@`ATr@NdAFrAAn@StDIHeAEgABw@PWP]b@Qn@E^@r@R~@xCfINl@F^B~@En@Ol@c@r@a@`@kEfEi@R[F]@k@Gi@Sc@YgB_BiCeByA{@{BaAgEuAoCo@m@Em@?y@JYLiAt@a@^cAtAgAdBw@|AeAnCWz@c@jBYpBM`BIrB@rBJtCRrB\\nBj@zB\\x@Zb@`AbAvVtT`s@jo@rGvFr@f@j@XfA\\|@PzC`@jg@pDrVnBtCPnABj@Eh@U`A}@f@aARiAAoAw@}HoFkq@{Cy^?QFOp@i@`@e@Xi@Rm@H_@HcAAcAGs@Oo@O]]g@q@k@sAu@UWS]So@_@yE_@}Bg@gBe@qAw@aBq@kAsAaBqBiB}DmC_B{@w@[q@OiAGmABe@HkAZsAp@eA~@a@l@iAzB{@nAw@v@{@l@{An@}A^_BP{B?_BQ_AY}@a@y@k@wAoAo@y@qBwCiAsAyBiB}A}@}CuAqBo@eAUeCU_A?}@Hi@Ta@d@Sn@Eb@?b@Fb@^rArC~HLdA@r@Eb@I^O^k@r@sDrDe@`@[N]H_@D_@Am@Mi@YmBcB{AgAcDmBsB{@mAc@}Bq@qBg@a@EcAAaANk@Vw@j@gAlAeBpC_BlDe@rAe@fBShAQxAM|AE|A@dDV~DTbBb@pB\\jAVh@Zd@v@v@rUtSbz@xu@~ArAhAt@v@Xv@RbBZtBTbG^zx@fGvCJ\\CZK|@m@p@}@X{@F_@@q@IcBo@eG}Fmt@mC{[?MNWj@c@j@u@Tc@Ps@JgA@gAIw@Su@MYa@m@i@c@qAu@]_@We@Mk@c@iFW{A_@wAk@aB{@iBq@iAc@m@mAuA_CmBqD}BeAi@cA_@gAOaB?cBZm@Ry@`@o@h@k@l@gBfDo@|@eAfA{Az@cA\\kAV",
+"average_heartrate": 132.8,
+"average_speed": 8.052,
+"elevation_gain": 50.0,
+"source": "strava",
+"streak": 3
 }
 ]
