@@ -5310,5 +5310,21 @@
 "elevation_gain": 311.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 20267338361,
+"name": "MyWhoosh - Active Recovery",
+"distance": 20242.0,
+"moving_time": "0:48:11",
+"type": "VirtualRide",
+"start_date": "2026-09-21 12:34:54+00:00",
+"start_date_local": "2026-09-21 20:34:54",
+"location_country": "206, Zwirnerstrasse, Leimbach, Kreis 2, \u8607\u9ece\u4e16, Bezirk Z\u00fcrich, \u8607\u9ece\u4e16\u5dde, 8041, \u745e\u58eb",
+"summary_polyline": "{r|_Hii~r@?a|@@y@Jw@b@qAh@o@n@_@r@Q`AIv^Aj@Jr@\\t@r@h@z@h@xAJf@LdA?pBSrEG`CH|C`@zCzA|Hb@tD?pCIhAeAfLAfDBvADt@PlAV~@tAjDx@bC`@nBLjAFzCAzBOrBWvAYx@_@p@e@f@i@^y@\\}@TiD^cDJcDDyk@EyDDkAL{@VwAl@oCzA}@Zm@N_AFoBCqFu@uAKuL?}AHe@RWTO\\Sr@Kv@Gx@MjFUlDSfA[bAqA|B]v@[~AKfB?nADnATbB`@bB\\nBLdC?x@I|AWzAmAvCW`AEdALfBZx@d@d@x@\\zBb@f@PbAj@|@z@~@vAh@vAVjAJx@HnA?lAIpB]nCo@bCuDbK_@hBMxA?vAJxANlAj@jCt@rBj@`AjArA~@j@v@Rn@BvIW`EAtDP`B`@l@f@^p@LZXlAz@bFh@~ATd@f@j@^Vp@Tt@Dr@AjAUhAa@fAi@bAu@rBuBp@aAl@gA`@_Ah@mBN{@LwA@}AGaBOiA_@_BmBmFsBwEiDyGs@gBSw@M_BBaCLcBd@{Cx@kBv@_Ah@]l@WnEaA`A[pAu@t@y@h@gAb@kBViCDaC?yBEm@OaAW}@_@u@Y_@}EkEsAwAYq@I[KaACaAJeBT_A~AmE`@yAN}@B_AIwBk@kEKaBCayB@sFFmALw@Vo@h@q@hAm@r@Kt@Ev^?n@Nt@b@n@v@^l@h@vAJf@NfBArAYvGAbBFhBb@dDzAxHb@tD?pCK~Am@fGUtCAbDHhCNhAV~@dBjEv@lCRfAPfBDzDG~BKfA]xA]z@W`@g@h@_@ToAf@uB^mDTyFHqn@EwBFy@LiA^}E`Cw@ZgBTkBCmFs@iBMiM?kAL[Nc@h@Od@Q|@IvAM~EIxASjBIh@Wz@Q`@sA`C[bAMp@Gp@ExADhCRtAp@zCJr@JrADtBI~ASpA[~@s@|AYdAEfAHxATv@n@t@`A^rCl@fAn@nAjAv@pAh@zAX~AHlABjACxAIvAW`BQ|@u@`CwBxFk@fB]fBIr@ChAJtBZzBTfA`@vAv@bBt@dAhA`AfAb@~@FlJWrDAhDP~A\\^TTXj@hAXjAv@vEVbAb@`Ad@n@`Al@~@NbAC",
+"average_heartrate": 125.7,
+"average_speed": 7.002,
+"elevation_gain": 139.0,
+"source": "strava",
+"streak": 1
 }
 ]
