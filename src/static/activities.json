@@ -5422,5 +5422,21 @@
 "elevation_gain": 26.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 20378295237,
+"name": "MyWhoosh - 3x9 Threshold Progression",
+"distance": 19850.8,
+"moving_time": "0:45:40",
+"type": "VirtualRide",
+"start_date": "2026-09-29 12:47:34+00:00",
+"start_date_local": "2026-09-29 20:47:34",
+"location_country": "Rue de Dewarichet, Mille, Hamme-Mille, Beauvechain, Nivelles, Brabant wallon, \u74e6\u9686\u5927\u533a, 1320, \u6bd4\u5229\u65f6;\u6bd4\u5229\u6642",
+"summary_polyline": "up}tHo||[|DAr@IvAe@fEkBx@Sx@ItIIjJ]`AHpDv@l@Bb@C`A]`LoHhBaATER?ZPRZNd@lJtg@HNNArGcEvF_Dx@i@v@{@JSJm@Dm@?k@GsAmB{Rg@gDi@eCW{@q@gB?[FYNIjBn@fGz@zAA|ASfAe@tCiBpCyArBqBnAcBZ[\\I\\Cx@@nAJfAZ|@l@p@z@Xh@ZzAFx@JnCPjKLv@Xb@VN`@J`AJdKCNEDW@cQA[GWKUcBkBYc@Um@Ku@AYA[FoBPkALU\\]vHcENOTk@JsAJmFLwM?}AC_@Su@QQQMg@KqAAyFPe@Hq@^iBpAoDtCy@\\qAFeIGw@Q]]KUGYA[?cFFw@FYTk@\\]t@SrHMf@Id@YVo@Jy@B{@KwBGYMUOKc@KeDSw@W]_@u@uBeD{JOIqGhHm@j@OHi@FaAKk@WUQSWa@y@_DgK[}@Q[m@k@kDeCYOy@SaDD{A?sH}@qD@a@Mo@o@c@QM@MPW~@OPWBoBM]JQh@KlA]vBMRWT[j@gBdEc@|ASLUKYg@k@m@Uk@Ki@Ee@?}ACe@IU_@_@KUEYDm@Lq@D_@As@O_@WUQ[MAGBe@p@m@|AULe@LWPY^_@v@If@?^ZpABT@`ACl@Gl@U~@]x@W`@]X]PaALo@E_By@O?ODo@l@cD`E{HdJs@n@y@`@{@Hkr@Gq@Bq@Jk@l@c@r@}IjPy@fAq@`@c@?a@QYg@QmAGsA?w@FoH@cJGgCWeBWi@[]o@]cAYq@Ca@H[RY\\Sd@UvAEdAEpB?fw@HLL?pP?x@Ch@MVSTYdI{Nd@i@ZWx@_@jAKjPAn@Fj@Vd@l@Pf@PdAF`B@`}@LNpUAnAUjF_C`AW|@KrIGjJ]jAJfDr@h@Dh@EZGr@]pKeH`B}@XIT?NDTTLVPl@jJhg@HNNEpGaEhHcEh@e@V]HSJi@Dk@?g@G{AaBuPe@uD_@wBc@eB}@eC?UDWHMN?`Bl@dGx@rA@tAOj@Oh@WbDqBnBaAv@m@rAuAfB{BZMv@E|BN`AXfAx@t@dA\\fANnAL`DPbKL~@NVj@^b@Jl@DzKEFQ@wQAQI]W_@iAiAa@m@Se@Ki@",
+"average_heartrate": 144.2,
+"average_speed": 7.245,
+"elevation_gain": 208.0,
+"source": "strava",
+"streak": 1
 }
 ]
