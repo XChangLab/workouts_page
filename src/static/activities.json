@@ -5598,5 +5598,21 @@
 "elevation_gain": 21.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 20515108942,
+"name": "MyWhoosh - IntervalCoach - 3x8 Endurance Spin-Ups",
+"distance": 16934.4,
+"moving_time": "0:35:05",
+"type": "VirtualRide",
+"start_date": "2026-10-09 12:33:38+00:00",
+"start_date_local": "2026-10-09 20:33:38",
+"location_country": "9, Moosstrasse, Gr\u00fct-Park, Adliswil, Bezirk Horgen, \u8607\u9ece\u4e16\u5dde, 8134, \u745e\u58eb",
+"summary_polyline": "iey_Havas@\\oIA_BMeASu@c@gAa@q@Y_@m@e@_@Sa@Is@CuH?MAGO?gSAmAMiC[eCc@_CSs@_@aAu@yAi@q@y@u@sA{@}BeAoC_AyBo@qEgAiDu@iBi@gAc@gAk@u@e@q@i@qAoAk@s@cA_Bq@qA_A}BwDcKGSBSdJ{JbAu@v@c@j@Uz@YjAYhAQx@Ij@CbAA|FRjAB|@A|@En@Gb@IjAYdBm@lCkAzBiAnDqB|@m@h@e@b@a@xAiBj@o@f@a@v@c@b@Md@Kt@Ih@@v@NZJXNZR`At@vD`EfBzAt@f@x@`@fAb@z@TxAVz@D|@@|@ExASz@UdAc@dAk@bAu@z@eAj@}@\\q@r@mBr@iCP}@h@iDVaCRyCLiEBeC?cHCoBQ_FUyC]uCWqA]mAYu@Sa@_@q@{@eAe@g@oAcAcAs@aB{@wAk@kA]}A]aAMsAKu@AgA@}AH{D\\oBV{AVoDx@uBn@qCfAyBfA_HvDy@^MIESgByJOuA?aAN_ANg@nA_Ct@sBXsAJ}@F_A?aAM_BQ{@Uu@Yo@i@_A]c@_@]aAk@q@ScAQaD]mAYy@_@_CyAiCsAaBm@_ASaAGo@@m@Hg@Pe@TeAz@kBvBg@f@g@XYHQD[?k@Ga@OyAy@sEsCiB}@u@Yy@Ue@Ig@Ee@@e@Fw@Nc@Ns@Xa@Rm@b@i@f@e@n@i@dAa@nAKh@[`CgAdNoEnq@SdCGh@S|@Qb@W\\[TYPm@Nm@@i@O[QqBsAg@WYI[C[?YF[Js@d@o@l@}AfBsBhCiAjAeClByE`DKL@TlDdOjFlUp@lDhFzYHf@zAjIn@`EThAZdAP^R\\VRJBL@ZGjF}ANCL?JJDRBj@?nBG`GG|LCRINMHYHsAL]FKHKRAV?VVxBVfEJtCBbB@zEEnCS~FBT\\FnGh@hAPx@Th@Rj@Xt@h@`@d@V^P`@^dBnAbHb@`B\\r@`AxALNdBjCL@~GmLV[TQb@Sh@Qr@K~@G|BEhW?L@FNBR?rk@@T@pc@AjSBbAJ`Aj@tEDbA?j@MtAQx@mBhFa@|AEn@?rAD|@H`@Ld@",
+"average_heartrate": 136.3,
+"average_speed": 8.045,
+"elevation_gain": 58.0,
+"source": "strava",
+"streak": 2
 }
 ]
