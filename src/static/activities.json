@@ -5662,5 +5662,21 @@
 "elevation_gain": 13.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 20618762151,
+"name": "Meguro River Walk",
+"distance": 6767.3,
+"moving_time": "1:36:55",
+"type": "Walk",
+"start_date": "2026-10-17 07:51:12+00:00",
+"start_date_local": "2026-10-17 16:51:12",
+"location_country": "\u74b0\u72b6\u516d\u53f7\u7dda, \u6771\u4e94\u53cd\u7530\u4e00\u4e01\u76ee, \u6771\u4e94\u53cd\u7530, \u5317\u54c1\u5ddd, \u54c1\u5ddd\u5340, \u4e1c\u4eac\u90fd/\u6771\u4eac\u90fd, 141-8642, \u65e5\u672c",
+"summary_polyline": "q`mxE{vysY@EIG?CKAGFE@O`@E`AGRANBJGt@Bd@E\\@FM`@?PCF?PJTE|@@PId@@RCNCx@BJQbACj@ETDTAr@In@Pv@NPr@RLJTJLV?JHJJHAPBHCHMVWn@Gf@CLAPS~@G^HLv@b@?DBBQl@ARC@U@Kp@@VG^KTYpAm@`BMl@Yr@ShAO^AJG@SXC`@Ul@WpAKTe@p@Mf@_@z@Gb@Ud@ILY`AGNQPGXa@r@Ob@g@bASZMDUV?@w@^u@d@GJ]Nc@b@sAr@e@d@SHYD[P]D[\\ORe@PYPIHGLOHeAbA[RQDYTeAf@MRCPKK_@`@e@TMPWPW^QP@BSLKPI@MLOF]j@I?EEK@CB@@?AORCF?H_@l@IJI?GFKRIFW\\OLc@l@OJw@x@MNAJgAhAQTUb@]`@A?a@v@[LMJSHa@`@SXI?KIVFCLKBC?OMEMQSC??Bc@f@u@t@SXI@AAADc@l@iApAKLCJC?a@q@UYEKEUMYIIE?GBGNTf@VVd@z@DLAFs@`AeAbA_@d@[Vo@|@s@p@e@n@a@^_@h@a@XUTEGEM?OEEB@LEHSJOd@]BIAGIKC[SWI?KGKOIGIWQEi@a@ISIKKCM@IFAJB^DLTHAd@AJBNNJL@`@pATN?CBAMDRCNEd@m@JQ@ODGP@@B?PCPw@t@Uh@AH?JBDB?BADK\\YfAsAVUVc@bAaAj@s@PMRc@r@y@V_@VKZa@JCb@dANTJDLA[YIU?UIUII?EHST]t@y@LQ\\[T]TWh@c@`@c@D?Zb@LBNMFKt@w@RMNQVKPSLCAOBITURa@j@m@f@q@PMp@}@HOVI|@_A\\u@h@WTQ@KAEPYHEPAN_@JMl@g@TYLITW^URUp@e@LMDK\\OIESc@?Mh@k@Ri@JINEdAk@r@s@RIP@r@q@bA[NO^OXU^Qh@k@XQREbAu@h@Uf@i@NALIZw@NORELK@SFMCCPq@LWHGNQRs@x@aBHm@Tg@Zc@HUBQPa@NOFMRs@Fe@DOJM@SXe@J]X}AHS`@{AXe@Ho@Ng@Ja@Co@Ho@@YGUQ]]}@KOKEGKM_@AAFGAQHABICAC{@",
+"average_heartrate": 84.0,
+"average_speed": 1.164,
+"elevation_gain": 42.0,
+"source": "strava",
+"streak": 3
 }
 ]
