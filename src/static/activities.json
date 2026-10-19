@@ -5678,5 +5678,21 @@
 "elevation_gain": 42.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20629418508,
+"name": "2026 Japan Cup Cycle RR \u89c2\u8d5b",
+"distance": 4958.7,
+"moving_time": "1:22:39",
+"type": "Hike",
+"start_date": "2026-10-18 00:45:38+00:00",
+"start_date_local": "2026-10-18 09:45:38",
+"location_country": "\u68ee\u6797\u516c\u5712\u901a\u308a, \u798f\u5ca1\u753a, \u5b87\u90fd\u5bae\u5e02, \u6803\u6728\u7e23, \u65e5\u672c",
+"summary_polyline": "alo~EaaftYMJKXIVSNOb@a@d@CRKBk@|DCb@g@zAW`Ag@z@c@h@[v@Il@Wv@KVQPm@lAK\\SZ_@jA]f@Qr@StA[|@{@n@Wb@AXf@l@Ht@HP\\ZHT?R]`BUf@?LDT?RCC@GJXHbAV`AFT@XEf@M\\[VKNAVBLJJTd@NHb@FNHHPDVL|ABNHJ|@Fh@TXRHJHVAHCCI@ACJ@BEOJ?BHEIADAIAtAvD?NDB`@H@BDCHQFCM@@CA@F?KE?BMHBADKAAFBDWAKJWRO^Dt@KPDH?BATc@DCLC^A@CV?BEb@D@AWB?H@INCL?LTA??CD@HLOh@_@|@Wd@_@~@EDAC@CEBBF?RMp@@f@BZLRLFFL@JNn@B\\EnAFNLH\\@HB{@EGK@wACm@GYg@cAE[@w@\\}Ar@qAXo@FQ?OC@D@ADC?DMAOGKA@QKaAHe@CYFKTQHE@QEYP@F@GSDa@QK@Ih@@Ra@d@C?GEMSKNAIP[Lo@Ck@@OPYCEOCKc@KAMDDFC@ECJC@FiB_Ai@OQ@EC?CCFKBMGKQEUAYQq@?DBUG[KKSIe@AQa@IEEDACBAEDIAB@FE?IH@I?DJCDCMPCK?KJJ?DKAP@CGEC[KM?G@Mb@[FOL{@M{@?IDEAA@AEGQg@AWI{@B@?DC?EIASJy@Ra@L]Ha@?Q@CEAAKe@g@KWMk@ISIKAGXUNAJHACGCMDGJSDEC@NG@AGEA@CBA?B@C?LAGC?BDAE@KBF?HGQAQBULQTS@BBId@]FSJIDJDaAPw@Z}@TWHSHW@_@Tk@DWt@qAHACD?KCCH?MF?FPOEPV[Ru@JQXiAZw@JQNC`@WP@JSFCP_@FE?AICBG@AGCIMJGICJIPC@E?CBAACBAEHCCDH?KB@EB?KK?KSLg@AKHaA^eCRQBQXc@Vk@RQXc@@ECCGF?HIJDE@E?FDCVYJUROV_@JUCCMJBCELGDADV[RMAGDS`@_@ZOJYBC",
+"average_heartrate": 81.1,
+"average_speed": 1.0,
+"elevation_gain": 139.0,
+"source": "strava",
+"streak": 4
 }
 ]
