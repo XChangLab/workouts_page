@@ -5694,5 +5694,21 @@
 "elevation_gain": 139.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 20644466964,
+"name": "Yokohama Port Walk",
+"distance": 4710.9,
+"moving_time": "1:20:44",
+"type": "Walk",
+"start_date": "2026-10-19 06:05:06+00:00",
+"start_date_local": "2026-10-19 15:05:06",
+"location_country": "\u767d\u3044\u82b1, \u3055\u304f\u3089\u901a\u308a, Minato Mirai, \u9ad8\u5cf6, \u897f\u533a, \u6a2a\u6ee8\u5e02, \u795e\u5948\u5ddd\u7e23, 231-0017, \u65e5\u672c",
+"summary_polyline": "}skwEedgsYZZ~A`@I`ABGHDH?HFDLRTF\\DHHDXGF?FBFGZALKJDCFNEN?JBBDEBG?FE@KDGNIIAEKCQMUSgB?UK]AJBKADAC?SMmAESC_@Ow@MuAGQ?O@?E?GeAOUEDK?EE?WKWGuABoBBQNUHWFe@JSFq@IOU@OCOIUEFAHK?IKC?CGEs@a@EKCAJ?CD`FV@EGCGDMBe@O?SDI@]@KBABk@LuAKe@SUKIEMDGAa@RY?{@Bc@H_@Bg@?SDF`@EJGAED?JGFC\\WZ]Ze@Nc@ABBCB?Iu@UDO?KCEOIKEc@MWAY@KA[LiACKEESgA?QBKGIDc@OKK]EYEK@@?BCABA?B@CNDLAPFHMLCJOTM`@GXMz@KFEJ?FEXF\\XFJBRRd@]xA]v@Yb@ERX|DFNpAK`@MRAHM?WJa@@WJQ@QJEA@@ABSDMbAUP?p@Wb@UP?x@h@LI\\{@Hg@Rk@f@gA@QKCu@s@o@_@CO?WIY][gAsAuAw@M@KIGMa@QUYi@]_AUMGSSCB@DVLb@\\HCNBFD@DAHGDDC?O?HAGA?BBIE?JAKEGU@UQ_@[?KBIQHMC_CiBKYCSOIGMQSKIWISMMEe@]Q_@]YOUK]CYTBPTJFN\\@JAE?B?Ch@PCM}@g@QU?C@A^@f@Vf@LDHVN\\?LLfAt@LLR\\NJt@Zp@l@FBD^FFJ?ZRb@v@TTh@\\j@f@Xb@LDBFj@\\PDHTNRr@h@`@VTXVRTJTTTLv@t@PDBEB?PN@?f@VHFFX@p@KZa@x@GXFPd@RVZb@NfA|@^NDCPc@Zc@?BLB",
+"average_heartrate": 72.2,
+"average_speed": 0.973,
+"elevation_gain": 40.0,
+"source": "strava",
+"streak": 5
 }
 ]
