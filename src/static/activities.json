@@ -5710,5 +5710,21 @@
 "elevation_gain": 40.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 20656303468,
+"name": "Nikko Hike",
+"distance": 8279.5,
+"moving_time": "2:05:17",
+"type": "Hike",
+"start_date": "2026-10-20 03:25:01+00:00",
+"start_date_local": "2026-10-20 12:25:01",
+"location_country": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053, \u65e5\u5149\u5e02, \u6803\u6728\u7e23, \u65e5\u672c",
+"summary_polyline": "{pl_FwscrY?PM^?~@Et@Ov@ITEBOp@C|@Qv@Gp@W`AQ~A@LGJQCR@FF@GA`ADNBb@ABLA@DNh@Fl@R`@VLpALx@ZPR^LbAHdAOZJz@DpAg@XQZAnB[LBCJNVHKCMBIPGP@t@GFDFEHH@VF@?NDFBVHABVIGIQEWFDKQCOAOLUDCP?LEn@WfBa@\\OfAUxBeBZg@^Q~@aAl@gAdAkAb@oAj@gAJa@Ti@JCv@GTB|@EZD?FF@LCPW\\OTQHK?EJKFh@C@F@LC@CI??EDHANEMBKIKAQ?MJAEEPARB^Kj@[j@Op@INI\\BVH\\GVB?JD@BDZON?LDVSL@ZKH@p@MLJHIF@DJANBD@JENE@MIFHIC?GB?DIP?DIC@BO@DCGFS?XI?F[LE@@GpA@iALAHMPI\\CNHJ@BDAHZBXIZQJ?ZHbAO`@Av@Qn@APKXE`@W`@Er@St@_@|@k@XYZm@|@sAh@mAREj@s@RAb@POREj@KNFXNX?HOQEO?YNQEYBQAUUa@EOBQVk@LEB_@HET?RINOLWZ[FSC@CABH?GHG@IEO_@MQ[SQM]cASq@e@KSWYUa@O_ADeAMcBCkAKiA?q@Dg@IeAa@y@Wc@Mg@Ge@E_BPcC\\aALMZRDALy@\\o@XOd@OHCFDDADGI?OF?JZA@EE@GGFf@BCGEB@?CFBCGDDIDK@IHBHADHONAM@BPG[IOAUDA|@Il@Ab@Gf@DNCbAEn@HPCVQ~@[RAXQl@QNBtAh@XFNGP_@A_BNkAXm@TQHOv@oBFq@X_A`@wBD{@?_AFm@?SFm@AWHg@Tu@x@{AbCeCl@gANQ|@i@VUVu@DWTm@PQxAcC`@c@Xo@z@mAb@_APWDWp@eBLMt@iAl@uAZ]Tg@Po@Da@f@s@DQ\\u@\\eAJSNg@d@eC@_BCkAEq@?aA^}@Va@p@_Af@e@Zo@r@aAf@}ATg@X_@DQBy@Cq@Ku@@u@CML{BFi@BENCV]H[BBCECg@Ls@?k@JM@GEY?{BEe@B]C_B@_@Gq@@WLSBQG]O]@QWgD[}BG]IoACS@UGm@A]B_@V{@`@eAFWJs@?WHe@ZaADU@a@b@yBP_@Ny@Fm@`@wB?OTw@Ha@Bo@XwB@{BIwBHe@AQ",
+"average_heartrate": 87.5,
+"average_speed": 1.101,
+"elevation_gain": 71.0,
+"source": "strava",
+"streak": 6
 }
 ]
