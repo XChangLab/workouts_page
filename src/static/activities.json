@@ -5726,5 +5726,21 @@
 "elevation_gain": 71.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 20712391217,
+"name": "MyWhoosh - Jabel Hafeet",
+"distance": 9208.7,
+"moving_time": "0:35:05",
+"type": "VirtualRide",
+"start_date": "2026-10-24 12:09:09+00:00",
+"start_date_local": "2026-10-24 20:09:09",
+"location_country": "\u5e03\u8cf4\u7c73, \u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0633\u0646\u064a\u0646\u0629, \u5e03\u8cf4\u7c73\u7701, \u963f\u66fc",
+"summary_polyline": "esvqCgehsIgAe@e@Y_@]Y]Sk@Mq@YwCQu@MUeAqAWGq@AUMMUIs@IYGIaA}@k@o@]g@_@u@Sg@Ok@Ik@AU?s@Fs@ZyAXy@Ve@nNaTxAaC|ByC|@cAx@s@r@a@f@UjBq@tA]hB_@|GeAdASvAc@p@]^Wx@{@v@sAr@gBfAwCh@iAd@u@f@q@h@k@zDkDb@c@VYv@eAp@oA`@aAR_AD{@?oAUqIQwJGcAMo@S_@c@g@iA}@a@Se@MSC}@G{@DoATwHfCcAVcBPcADyACmE_@kBKcCAs@Dw@Lg@Pe@Va@`@[f@Ul@y@`DMBgA_@_C_A}@g@o@i@Q[Um@a@eCKa@Wk@KKYS]M_AMo@Aq@@oCP_AC_AMkA]iAa@uI_DeBq@}@m@q@o@]a@]k@q@wAu@cAOo@O]{AqB[YsAcAg@UWGw@A{@PWBMAWIUSc@uAUe@iCwDSa@Ki@Eu@@s@H{@?YIa@W]SMWGY?_@FQJQRc@~@KNKHQFWBc@IMKMQMc@?e@Ja@f@s@L[FW?SI_@m@oAEYAWJ_@j@o@PYHS@YAYIUS_@}AmBOMSGw@Ka@KUOOWG[?g@VqBb@uCCc@K]OWOQa@Qi@KYOU[E_@Dc@JSNQNGNGf@CzB?PAXKNMLSH_@@YCSKY]o@uGcJMQ[Qc@Ga@BOH[VM\\Ef@B`@DJLVRRb@Nz@FVHVPL^B`@I`@KPYRa@H_CQ_A@g@LMFUVKREh@Ff@~AnEHXDV?TETQXSPQB]A[MMKGKSiAOi@ISq@cA_CsCk@cA",
+"average_heartrate": 142.6,
+"average_speed": 4.375,
+"elevation_gain": 305.0,
+"source": "strava",
+"streak": 1
 }
 ]
