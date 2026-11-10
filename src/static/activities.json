@@ -5854,5 +5854,21 @@
 "elevation_gain": 400.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 20920456121,
+"name": "MyWhoosh - IntervalCoach - Sweet Spot Surges",
+"distance": 13435.5,
+"moving_time": "0:25:28",
+"type": "VirtualRide",
+"start_date": "2026-11-09 13:38:50+00:00",
+"start_date_local": "2026-11-09 21:38:50",
+"location_country": "Eichenweg, T\u00fcfi, Adliswil, Bezirk Horgen, \u8607\u9ece\u4e16\u5dde, 8134, \u745e\u58eb",
+"summary_polyline": "iey_H{uas@BmAX_GAeBMcAIc@_@eAk@eAw@{@_@U_@OQEu@CyH?MEEQ?}RE}BE_AYoCM{@YmAKe@_@gA[q@]o@y@eAq@k@mAw@mB}@aBo@aD_A{Bm@aJwBuBw@kAo@y@k@w@o@cAgA_AoAk@aAu@yAo@}AsByF_AaCOm@HSJOnI_Jz@s@n@_@p@[r@WtA]bAQtAM~@En@@pFPvBBfAEx@Ih@K`AUbBk@dBs@bEuBxCeBhAu@f@e@pCcDj@i@|@g@t@U\\Gj@El@Bl@Jz@\\h@^j@b@|DbEbBxAj@b@~@f@`A`@tA^dAPdAFfA@t@EfAOp@OlAc@hAk@t@g@d@c@x@cA^k@b@_Ab@eAp@{B\\}A\\sB^}CV_DNkEDaD?{GEcDMgD]wE_@iC]wAo@gBa@w@q@aAcBaBiA{@kAs@_Ac@oAg@sAa@eASeAQiAIw@EmA@wBJeBLgEh@aBXqBd@eD~@kCdAsAn@_IjE_Ab@MKmBiKIo@GiADo@ReATg@hA{Bb@iA\\sAL}@HcA@a@AcAEa@UaBc@sA[q@m@}@q@o@u@c@c@Ou@QqDa@u@M_@Kq@Y}CkBcB}@gAe@u@Uw@Qe@Gu@Au@Da@Ho@Vg@\\o@l@eBpBg@d@m@\\UH]Dk@Ae@OmAm@kDyBmBeAqAo@u@UgAWw@Ee@Bu@Ls@Po@Tq@\\k@`@i@h@g@n@k@fAQh@W~@S|Ac@tEe@jGeFbv@En@Kn@Oj@ITUb@[ZOHo@Vq@Ha@G]OsBsAi@[_@M[G_@?_@D]Nw@h@u@r@oEpFeAdAuB`BcFdDKNBVrIb_@rAdGnJ`i@z@fFPx@Vt@b@z@VRLDZC~FcBLALBFNFz@?hBGpFGrMCNILSN_BPc@HKFILER@h@NtANnBLlBFlBHhFCjF",
+"average_heartrate": 143.9,
+"average_speed": 8.793,
+"elevation_gain": 34.0,
+"source": "strava",
+"streak": 1
 }
 ]
