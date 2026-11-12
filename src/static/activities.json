@@ -5886,5 +5886,21 @@
 "elevation_gain": 66.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 20946389491,
+"name": "MyWhoosh - IntervalCoach - 3x3 Threshold Over-Unders",
+"distance": 20987.8,
+"moving_time": "0:45:28",
+"type": "VirtualRide",
+"start_date": "2026-11-11 12:14:08+00:00",
+"start_date_local": "2026-11-11 20:14:08",
+"location_country": "Montlay-en-Auxois, Montbard, C\u00f4te-d'Or, Bourgogne-Franche-Comt\u00e9, \u6cd5\u570b\u672c\u571f;\u6cd5\u56fd\u672c\u571f, 21210, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "cuy_H_z{XiEEQSu@iD]]iJB_@\\QhADnATl@THdJCZb@LlAInAO^YPqIF[CSScAgEc@UqGTuIx@gBBuAM{CcAsDm@gHo@iFMmETkHpBsANm@Im@m@Mm@C_@P{@j@a@hB?l@]d@g@^q@j@oB\\iEAeDg@iDcB{FSc@u@q@Og@?ULg@n@cAPcBrEaKlDwFl@o@z@c@xAKvAd@|BpBz@bBRvAEf@SXe@CeA_Ay@Eu@j@Wn@Kv@Bt@Jn@h@dA~AdAzATp@Op@e@lAsBVgBUeGHcA`@uArAmBzCaBt@UhBObHAv]pEdCJpACnA[fBeArPcNp@S\\FXTn@nAt@hCfBnIz@hCzAnDlCxE|@z@j@Px@K~@y@t@}A~A{EfAyAh@c@fC{ArB}@pFeBzB_@bIW|QgB~BGvAHx@b@xD`GnC`DnEbDnBr@x@O\\i@dCkMNUxH|Dr@l@Xr@Aj@a@f@yERu@No@ZQXMn@?b@TpAIdAa@v@m@d@g@LiA?_GoAcB@gAr@gBzD[Vk@P}AMuAu@u@cAoBaEiBiBeAm@y@Wk@Ci@Hi@Zc@n@U|@_@~Bc@h@e@T_BRaBAqEcAo@Hu@b@_AtAQz@CxBWh@w@f@iDtA{@p@s@bAYz@O`A@fAR~@b@d@vDz@tAvAZp@Pz@CjCHlATj@`@XjBPrGW`BXx@f@p@z@Pr@NzBb@ZrBD`CMpAc@jCeBhASbAAlBXnDhA~BrAx@|@\\t@Hn@@~BSjE{@lIGfDPrAJP^Nd@GNMVs@BcAIcA[{@UU}AQ}@Lw@Zy@v@S^Wr@Mv@Az@J|@Tx@X^`Ab@fBPxAArA]jA_Ap@gA^_BFiAGiAe@{Ay@}@uAe@iBCyBXaCv@gBdAmBdBqGvHwEjEmAhB}AhDm@rBqAbGgAjCiEhE_MrKwDBa@UYi@YuAG{@Pw@~@aAVm@NsBSqCo@oByK}QCm@RoBE{Ak@}Aw@i@iAA]Ne@f@Yv@M~@?bAThBKf@mRd[]Lg@[mCoFcBcESkAReArBkC`A_Bb@qAJkAQqPD_^MKyRBYSu@aD_@i@oJDYVSpABbATr@ZLvIG`@^PpAKrA]j@uIJ[?WScAiEe@WwFP{J|@uABcBO{CcAqDk@qGm@iFOuFZ_EnAoB`@",
+"average_heartrate": 146.0,
+"average_speed": 7.693,
+"elevation_gain": 180.0,
+"source": "strava",
+"streak": 3
 }
 ]
