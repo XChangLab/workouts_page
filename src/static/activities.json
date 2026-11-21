@@ -5966,5 +5966,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 21063344513,
+"name": "Morning Ride",
+"distance": 6721.2,
+"moving_time": "0:17:35",
+"type": "Ride",
+"start_date": "2026-11-20 21:30:54+00:00",
+"start_date_local": "2026-11-21 05:30:54",
+"location_country": "\u53ef\u4e50\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "wkn}DmcucVh@K|@Gd@AjAOfCMzE_@jAGpBQzAGjAMNFFP@Hi@bLChBJh@LZ\\^ZRf@PdAZ\\BvDe@~AO|@MhAIhDO|BQ~BCFBBD@RBjAAFARRfBNZ\\XFRDTBb@D`DDVJRNHR?zAIpA?x@GvA?dAE|@DfB^RJh@d@Vf@fBfCn@fAJTHXHfALxT@HJPZN~AFdBA|E@|EItBIzAO~Be@xFoBRERDDRBpBDh@LVZVd@HxADnAEzEGf@E^KtAw@~@o@fBu@rAa@vAs@FAJD`E~F`DdEr@dAf@|@Zb@Z`@^Zb@j@`BzBd@z@Xb@r@~@`AfAfDhF^lA~@`Bh@\\NRVb@Zp@bCbEh@hA~@hA|AjCj@hAj@|@\\r@z@fAfBvC`ApBlAlDXl@t@nBVbA|@hCT`AfAlD`@~AVxATtCDxA@`BShDI|@I^Q`@WxBU|@k@zAq@rA",
+"average_heartrate": 111.9,
+"average_speed": 6.371,
+"elevation_gain": 9.0,
+"source": "strava",
+"streak": 1
 }
 ]
