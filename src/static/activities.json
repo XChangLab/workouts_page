@@ -6014,5 +6014,21 @@
 "elevation_gain": 9.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 21107144162,
+"name": "MyWhoosh - 4 x 10 Min Strength Efforts",
+"distance": 32003.7,
+"moving_time": "1:04:16",
+"type": "VirtualRide",
+"start_date": "2026-11-24 12:12:44+00:00",
+"start_date_local": "2026-11-24 20:12:44",
+"location_country": "\u0645\u0636\u0645\u0627\u0631 \u0647\u062c\u0646 \u0628\u0627\u0644\u0648\u062b\u0628\u0629, \u0627\u0644\u0648\u064e\u062b\u0652\u0628\u064e\u0629, \u0623\u0628\u0648\u0638\u0628\u064a, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd;\u963f\u5e03\u9054\u6bd4\u5927\u516c\u570b, \u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b;\u963f\u62c9\u4f2f\u806f\u5408\u914b\u9577\u570b",
+"summary_polyline": "kaxrCytcmImEa@sBKsCC_EFmCIsD[oKoAmL_BkMmBmJoAmEq@eFaAgLgCgHwAM@IF]`@MXG\\@j@Vz@HHfPv@jEZxDj@xCl@z@Tz@X`Aj@tAjArBvAzCnBnF`DfBlAhDtCdE`EfEhE|CtCdCfBrAp@vAj@tQlFhAXdBXxCV~BBtAIhBQx@QdAc@d@]`@c@n@aAp@wAjCsH`A{C|@aEVuBAa@Qo@Q[c@_@{@UkCW}K{AcMsAeCSyBI{A?yCFyBCeE[}LuAuIkAgNuB}P_CoFaA{NcD_Do@gBYKF_@b@Sj@?n@Nn@N\\hPv@tE\\bC\\pDr@nAZz@ZdAn@fBvA|AdAnD|BnEjCxBxAdBvA`BzAtKtKnBfBrBzAn@^lCjAnAb@bPrEvAZtARdDT`B?|CWl@Gx@Ut@_@z@s@p@aA`AsBzBsGtAmEj@oCRsAFq@Ca@Qo@]g@e@Y]I{C[yMgBeLmAsEWaHFiCIsDY_LqAuIkAuO_C_PyBmGkAcLgCeHuAMAa@`@QXI\\?p@V~@JHxPx@dDVbCX~AZ~Cn@lA^rAv@~@x@hBpApD|BjF~CvBxAxDfD|MvMnB`B~AdAbBx@lAb@hBh@`NzDt@PxB^|ANnAF`B?vAIfBSx@Qv@]p@e@j@o@|@aBVm@rCaIdAmDl@oCVcB?s@Ea@M]S[WUy@WyDc@sOsBmIy@gCQkAE{A?gDFyBEcEYyH{@{Fs@qWyDqNoBaF}@cQwD}Dw@O?i@n@Qj@CNB^V~@JJhPt@dEZrBV`BZ~Cp@lA^v@b@hBvAvBzAbDrB|EtCvBxAfDtCrNlNbBvAfAr@nBbArBv@|P~EbB^rAPvCT`B?bDUz@MfA]r@c@`@_@p@aAr@uArCaIlA{Dl@qCRsAFq@?QGa@K]Q[UW[Q]I}AMeQ_CyJcAsEWaHFgCIaFa@iHy@iGy@}RwC}P_CoFaAuPuD_Eu@MAMF_@d@Qh@C^F^Rn@FLNBfNl@fGb@bC\\pB^lCn@|@Zv@b@`CjB|AdAfC`BhF|CbD|BzBnBrClClFpFhCdCxAjA~AdAbBx@pC|@zOrExB`@nAN|BNzA?nAG`BObAQ`A_@x@m@n@y@~@gBxCmIjAyDl@qCVgB@_@A]Oi@c@o@UOYKg@KoBQePwBmI{@}BQaCK{GFeBEcBKcMsAsHcA",
+"average_heartrate": 135.1,
+"average_speed": 8.3,
+"elevation_gain": 38.0,
+"source": "strava",
+"streak": 1
 }
 ]
